@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'Solutions Blog'
 export const SITE_DESCRIPTION = 'A blog for many topics'
-export const HOMEPAGE_URL = ''
+export const HOMEPAGE_URL = 'https://www.solutions-blog.tech/'
