@@ -1,4 +1,5 @@
 ---
+import GoogleAnalytics from './GoogleAnalytics.astro'
 // Import the global.css file here so that it is included on
 // all pages through the use of the <BaseHead /> component.
 
@@ -10,8 +11,13 @@ export interface Props {
 
 const { title, description, image = '/cover.jpg' } = Astro.props
 ---
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4228410074295883"
-     crossorigin="anonymous"></script>
+
+<GoogleAnalytics />
+<script
+  async
+  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4228410074295883"
+  crossorigin="anonymous"
+></script>
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
