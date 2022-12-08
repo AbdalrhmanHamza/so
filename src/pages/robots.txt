@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://www.solutions-blog.tech/sitemap.xml 
