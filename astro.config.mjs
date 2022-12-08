@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config'
-import partytown from "@astrojs/partytown";
+import partytown from '@astrojs/partytown'
 import sitemap from '@astrojs/sitemap'
 import react from '@astrojs/react'
 import image from '@astrojs/image'
@@ -12,14 +12,12 @@ export default defineConfig({
   integrations: [
     sitemap(),
     react(),
-    integrations: [
-      partytown({
-        // Adds dataLayer.push as a forwarding-event.
-        config: {
-          forward: ["dataLayer.push"],
-        },
-      }),
-    ],
+    partytown({
+      // Adds dataLayer.push as a forwarding-event.
+      config: {
+        forward: ['dataLayer.push']
+      }
+    }),
     image({
       serviceEntryPoint: '@astrojs/image/sharp'
     }),
