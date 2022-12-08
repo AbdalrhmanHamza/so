@@ -1,8 +1,8 @@
 ---
-description: Mercedes cars price in USA 2022
+description: Mercedes Benz cars price in USA 2022
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Mercedes cars price in USA 2022
+title: Mercedes Benz cars price in USA 2022
 createdAt: 06 Dec 2022
 updatedAt: 06 Dc 2022
 tags:
