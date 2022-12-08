@@ -35,7 +35,7 @@ slug: free-vpn-apps
 
 </br>
 
-![free-vpn-turbovpn.png](/posts/free-vpn-turboimage.jpg)
+![turbovpn](/posts/free-vpn-turboimage.jpg)
 
 </br>
 
