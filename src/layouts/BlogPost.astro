@@ -1,4 +1,5 @@
 ---
+import GoogleAnalytics from '../components/GoogleAnalytics.astro'
 import BaseHead from '../components/BaseHead.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
@@ -25,22 +26,7 @@ const {
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- Google tag (gtag.js) -->
-    <script
-      async
-      type="text/partytown"
-      src="https://www.googletagmanager.com/gtag/js?id=G-3HV9XKE9BW"
-    ></script>
-    <script type="text/partytown">
-      window.dataLayer = window.dataLayer || []
-      function gtag() {
-        dataLayer.push(arguments)
-      }
-      gtag('js', new Date())
-
-      gtag('config', 'G-3HV9XKE9BW')
-    </script>
-
+    <GoogleAnalytics />
     <BaseHead title={title} description={description} image={heroImage} />
   </head>
 
