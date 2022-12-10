@@ -141,13 +141,13 @@ slug: free-vpn-apps
 
 </br>
 
+&nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220.
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 price **33,950$** dollars.
+</br>
 &nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220 4MATIC.
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 price **41,000$** dollars.
-</br>
-&nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220 4MATIC.
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 price **41,000$** dollars.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 4MATIC price **35,950$** dollars.
 </br>
 &nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220 4MATIC.
 </br>
