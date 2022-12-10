@@ -147,12 +147,6 @@ slug: free-vpn-apps
 </br>
 &nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220 4MATIC.
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 4MATIC price **35,950$** dollars.
-</br>
-&nbsp;&nbsp; 1 - 2022 Mercedes-Benz A-Class A 220 4MATIC.
-</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A 220 price **41,000$** dollars.
-</br>
 
 ---
 
@@ -166,9 +160,9 @@ slug: free-vpn-apps
 
 </br>
 
-&nbsp;&nbsp; 1 - E 300 2022.
+&nbsp;&nbsp; 1 - E 350 Sedan 2022.
 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - E 300 price **65.000$** dollars.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - E 350 sedan price starts from **54,950$** dollars.
 </br>
 &nbsp;&nbsp; 2 - E 350 2023.
 </br>
