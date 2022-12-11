@@ -45,7 +45,7 @@ slug: best-google-chrome-extensnions
 
 Copyfish extension is one of the best extensions for Google Chrome this extension allows you to copy text from videos or images on your browser. to do this just click on extension and select the text you want to copy and it will export the text to extension popup you can copy it or translate on google translate.
 
-Donwload from **<a href="https://turbovpn.com/" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
+Donwload from **<a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
 
 </br>
 
@@ -117,7 +117,7 @@ Donwload from **<a href="https://chrome.google.com/webstore/detail/wappalyzer-te
 
 ColorZilla is an extension for color picker and you can get color of any element in web page using select it. this extension have more than **3 million** downloads.
 
-Donwload from **<a href="https://turbovpn.com/" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
+Donwload from **<a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
 
 </br>
 
