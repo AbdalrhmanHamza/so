@@ -93,7 +93,7 @@ Donwload from **<a href="https://chrome.google.com/webstore/detail/google-transl
 
 </br>
 
-![wappalyzer](/posts/Wappalyzer.jpg)
+![wappalyzer](/posts/wappalyzer.jpg)
 
 </br>
 
