@@ -172,6 +172,6 @@ Donwload from **<a href="https://chrome.google.com/webstore/detail/readme-text-t
 
 This extension is designed for deigners and casual users requiring high quality screen recording and screedshot capitalize.
 
-Donwload from **<a href="https://turbovpn.com/" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
+Donwload from **<a href="https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
 
 </br>
