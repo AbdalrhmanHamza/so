@@ -13,6 +13,32 @@ slug: best-google-chrome-extensnions
 
 </br>
 
+## <center>article sections </center>
+
+</br>
+
+[1. Copy fish](#1-copyfish)
+
+[2. Grammarly](#2-grammarly)
+
+[3. Google translate](#3-google-translate)
+
+[4. Wappalyzer - Technology profiler](#4-wappalyzer---technology-profiler)
+
+[5. ColorZilla](#5-colorzilla)
+
+[6. GIPHY for Chrome](#6-giphy-for-chrome)
+
+[7. Readme](#7-readme)
+
+[8. Awesome Screenshot](#8-awesome-screenshot)
+
+</br>
+
+---
+
+</br>
+
 ## 1. Copyfish
 
 </br>
