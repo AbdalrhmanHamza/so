@@ -1,5 +1,5 @@
 ---
-description: the best google chrome extensions will make your life easy. here are ten chrome extensions for your browser.
+description: the best google chrome extensions will make your life easy. here are eight chrome extensions for your browser.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Best 8 Google Chrome Extensions
