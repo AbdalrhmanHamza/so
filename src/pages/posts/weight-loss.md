@@ -7,6 +7,6 @@ createdAt: 15 Dec 2022
 updatedAt: 15 Dc 2022
 tags:
   - Fitness
-heroImage: /posts/chrome-extensnions-hero.jpg
+heroImage: /posts/weight-loss-fitness.jpg
 slug: best-google-chrome-extensnions
 ---
