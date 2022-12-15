@@ -1,5 +1,5 @@
 ---
-description: the best google chrome extensions will make your life easy. here are eight chrome extensions for your browser.
+description: Tips will help you to loss weigth quickly.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Tips to loss weigth quickly
@@ -8,5 +8,5 @@ updatedAt: 15 Dc 2022
 tags:
   - Fitness
 heroImage: /posts/weight-loss-fitness.jpg
-slug: best-google-chrome-extensnions
+slug: weight-loss-fitness
 ---
