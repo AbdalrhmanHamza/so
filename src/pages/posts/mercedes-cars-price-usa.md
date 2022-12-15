@@ -8,7 +8,6 @@ updatedAt: 06 Dc 2022
 tags:
   - cars
   - cars-prices
-  - usa-cars
 heroImage: /posts/mercedes-cars-price-in-usa.jpg
 slug: free-vpn-apps
 ---

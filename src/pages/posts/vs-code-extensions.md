@@ -7,7 +7,6 @@ createdAt: 08 Dec 2022
 updatedAt: 08 Dec 2022
 tags:
   - VSCode
-  - themes
 heroImage: /posts/best-vs-code-themes-heroimage.jpg
 slug: best-vs-code-themes
 ---
