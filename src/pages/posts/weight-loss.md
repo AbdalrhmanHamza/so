@@ -1,10 +1,10 @@
 ---
-description: Tips will help you to loss weigth quickly.
+description: here is Tips that will help you to lose weight quickly.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Tips to loss weigth quickly
+title: Tips to lose weight quickly
 createdAt: 15 Dec 2022
-updatedAt: 16 Dec 2022
+updatedAt: 15 Dec 2022
 tags:
   - Fitness
 heroImage: /posts/weight-loss-fitness.jpg
