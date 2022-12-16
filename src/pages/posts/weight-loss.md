@@ -1,5 +1,5 @@
 ---
-description: here is Tips that will help you to lose weight quickly.
+description: here are Tips that will help you to lose weight quickly.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Tips to lose weight quickly
