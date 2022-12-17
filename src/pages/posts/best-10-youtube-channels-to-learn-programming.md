@@ -1,5 +1,5 @@
 ---
-description: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+description: best 10 youtube channels to learn programming in 2022
 public: true
 layout: ../../layouts/BlogPost.astro
 title: best 10 youtube channels to learn programming
