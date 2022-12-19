@@ -28,8 +28,21 @@ this bot can help you to follow or send messages to any instagram user or upload
 
 ---
 
+</br>
+
 first we need to install instabot package
 
 ```pip
 pip install instabot
+```
+
+now first step we need to import instabot in python file and loging in instagram using username and password.
+
+```python
+from instabot import Bot
+
+bot = Bot()
+
+# Login
+bot.login(username="your_userid", password="your_password")
 ```
