@@ -12,3 +12,6 @@ slug: how-to-make-instagram-bot-using-python-and-instabot
 ---
 
 </br>
+
+in this post i will show you how to make an instagram bot using python and instabot.
+this bot can help you to follow or send messages to any instagram user or upload photos to instagram.
