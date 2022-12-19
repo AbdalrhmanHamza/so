@@ -27,3 +27,9 @@ this bot can help you to follow or send messages to any instagram user or upload
 7 - make like on chat. </br>
 
 ---
+
+first we need to install instabot package
+
+```pip
+pip install instabot
+```
