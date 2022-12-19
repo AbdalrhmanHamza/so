@@ -6,7 +6,7 @@ title: Best 8 Google Chrome Extensions
 createdAt: 11 Dec 2022
 updatedAt: 11 Dc 2022
 tags:
-  - google-chrome-extensions
+  - extensions
 heroImage: /posts/chrome-extensnions-hero.jpg
 slug: best-google-chrome-extensnions
 ---

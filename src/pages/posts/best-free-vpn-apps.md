@@ -6,9 +6,7 @@ title: Most speed free vpn apps
 createdAt: Sat, 03 Dec 2022
 updatedAt: Sat, 03 Dc 2022
 tags:
-  - vpn
   - apps
-  - free-apps
 heroImage: /posts/free-vpn-apps.png
 slug: free-vpn-apps
 ---
