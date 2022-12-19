@@ -36,7 +36,9 @@ first we need to install instabot package
 pip install instabot
 ```
 
-now first step we need to import instabot in python file and loging in instagram using username and password.
+</br>
+
+now first step we need to import instabot in python file and login in instagram using username and password.
 
 ```python
 from instabot import Bot
@@ -44,5 +46,9 @@ from instabot import Bot
 bot = Bot()
 
 # Login
-bot.login(username="your_userid", password="your_password")
+bot.login(username="your_username", password="your_password")
 ```
+
+</br>
+
+## Follow accounts
