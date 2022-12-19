@@ -25,3 +25,5 @@ this bot can help you to follow or send messages to any instagram user or upload
 5 - Get number of followers for any instagram account. </br>
 6 - Post photos. </br>
 7 - make like on chat. </br>
+
+---
