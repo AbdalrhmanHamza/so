@@ -16,14 +16,12 @@ slug: how-to-make-instagram-bot-using-python-and-instabot
 in this post, i will show you how to make an instagram bot using python and instabot.
 this bot can help you to follow or send messages to any instagram user or upload photos to instagram.
 
-Functions performed by the bot
+**this bot fucntions**
 
-- Follow one or more of friends.
-
-* Unfollow one or a list of persons.
-
-- Unfollow everyone.
-- Count the number of followers of any user.
-- Send messages to followers or a list of followers.
-- Send like on chat.
-- Post photos.
+1 - Follow one or list of accounts. </br>
+2 - Unfollow one or a list of accounts. </br>
+3 - Unfollow everyone. </br>
+4 - Send messages to followers or a list of followers. </br>
+5 - Get number of followers for any instagram account. </br>
+6 - Post photos. </br>
+7 - make like on chat. </br>
