@@ -1,5 +1,5 @@
 ---
-description: How to make instagram bot using python and instabot in five lines of code.
+description: How to make an instagram bot using python and instabot in five lines of code.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: How to make instagram bot using python and instabot?
