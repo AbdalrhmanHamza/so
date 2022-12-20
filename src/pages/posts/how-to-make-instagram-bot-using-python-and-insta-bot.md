@@ -3,8 +3,8 @@ description: How to make instagram bot using python and instabot in five lines o
 public: true
 layout: ../../layouts/BlogPost.astro
 title: How to make instagram bot using python and instabot?
-createdAt: 19 Dec 2022
-updatedAt: 19 Dc 2022
+createdAt: 20 Dec 2022
+updatedAt: 20 Dc 2022
 tags:
   - Python
 heroImage: /posts/python-instabot-how.jpg
