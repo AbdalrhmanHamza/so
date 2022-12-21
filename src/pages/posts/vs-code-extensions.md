@@ -1,5 +1,6 @@
 ---
 description: Make your VS Code beautiful and easy to read.
+keywords: vscode, visuals
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Best VS code themes

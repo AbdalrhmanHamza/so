@@ -1,5 +1,6 @@
 ---
 description: Mercedes Benz cars price in USA 2022
+keywords: cars, price, carsprice, mercedes,mercedesprice, mercedescarsprice, mercedesbenz,
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Mercedes Benz cars price in USA 2022
