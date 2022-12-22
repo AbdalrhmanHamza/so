@@ -1,6 +1,6 @@
 ---
 description: How to make an instagram bot using python and instabot in five lines of code.
-keywords: python, programming, instabot, instagrambot, insta, instagram, promotemesages, tutorials, bot
+keywords: python, programming, instabot, insta bot, instagram bot, insta, instagram, promote messages, tutorials, bot
 public: true
 layout: ../../layouts/BlogPost.astro
 title: How to make an instagram bot using python and instabot?
