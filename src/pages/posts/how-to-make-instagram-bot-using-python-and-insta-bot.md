@@ -29,7 +29,7 @@ this bot can help you to follow or send messages to any instagram user or upload
 
 [5 - Get number of followers for any instagram account.](#get-number-of-followers) </br>
 
-[6 - Post photos.](#get-number-of-followers) </br>
+[6 - Post photos.](#post-photo) </br>
 
 [7 - send like on chat.](#send-like-message-on-chat) </br>
 
@@ -252,6 +252,8 @@ bot.upload_photo("imagename.jpg", caption="Write caption here.")
 </br>
 
 ## Send like message on chat
+
+</br>
 
 To send like message on chat make list of the users then using "send_like()" function. The bot will
 send the like message to according users in the list you create.
