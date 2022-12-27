@@ -29,17 +29,12 @@
       <i class="fab fa-whatsapp"></i>
     </a>
   </div>
-
-  <script is:inline>
+  <script is:inline type="module" hoist>
     const facebookBtn = document.querySelector('.facebook-btn')
     const twitterBtn = document.querySelector('.twitter-btn')
     const pinterestBtn = document.querySelector('.pinterest-btn')
     const linkedinBtn = document.querySelector('.linkedin-btn')
     const whatsappBtn = document.querySelector('.whatsapp-btn')
-
-    console.log(postTitle)
-    console.log(postUrl)
-    console.log(postImg)
 
     function init() {
       const pinterestImg = document.querySelector('.pinterest-img')
@@ -47,6 +42,10 @@
       let postUrl = encodeURI(document.location.href)
       let postTitle = encodeURI(document.title)
       let postImg = encodeURI(pinterestImg.src)
+
+      console.log(postTitle)
+      console.log(postUrl)
+      console.log(postImg)
 
       facebookBtn.setAttribute(
         'href',
