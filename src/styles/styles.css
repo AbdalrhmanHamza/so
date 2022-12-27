@@ -74,10 +74,10 @@ img {
 } */
 blockquote {
   background-color: #1d69b146;
-  border-left: 6px solid #2195f3;
+  border-left: 6px solid #0085f2;
   margin-bottom: 15px;
   padding: 0px 12px;
-  border-radius: 5px;
+  border-radius: 0.25rem;
   margin-top: 15px;
 }
 
