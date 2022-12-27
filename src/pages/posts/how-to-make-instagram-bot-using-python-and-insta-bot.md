@@ -33,7 +33,7 @@ this bot can help you to follow or send messages to any instagram user or upload
 
 [7 - send like on chat.](#send-like-message-on-chat) </br>
 
-[Important Note](#important-note-if-you-find-config-folder-delete-it-to-make-code-work) </br>
+[Important Note](#note) </br>
 
 ---
 
@@ -272,6 +272,8 @@ bot.send_like(list_of_user_to_send)
 
 </br>
 </br>
+
+## Note
 
 > **important Note:** if you find **config folder** Delete it to make code work
 
