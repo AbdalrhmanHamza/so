@@ -85,13 +85,12 @@ blockquote p {
   padding: 10px;
 }
 ul {
+  margin: 15px;
+  font-size: 1.5rem;
   list-style: disc;
 }
 ol {
-  list-style: decimal;
-}
-li {
   margin: 15px;
   font-size: 1.5rem;
-  margin: 15px;
+  list-style: decimal;
 }
