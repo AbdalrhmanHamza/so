@@ -73,8 +73,8 @@ img {
   max-width: 62rem;
 } */
 blockquote {
-  background-color: #1d69b146;
-  border-left: 6px solid #0085f2;
+  background-color: rgba(0, 133, 242, 0.1);
+  border-left: 4px solid #0085f2;
   margin-bottom: 15px;
   padding: 0px 12px;
   border-radius: 0.25rem;
