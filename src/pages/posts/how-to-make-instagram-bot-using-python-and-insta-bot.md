@@ -273,7 +273,7 @@ bot.send_like(list_of_user_to_send)
 </br>
 </br>
 
-> **important Note:** if you find config folder Delete it to make code work
+> **important Note:** if you find **config folder** Delete it to make code work
 
 ## **important Note if you find config folder Delete it to make code work**
 
