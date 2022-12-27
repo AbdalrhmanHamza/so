@@ -101,16 +101,16 @@ const {
       const linkedinBtn = document.querySelector('.linkedin-btn')
       const whatsappBtn = document.querySelector('.whatsapp-btn')
 
-      console.log(postTitle)
-      console.log(postUrl)
-      console.log(postImg)
-
       function init() {
         const pinterestImg = document.querySelector('.pinterest-img')
 
         let postUrl = encodeURI(document.location.href)
         let postTitle = encodeURI(document.title)
         let postImg = encodeURI(pinterestImg.src)
+
+        console.log(postTitle)
+        console.log(postUrl)
+        console.log(postImg)
 
         facebookBtn.setAttribute(
           'href',
