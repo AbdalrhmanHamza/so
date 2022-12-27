@@ -275,8 +275,6 @@ bot.send_like(list_of_user_to_send)
 
 > **important Note:** if you find **config folder** Delete it to make code work
 
-## **important Note if you find config folder Delete it to make code work**
-
 </br>
 
 ![config-file](config-insta-bot.png)
