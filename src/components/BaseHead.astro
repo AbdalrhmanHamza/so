@@ -69,6 +69,18 @@ const {
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 
+<!-- reactions -->
+<script
+  src="https://platform-api.sharethis.com/js/sharethis.js#property=63ab5de365735e001232dc0a&product=inline-reaction-buttons&source=platform"
+  async
+></script>
+
+<!-- share -->
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
+/>
+
 <script is:inline>
   const theme = (() => {
     if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
