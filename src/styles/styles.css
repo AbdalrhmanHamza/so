@@ -84,3 +84,13 @@ blockquote {
 blockquote p {
   padding: 10px;
 }
+ul {
+  margin: 15px;
+  font-size: 1.5rem;
+  list-style: disc;
+}
+ol {
+  margin: 15px;
+  font-size: 1.5rem;
+  list-style: decimal;
+}
