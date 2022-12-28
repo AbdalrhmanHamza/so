@@ -10,7 +10,7 @@ export default class Comments extends Component {
     scriptEl.setAttribute('src', 'https://utteranc.es/client.js')
     scriptEl.setAttribute('crossorigin', 'anonymous')
     scriptEl.setAttribute('async', true)
-    scriptEl.setAttribute('repo', 'AbdalrhmanHamza/solutions')
+    scriptEl.setAttribute('repo', 'AbdalrhmanHamza/so')
     scriptEl.setAttribute('issue-term', 'url')
     scriptEl.setAttribute('theme', 'github-light')
     this.commentBox.current.appendChild(scriptEl)

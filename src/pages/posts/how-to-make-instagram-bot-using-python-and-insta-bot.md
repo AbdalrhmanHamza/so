@@ -225,7 +225,7 @@ click on **Resize** and choose to Resize by pixels then set Horizontal and verti
 **Like this
 photo**.
 
-![paint tutuorial](paint.png)
+![paint tutuorial](/posts/paint.png)
 
 </br>
 
@@ -279,7 +279,7 @@ bot.send_like(list_of_user_to_send)
 
 </br>
 
-![config-file](config-insta-bot.png)
+![config-file](/posts/config-insta-bot.png)
 
 </br>
 
