@@ -267,3 +267,9 @@ html {
   margin-bottom: 40px;
   margin-top: 40px;
 }
+
+/* footer paddint top */
+
+.footer-top {
+  padding-top: 40px;
+}
