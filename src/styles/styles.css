@@ -70,7 +70,7 @@ img {
   display: block;
 }
 .max-w-4xl {
-  max-width: 60rem;
+  max-width: 62rem;
 }
 /* .max-w-4xl {
   max-width: 62rem;
@@ -211,11 +211,13 @@ html {
   min-height: 100%;
   position: relative;
   top: 0;
-  transition: all 0.1s ease-in;
+  /* transition: all 0.1s ease-in; */
+  transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
 }
 .card:hover {
-  top: -2px;
-  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  top: -5px;
+  /* box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2); */
+  box-shadow: 0 4px 60px 0 rgba(0, 0, 0, 0.2);
 }
 .card article {
   padding: 20px;
@@ -240,4 +242,15 @@ html {
   .item-1 h1 {
     font-size: 24px;
   }
+}
+
+/* some edits on blog cards */
+
+.round {
+  border-radius: 10px;
+}
+.thumb {
+  position: relative;
+  width: 100%;
+  border-radius: 10px 10px 0 0;
 }

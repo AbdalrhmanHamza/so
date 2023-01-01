@@ -44,7 +44,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             {
               posts.map(post => (
                 <li class="text-center mb-4">
-                  <a href={post.url} class="card">
+                  <a href={post.url} class="round card">
                     <Image
                       class="thumb"
                       src={post.frontmatter.heroImage}
