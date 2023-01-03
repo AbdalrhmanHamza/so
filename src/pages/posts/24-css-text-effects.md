@@ -1,15 +1,16 @@
 ---
 description: 24 awasome css text effects with source code
-keywords: cars, price, carsprice, mercedes,mercedesprice, mercedescarsprice, mercedesbenz,
+keywords: HTML, CSS, text effects, css text effects, 24, Frontend Development
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 24 CSS Text Effects
-createdAt: 31 Dec 2022
-updatedAt: 31 Dec 2022
+createdAt: Tue, 03 Jan 2023 09:59:15 GMT
+updatedAt: Tue, 03 Jan 2023 09:59:15 GMT
 tags:
   - CSS
+  - HTML
 heroImage: /posts/font-plate-text-effect.png
-slug: free-vpn-apps
+slug: 24-css-text-effects
 ---
 
 Here is 24 awasome css text effects with source code and Demo. Collection of awasome text effects made with Html and CSS.
