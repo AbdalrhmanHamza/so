@@ -43,7 +43,7 @@ Collection of Html and CSS text effects hand picked from codepen.io.
 
 [10. Lava Text Effect](#10-lava-text-effect) </br>
 
-[11. Home Layered flourish fonts](#11-Home-layered-flourish-fonts) </br>
+[11. Home Layered flourish fonts](#11-home-layered-flourish-fonts) </br>
 
 [12. Pure CSS Gradient Text Outlines](#12-pure-css-gradient-text-outlines) </br>
 
