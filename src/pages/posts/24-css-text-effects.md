@@ -13,7 +13,8 @@ heroImage: /posts/font-plate-text-effect.png
 slug: 24-css-text-effects
 ---
 
-Here is 24 awasome css text effects with source code and Demo. Collection of awasome text effects made with Html and CSS.
+Collection of Html and CSS text effects hand picked from codepen.io.
+
 
 ---
 
