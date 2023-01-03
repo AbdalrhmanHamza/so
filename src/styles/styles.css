@@ -276,7 +276,7 @@ html {
 
 /* video */
 
-#myvideo {
+video {
   width: 90%;
   margin: auto;
   border-radius: 10px;

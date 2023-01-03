@@ -1,14 +1,13 @@
 <script is:inline>
-  let videos = document.querySelectorAll(".hovplay");
+  let videos = document.getElementsByTagName('video')
 
-for (let i = 0; i < videos.length; i++) {
-  videos[i].addEventListener("mouseenter", function() {
-    this.play();
-  });
+  for (let i = 0; i < videos.length; i++) {
+    videos[i].addEventListener('mouseenter', function () {
+      this.play()
+    })
 
-  videos[i].addEventListener("mouseleave", function() {
-    this.pause();
-  });
-}
-
+    videos[i].addEventListener('mouseleave', function () {
+      this.pause()
+    })
+  }
 </script>
