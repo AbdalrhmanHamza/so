@@ -405,7 +405,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/XRMQyX" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS) / JS**
 
 **<center>Links</center>**
 
@@ -440,7 +440,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/jlengstorf/pen/QWbdLjb" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS**
 
 **<center> Links </center>**
 
@@ -469,7 +469,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/bqWLaM" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS) / JS**
 
 **<center>Links</center>**
 
@@ -500,7 +500,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/yMdKoL" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS) / JS**
 
 **<center>Links</center>**
 
@@ -529,7 +529,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/chasebank/pen/qZNLyx" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS)**
 
 **<center>Links</center>**
 
@@ -561,7 +561,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/cssgrid/pen/BaYKdeM" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS**
 
 **<center>Links</center>**
 
@@ -593,7 +593,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/ilithya/pen/PowwrGB" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS) /JS (Babel)**
 
 **<center>Links</center>**
 
@@ -626,7 +626,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/noahraskin/pen/abENVwL" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS**
 
 **<center>Links</center>**
 
@@ -659,7 +659,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/xqoWeX" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(SCSS) / JS**
 
 **<center>Links</center>**
 
@@ -691,7 +691,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/yisenliu/pen/wdGymX" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS(Sass)**
 
 **<center>Links</center>**
 
@@ -723,7 +723,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/L39/pen/VaGoPV" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS / JS**
 
 **<center>Links</center>**
 
@@ -755,7 +755,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/evZPZG" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS (SCSS) / JS**
 
 **<center>Links</center>**
 
@@ -820,7 +820,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/haridang/pen/oLwKjj" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS(Stylus)**
+Made with: **Html / CSS**
 
 **<center>Links</center>**
 
