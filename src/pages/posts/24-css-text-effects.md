@@ -15,7 +15,6 @@ slug: 24-css-text-effects
 
 Collection of Html and CSS text effects hand picked from codepen.io.
 
-
 ---
 
 </br>
@@ -44,7 +43,7 @@ Collection of Html and CSS text effects hand picked from codepen.io.
 
 [10. Lava Text Effect](#10-lava-text-effect) </br>
 
-[11. Flickering Light Text Effect](#11-flickering-light-text-effect) </br>
+[11. Home Layered flourish fonts](#11-Home-layered-flourish-fonts) </br>
 
 [12. Pure CSS Gradient Text Outlines](#12-pure-css-gradient-text-outlines) </br>
 
@@ -392,7 +391,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <!-- 11 -->
 
-## 11. Flickering Light Text Effect
+## 11. Home Layered flourish fonts
 
 </br>
 
