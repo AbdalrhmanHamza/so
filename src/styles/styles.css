@@ -273,3 +273,35 @@ html {
 .footer-top {
   padding-top: 40px;
 }
+
+/* video */
+
+#myvideo {
+  width: 90%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+/* CSS for video and text container */
+
+.video-container {
+  position: relative;
+}
+
+.video-text {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  pointer-events: none;
+}
+
+/* CSS for "hover to play" effect */
+
+.video-container:hover .video-text {
+  display: none;
+}
