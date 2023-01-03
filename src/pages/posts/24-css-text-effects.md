@@ -184,7 +184,7 @@ you can find this effect on codepen.io from
 <a href="https://codepen.io/mandymichael/pen/vxmKpz" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **Html / CSS (SCSS) / JS**
 
 **<center>Links</center>**
 
