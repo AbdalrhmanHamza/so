@@ -4,8 +4,8 @@ keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, custom
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 19 awasome custom 404 page in HTML and CSS.
-createdAt: Wed, 04 Jan 2023 19:29:36 GMT
-updatedAt: Wed, 04 Jan 2023 19:29:36 GMT
+createdAt: Wed, 04 Jan 2023 21:08:08 GMT
+updatedAt: Wed, 04 Jan 2023 21:08:08 GMT
 tags:
   - CSS
   - HTML
