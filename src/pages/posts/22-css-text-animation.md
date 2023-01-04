@@ -1,9 +1,9 @@
 ---
-description: 22 awasome css text animation. collection of Html and css Text animation code examples from codepen.
+description: 22 awesome CSS text animations. collection of Html and CSS Text animation code examples from codepen.io
 keywords: CSS, Text, Animation, Html, css text animation, css and html animation
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 22 awasome css text animation
+title: 22 awesome CSS text animation
 createdAt: Wed, 04 Jan 2023 09:33:42 GMT
 updatedAt: Wed, 04 Jan 2023 09:33:42 GMT
 tags:
@@ -13,7 +13,11 @@ heroImage: /posts/22-css-text-animations.png
 slug: 44-awasome-css-text-effects
 ---
 
-Collection of Html and CSS text animation. hand picked from codepen.io.
+</br>
+
+Collection of Html and CSS text animation. hand-picked from codepen.io.
+
+</br>
 
 ---
 
