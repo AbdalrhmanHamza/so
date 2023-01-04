@@ -1,15 +1,15 @@
 ---
-description: How to make QR Code Generator using Python. this QRCode generator will help you to generate a QR Code for a url or product price of text. this will help you to work fast.
+description: Learn how to create QR codes in Python using the pyqrcode and pypng libraries. This tutorial shows you how to generate QR codes for text, URLs, emails, phone numbers, and SMS messages, and how to customize the QR code with different colors and error correction levels.
 keywords: python, programming, tutorials, qrcode generator, qrcode, backend development, solutions blog
 public: true
 layout: ../../layouts/BlogPost.astro
-title: How to make QR Code Generator using Python
+title: Create QR Codes in Python: A Step-by-Step Guide
 createdAt: Wed, 04 Jan 2023 21:59:20 GMT
 updatedAt: Wed, 04 Jan 2023 21:59:20 GMT
 tags:
   - Python
 heroImage: /posts/hero-image-how-to-make-qrcode-generator-in-python.jpg
-slug: how-to-make-instagram-bot-using-python-and-instabot
+slug: how-to-make-qrcode-generator-in-python
 ---
 
 </br>
