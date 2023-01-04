@@ -10,7 +10,7 @@ tags:
   - CSS
   - HTML
 heroImage: /posts/22-css-text-animations.png
-slug: 44-awasome-css-text-effects
+slug: 22-awasome-css-text-effects
 ---
 
 </br>
@@ -62,7 +62,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/2-splitting-splash-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/2-splitting-splash-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -94,7 +94,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/3-G E N I U S E -text-effect.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/3-G E N I U S E -text-effect.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -128,7 +128,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/4-Pure-CSS-Text -Animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/4-Pure-CSS-Text -Animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -160,7 +160,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/5-transimission-glowing-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/5-transimission-glowing-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -192,7 +192,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/6-hand-written-svg-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/6-hand-written-svg-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -224,7 +224,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/7-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/7-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -256,7 +256,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/8-shingin-text-animation-effects.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/8-shingin-text-animation-effects.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -288,7 +288,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/9-title-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/9-title-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -320,7 +320,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/10-three-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/10-three-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -352,7 +352,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/11-decoce-text-effect.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/11-decoce-text-effect.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -384,7 +384,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/12-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/12-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -416,7 +416,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/13-svg-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/13-svg-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -448,7 +448,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/14-loading-text-anmation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/14-loading-text-anmation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -480,7 +480,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/15-Airport info.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/15-Airport info.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -512,7 +512,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/16-pure-css-gradient-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/16-pure-css-gradient-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -544,7 +544,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/17-happy-new-year.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/17-happy-new-year.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -576,7 +576,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/18-pure-css-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/18-pure-css-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -610,7 +610,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/19-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/19-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -642,7 +642,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/20-welcome-text-animation.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/20-welcome-text-animation.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -676,7 +676,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/21-shatterubg-text-text-effect.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/21-shatterubg-text-text-effect.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
@@ -708,7 +708,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-container">
 
-<video src="/posts/videos/44-awasome-css-text-animation/22-animated-text.mp4" muted loop="" preload="metadata" ></video>
+<video src="/posts/videos/22-awasome-css-text-animation/22-animated-text.mp4" muted loop="" preload="metadata" ></video>
 
 <div class="video-text"> Hover to play </div>
 </div>
