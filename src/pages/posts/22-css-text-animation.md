@@ -16,7 +16,6 @@ slug: 44-awasome-css-text-effects
 </br>
 
 Collection of Html and CSS text animation. hand-picked from codepen.io.
-
 </br>
 
 ---
