@@ -702,7 +702,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <!-- 22 -->
 
-## 22.
+## 22. Animated text fill
 
 </br>
 
