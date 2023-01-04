@@ -1,9 +1,9 @@
 ---
-description: 19 awasome custom 404 page in HTML and CSS.
+description: 19 awesome custom 404 pages in HTML and CSS. Collection of custom 404 pages in HTML and CSS. hand-picked from codepen.io.
 keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, custom 404 page in HTML and CSS.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 19 awasome custom 404 page in HTML and CSS.
+title: 19 awesome custom 404 pages in HTML and CSS.
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
 updatedAt: Wed, 04 Jan 2023 21:08:08 GMT
 tags:
@@ -15,7 +15,7 @@ slug: 19-awasome-custom-404-page
 
 </br>
 
-Collection of Html and CSS text animation. hand picked from codepen.io.
+Collection of Html and CSS custom 404 error pages. hand-picked from codepen.io.
 </br>
 
 ---
