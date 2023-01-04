@@ -3,7 +3,7 @@ description: Learn how to create QR codes in Python using the pyqrcode and pypng
 keywords: QR code generator, Python QR code, pyqrcode library, pypng library, create QR codes, generate QR codes, customize QR codes, add logo to QR code, merge images with QR code, data types in QR codes, Python tutorial, QR code tutorial, tutorial, solutions blog
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Create QR Codes in Python: A Step-by-Step Guide
+title: Create QR Codes in Python A Step-by-Step Guide
 createdAt: Wed, 04 Jan 2023 21:59:20 GMT
 updatedAt: Wed, 04 Jan 2023 21:59:20 GMT
 tags:
