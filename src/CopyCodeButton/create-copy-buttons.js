@@ -1,6 +1,6 @@
 let blocks = document.querySelectorAll('pre')
 
-blocks.forEach(block => {
+blocks.forEach(blocks => {
   let button = document.createElement('copy-code-button')
-  block.appendChild(button)
+  blocks.appendChild(button)
 })
