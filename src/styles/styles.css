@@ -293,10 +293,14 @@ video {
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 36px;
+  font-size: 26px;
   font-weight: bold;
   text-align: center;
-  color: #fced19;
+  color: #ffffff;
+  background-color: #d97272;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
   pointer-events: none;
 }
 
