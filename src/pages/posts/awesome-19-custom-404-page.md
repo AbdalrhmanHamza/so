@@ -17,6 +17,21 @@ slug: 19-awasome-custom-404-page
 </br>
 
 Collection of Html and CSS custom 404 error pages. hand-picked from codepen.io.
+
+</br>
+
+---
+
+</br>
+
+## <center> Related posts </center>
+
+1- <a href="/posts/24-css-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">24 CSS Text Effects</a>
+
+2- <a href="/posts/22-css-text-animation" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">22 awesome CSS text animation</a>
+
+3- <a href="/posts/29-css-3d-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">29 awesome CSS 3d text effects</a>
+
 </br>
 
 ---
