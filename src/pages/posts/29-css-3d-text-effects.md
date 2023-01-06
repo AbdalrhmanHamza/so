@@ -1,11 +1,11 @@
 ---
-description: 29 awesome css 3d text effects
+description: 29 awesome css 3d text effects. hand-picked from codepen.io and other resources.
 keywords: CSS, Text, Animation, Html, css text animation, css and html animation, awesome, solutionsblog.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 29 awesome css 3d text effects
 createdAt: Fri, 06 Jan 2023 09:47:15 GMT
-updatedAt: Fri, 06 Jan 2023 09:47:15 GMT
+updatedAt: Fri, 06 Jan 2023 09:51:09 GMT
 tags:
   - CSS
   - HTML
@@ -17,7 +17,7 @@ slug: 29-awasome-css-3d-text-effects
 
 </br>
 
-Collection of Html and CSS text animation. hand picked from codepen.io.
+Collection of Html and CSS 3d text effects. hand picked from codepen.io. and other resources.
 </br>
 
 ---
