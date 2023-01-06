@@ -9,6 +9,7 @@ updatedAt: Wed, 04 Jan 2023 21:08:08 GMT
 tags:
   - CSS
   - HTML
+  - Frontend Development
 heroImage: /posts/heroimage-19-404-page.png
 slug: 19-awasome-custom-404-page
 ---

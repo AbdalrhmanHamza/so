@@ -9,6 +9,7 @@ updatedAt: Wed, 04 Jan 2023 09:33:42 GMT
 tags:
   - CSS
   - HTML
+  - Frontend Development
 heroImage: /posts/22-css-text-animations.png
 slug: 22-awasome-css-text-effects
 ---

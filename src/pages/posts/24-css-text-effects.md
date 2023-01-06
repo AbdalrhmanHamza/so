@@ -9,6 +9,7 @@ updatedAt: Tue, 03 Jan 2023 09:59:15 GMT
 tags:
   - CSS
   - HTML
+  - Frontend Development
 heroImage: /posts/font-plate-text-effect.png
 slug: 24-css-text-effects
 ---
