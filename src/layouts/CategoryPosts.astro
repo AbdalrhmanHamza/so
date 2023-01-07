@@ -6,7 +6,6 @@ import Breadcrumb from '../components/Breadcrumb.astro'
 import Content from '../components/Content.astro'
 import Footer from '../components/Footer.astro'
 import Header from '../components/Header.astro'
-import Masthead from '../components/Masthead.astro'
 import { SITE_DESCRIPTION, SITE_TITLE } from '../config'
 
 export interface Props {
@@ -32,7 +31,6 @@ const posts = (await Astro.glob('../pages/posts/*.md'))
   <Body>
     <Header title={SITE_TITLE} />
     <main class="pt-[56px]">
-      <Masthead />
       <Content>
         <Breadcrumb>{category}</Breadcrumb>
         <section>
@@ -62,4 +60,5 @@ const posts = (await Astro.glob('../pages/posts/*.md'))
       <Footer />
     </main>
   </Body>
+
 </html>
