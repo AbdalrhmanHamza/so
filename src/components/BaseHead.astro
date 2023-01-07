@@ -1,7 +1,6 @@
 ---
 import GoogleAnalytics from './GoogleAnalytics.astro'
-// Import the global.css file here so that it is included on
-// all pages through the use of the <BaseHead /> component.
+import Adsense from './adsense.astro'
 
 export interface Props {
   title: string
@@ -22,7 +21,10 @@ const {
 } = Astro.props
 ---
 
+<!-- google analytics -->
 <GoogleAnalytics />
+<!-- google adsense -->
+<Adsense />
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -81,13 +83,8 @@ const {
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
 />
-<!-- google adsense start -->
-<script
-  async
-  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9333834314723479"
-  crossorigin="anonymous"
-></script>
-<!-- google adsense end -->
+
+// <!-- google adsense end -->
 
 <script is:inline>
   const theme = (() => {
