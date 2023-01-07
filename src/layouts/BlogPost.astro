@@ -6,8 +6,6 @@ import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import Scroll from '../components/scroll.astro'
 import Share from '../components/share.astro'
-// import Reaction from '../components/reaction.astro'
-// import Comments from '../components/comments.jsx'
 import Comments from '../components/comments.astro'
 import Video from '../components/video.astro'
 import '../styles/styles.css'
@@ -78,13 +76,11 @@ const {
         ></span>
       </Content>
     </main>
-    <!-- <Reaction /> -->
     <Comments client:load />
     <Scroll />
     <Share />
     <Video />
     <Footer />
   </Body>
-
 
 </html>
