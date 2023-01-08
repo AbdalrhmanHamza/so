@@ -1,8 +1,8 @@
 ---
-description: most speed free vpn apps for windows, mac, linux, ios and android.
+description: Most Speed Free Vpn Apps for windows, mac, linux, ios and android.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: Most speed free vpn apps
+title: Most Speed Free VPN Apps
 createdAt: Sat, 03 Dec 2022
 updatedAt: Sat, 03 Dc 2022
 tags:
