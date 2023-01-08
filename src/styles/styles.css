@@ -9,9 +9,6 @@ pre copy-code-button {
   top: 0.5rem;
   right: 0.5rem;
 }
-/* .line {
-  display: block;
-} */
 .mb-6 {
   font-size: 1.25rem;
   line-height: 2;
@@ -41,7 +38,6 @@ pre copy-code-button {
 div {
   text-align: center;
   font-size: 1.2rem;
-  /* font-weight: 600; */
 }
 .description {
   font-size: 1.6rem;
@@ -63,7 +59,6 @@ img {
 }
 .date {
   font-size: 1.25rem;
-  /* color: #a06969; */
   color: #e07171;
   padding-bottom: 20px;
   position: relative;
@@ -72,9 +67,6 @@ img {
 .max-w-4xl {
   max-width: 62rem;
 }
-/* .max-w-4xl {
-  max-width: 62rem;
-} */
 blockquote {
   background-color: rgba(0, 133, 242, 0.1);
   border-left: 4px solid #0085f2;
@@ -83,7 +75,6 @@ blockquote {
   border-radius: 0.25rem;
   margin-top: 15px;
 }
-
 blockquote p {
   padding: 10px;
 }
@@ -101,7 +92,6 @@ li {
 .gap-4 {
   list-style: none;
 }
-/* scroll to top button styles */
 html {
   scroll-behavior: smooth;
 }
@@ -129,7 +119,6 @@ html {
   font-size: 35px;
   color: #001a2e;
 }
-/* share button */
 .share-btn-container {
   background: #fff;
   display: flex;
@@ -140,47 +129,35 @@ html {
   top: 50%;
   transform: translateY(-50%);
 }
-
 .share-btn-container a i {
   font-size: 32px;
 }
-
 .share-btn-container a {
   margin: 12px 0;
   transition: 500ms;
 }
-
 .share-btn-container a:hover {
   transform: scale(1.2);
 }
-
 .share-btn-container .fa-facebook {
   color: #3b5998;
 }
-
 .share-btn-container .fa-twitter {
   color: #1da1f2;
 }
-
 .share-btn-container .fa-linkedin {
   color: #0077b5;
 }
-
 .share-btn-container .fa-pinterest {
   color: #bd081c;
 }
-
 .share-btn-container .fa-whatsapp {
   color: #25d366;
 }
-
-/* Media Queries */
-
 @media (max-width: 1000px) {
   .content {
     padding: 8px 32px;
   }
-
   .share-btn-container {
     position: sticky;
     transform: unset;
@@ -193,17 +170,13 @@ html {
     padding: 16px 0;
     justify-content: center;
   }
-
   .share-btn-container a {
     margin: 0 16px;
   }
 }
-/* reactions */
 .mar {
   margin: 25px;
 }
-
-/* New post card design */
 .card {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   display: flex;
@@ -211,12 +184,10 @@ html {
   min-height: 100%;
   position: relative;
   top: 0;
-  /* transition: all 0.1s ease-in; */
   transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
 }
 .card:hover {
   top: -5px;
-  /* box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2); */
   box-shadow: 0 4px 60px 0 rgba(0, 0, 0, 0.2);
 }
 .card article {
@@ -226,11 +197,9 @@ html {
   flex-direction: column;
   justify-content: space-between;
 }
-
 .card span {
   font-size: 12px;
   font-weight: bold;
-  /* color: #999; */
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin: 2em 0 0 0;
@@ -243,9 +212,6 @@ html {
     font-size: 24px;
   }
 }
-
-/* some edits on blog cards */
-
 .round {
   border-radius: 10px;
 }
@@ -254,9 +220,6 @@ html {
   width: 100%;
   border-radius: 10px 10px 0 0;
 }
-
-/* comments section disus */
-
 .commentss {
   position: relative;
   width: 60%;
@@ -267,27 +230,17 @@ html {
   margin-bottom: 40px;
   margin-top: 40px;
 }
-
-/* footer paddint top */
-
 .footer-top {
   padding-top: 40px;
 }
-
-/* video */
-
 video {
   width: 90%;
   margin: auto;
   border-radius: 10px;
 }
-
-/* CSS for video and text container */
-
 .video-container {
   position: relative;
 }
-
 .video-text {
   position: absolute;
   top: 50%;
@@ -303,9 +256,6 @@ video {
   text-align: center;
   pointer-events: none;
 }
-
-/* CSS for "hover to play" effect */
-
 .video-container:hover .video-text {
   display: none;
 }
