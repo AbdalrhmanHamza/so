@@ -7,7 +7,7 @@ createdAt: Sat, 03 Dec 2022
 updatedAt: Sat, 03 Dc 2022
 tags:
   - apps
-heroImage: /posts/free-vpn-apps.png
+heroImage: /posts/hero-images/free-vpn-apps.png
 slug: free-vpn-apps
 ---
 

@@ -8,7 +8,7 @@ createdAt: 20 Dec 2022
 updatedAt: 20 Dc 2022
 tags:
   - Python
-heroImage: /posts/python-instabot-how.jpg
+heroImage: /posts/hero-images/python-instabot-how.jpg
 slug: how-to-make-instagram-bot-using-python-and-instabot
 ---
 

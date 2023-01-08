@@ -8,7 +8,7 @@ createdAt: 11 Dec 2022
 updatedAt: 11 Dc 2022
 tags:
   - extensions
-heroImage: /posts/chrome-extensnions-hero.jpg
+heroImage: /posts/hero-images/chrome-extensnions-hero.jpg
 slug: best-google-chrome-extensnions
 ---
 

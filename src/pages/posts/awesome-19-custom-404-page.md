@@ -10,7 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
-heroImage: /posts/heroimage-19-404-page.png
+heroImage: /posts/hero-images/heroimage-19-404-page.png
 slug: 19-awasome-custom-404-page
 ---
 

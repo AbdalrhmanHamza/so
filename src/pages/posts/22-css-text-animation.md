@@ -10,7 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
-heroImage: /posts/22-css-text-animations.png
+heroImage: /posts/hero-images/22-css-text-animations.png
 slug: 22-awasome-css-text-effects
 ---
 

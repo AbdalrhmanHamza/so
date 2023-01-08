@@ -9,7 +9,7 @@ updatedAt: 06 Dc 2022
 tags:
   - cars
   - cars-prices
-heroImage: /posts/mercedes-cars-price-in-usa.jpg
+heroImage: /posts/hero-images/mercedes-cars-price-in-usa.jpg
 slug: free-vpn-apps
 ---
 

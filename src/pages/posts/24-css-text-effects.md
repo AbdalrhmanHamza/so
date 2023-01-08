@@ -10,7 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
-heroImage: /posts/font-plate-text-effect.png
+heroImage: /posts/hero-images/font-plate-text-effect.png
 slug: 24-css-text-effects
 ---
 
