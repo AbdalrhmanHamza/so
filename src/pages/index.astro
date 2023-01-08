@@ -52,9 +52,9 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
                     />
                     <article>
                       <header>
-                        <h1 class="mt-3 text-xl font-bold">
+                        <h2 class="mt-3 text-xl font-bold">
                           {post.frontmatter.title}
-                        </h1>
+                        </h2>
                       </header>
                       <span>{post.frontmatter.createdAt}</span>
                     </article>
