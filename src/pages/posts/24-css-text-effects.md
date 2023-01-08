@@ -1,6 +1,6 @@
 ---
 description: Here is 24 awasome css text effects with source code and Demo. Collection of awasome text effects made with Html and CSS.
-keywords: HTML, CSS, text effects, css text effects, 24, Frontend Development
+keywords: HTML, CSS, text effects, css text effects, 24, Frontend Development.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 24 CSS Text Effects
