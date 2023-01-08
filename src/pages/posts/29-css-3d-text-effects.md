@@ -7,8 +7,8 @@ title: 29 awesome CSS 3d text effects
 createdAt: Fri, 06 Jan 2023 09:47:15 GMT
 updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
 tags:
-  - CSS
   - HTML
+  - CSS
   - Frontend Development
 heroImage: /posts/magic-text-effect.png
 slug: 29-awasome-css-3d-text-effects

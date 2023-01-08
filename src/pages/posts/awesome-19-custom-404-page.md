@@ -7,8 +7,8 @@ title: 19 awesome custom 404 pages in HTML and CSS.
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
 updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
 tags:
-  - CSS
   - HTML
+  - CSS
   - Frontend Development
 heroImage: /posts/heroimage-19-404-page.png
 slug: 19-awasome-custom-404-page

@@ -7,8 +7,8 @@ title: 22 awesome CSS text animation
 createdAt: Wed, 04 Jan 2023 09:33:42 GMT
 updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
 tags:
-  - CSS
   - HTML
+  - CSS
   - Frontend Development
 heroImage: /posts/22-css-text-animations.png
 slug: 22-awasome-css-text-effects
