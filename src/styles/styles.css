@@ -3,6 +3,7 @@ pre {
   padding: 1rem;
   border-radius: 0.5rem;
   position: relative;
+  max-height: 700px;
 }
 pre copy-code-button {
   position: absolute;
