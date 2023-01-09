@@ -19,7 +19,7 @@ slug: awesome-delete-button-animation
 
 in this post i will show you awesome delete button animation. Made with HTML, CSS and Javascript. this button will improve user experience on your website.
 
-You can see the Demo from <a href="/posts/demos/delete-button/demo" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+You can see the Demo from <a href="/posts/demo/delete-button/demo" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
 
 here is the Source Code :
 
