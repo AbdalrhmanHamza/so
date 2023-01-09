@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: awesome Delete Button Animation using HTMl and CSS and Javascript.
 createdAt: Mon, 09 Jan 2023 11:52:45 GMT
-updatedAt: Mon, 09 Jan 2023 11:52:45 GMT
+updatedAt: Mon, 09 Jan 2023 18:19:15 GMT
 tags:
   - HTML
   - CSS
