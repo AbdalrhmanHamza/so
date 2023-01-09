@@ -1,67 +1,3 @@
----
-description: awesome Delete Button Animation using HTMl and CSS and Javascript.
-keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend.
-public: true
-layout: ../../layouts/BlogPost.astro
-title: awesome Delete Button Animation using HTMl and CSS and Javascript.
-createdAt: Mon, 09 Jan 2023 11:52:45 GMT
-updatedAt: Mon, 09 Jan 2023 11:52:45 GMT
-tags:
-  - HTML
-  - CSS
-  - Javascript
-  - Frontend Development
-heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.png
-slug: 19-awasome-custom-404-page
----
-
-</br>
-
-in this post i will show you awesome delete button animation. Made with HTML, CSS and Javascript. this button will improve user experience on your website.
-
-You can see the Demo from <a href="/posts/demos/delete-button/demo" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
-here is the Source Code :
-
-`index.html`
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/style.css" />
-    <title>Delete button | By Solutions Blog</title>
-  </head>
-  <body>
-    <button class="button">
-      <div class="trash">
-        <div class="top">
-          <div class="paper"></div>
-        </div>
-        <div class="box"></div>
-        <div class="check">
-          <svg viewBox="0 0 8 6">
-            <polyline points="1 3.4 2.71428571 5 7 1"></polyline>
-          </svg>
-        </div>
-      </div>
-      <span>Delete Item</span>
-    </button>
-    <script src="./script.js"></script>
-  </body>
-</html>
-```
-
-</br>
-
-CSS Code
-
-`style.css`
-
-```css
 .button {
   --background: #2b3044;
   --background-hover: #1e2235;
@@ -97,7 +33,8 @@ CSS Code
   font-weight: 600;
   opacity: var(--span-opacity, 1);
   transform: translateX(var(--span-x, 0)) translateZ(0);
-  transition: transform 0.4s ease var(--span-delay, 0.2s), opacity 0.3s ease var(--span-delay, 0.2s);
+  transition: transform 0.4s ease var(--span-delay, 0.2s),
+    opacity 0.3s ease var(--span-delay, 0.2s);
 }
 .button .trash {
   display: block;
@@ -117,7 +54,8 @@ CSS Code
   background: var(--icon, var(--trash));
   bottom: 100%;
   transform-origin: 50% 6px;
-  transform: translate(var(--x, 3px), 2px) scaleY(var(--sy, 0.7)) rotate(var(--r, 0deg));
+  transform: translate(var(--x, 3px), 2px) scaleY(var(--sy, 0.7))
+    rotate(var(--r, 0deg));
   transition: transform 0.4s, background 0.3s;
 }
 .button .trash:before {
@@ -366,41 +304,3 @@ body {
   align-items: center;
   background: #eceffc;
 }
-```
-
-Javascript Code
-
-`script.js`
-
-```javascript
-document.querySelectorAll('.button').forEach(button =>
-  button.addEventListener('click', e => {
-    if (!button.classList.contains('delete')) {
-      button.classList.add('delete')
-      setTimeout(() => button.classList.remove('delete'), 3200)
-    }
-    e.preventDefault()
-  })
-)
-```
-
-</br>
-
-> If you have any questions or suggestions, feel free to leave a comment below.
-> </br>
-
-<!-- conslusion -->
-
-</br>
-
----
-
-</br>
-
-## <center> thanks for reading. </center>
-
-</br>
-
----
-
-</br>
