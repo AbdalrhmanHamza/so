@@ -4,11 +4,12 @@ keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: awesome Delete Button Animation using HTMl and CSS and Javascript.
-createdAt: 09 Jan 2023 19:29:36 GMT
-updatedAt: 09 Jan 2023 19:29:36 GMT
+createdAt: Mon, 09 Jan 2023 11:52:45 GMT
+updatedAt: Mon, 09 Jan 2023 11:52:45 GMT
 tags:
   - HTML
   - CSS
+  - Javascript
   - Frontend Development
 heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.png
 slug: 19-awasome-custom-404-page
