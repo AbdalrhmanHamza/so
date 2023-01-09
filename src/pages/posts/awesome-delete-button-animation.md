@@ -59,7 +59,7 @@ CSS Code
 
 `style.css`
 
-```CSS
+```css
 .button {
   --background: #2b3044;
   --background-hover: #1e2235;
@@ -95,8 +95,7 @@ CSS Code
   font-weight: 600;
   opacity: var(--span-opacity, 1);
   transform: translateX(var(--span-x, 0)) translateZ(0);
-  transition: transform 0.4s ease var(--span-delay, 0.2s),
-    opacity 0.3s ease var(--span-delay, 0.2s);
+  transition: transform 0.4s ease var(--span-delay, 0.2s), opacity 0.3s ease var(--span-delay, 0.2s);
 }
 .button .trash {
   display: block;
@@ -116,8 +115,7 @@ CSS Code
   background: var(--icon, var(--trash));
   bottom: 100%;
   transform-origin: 50% 6px;
-  transform: translate(var(--x, 3px), 2px) scaleY(var(--sy, 0.7))
-    rotate(var(--r, 0deg));
+  transform: translate(var(--x, 3px), 2px) scaleY(var(--sy, 0.7)) rotate(var(--r, 0deg));
   transition: transform 0.4s, background 0.3s;
 }
 .button .trash:before {
@@ -366,15 +364,13 @@ body {
   align-items: center;
   background: #eceffc;
 }
-
 ```
 
 Javascript Code
 
 `script.js`
 
-```Javascript
-
+```javascript
 document.querySelectorAll('.button').forEach(button =>
   button.addEventListener('click', e => {
     if (!button.classList.contains('delete')) {
@@ -384,7 +380,6 @@ document.querySelectorAll('.button').forEach(button =>
     e.preventDefault()
   })
 )
-
 ```
 
 </br>
