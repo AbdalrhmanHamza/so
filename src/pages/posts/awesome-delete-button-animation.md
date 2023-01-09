@@ -17,6 +17,22 @@ slug: awesome-delete-button-animation
 
 </br>
 
+## <center> Related posts </center>
+
+1- <a href="/posts/29-css-3d-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">29 awesome CSS 3d text effects</a>
+
+2- <a href="/posts/22-css-text-animation" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">22 awesome CSS text animation</a>
+
+3- <a href="/posts/awesome-19-custom-404-page" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">19 awasome custom 404 page in HTML and CSS.</a>
+
+4- <a href="/posts/24-css-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">24 CSS Text Effects.</a>
+
+</br>
+
+---
+
+</br>
+
 in this post i will show you awesome delete button animation. Made with HTML, CSS and Javascript. this button will improve user experience on your website.
 
 You can see the Demo from <a href="/posts/demos/delete-button/demo" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
