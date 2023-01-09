@@ -12,7 +12,7 @@ tags:
   - Javascript
   - Frontend Development
 heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.png
-slug: 19-awasome-custom-404-page
+slug: awesome-delete-button-animation
 ---
 
 </br>
