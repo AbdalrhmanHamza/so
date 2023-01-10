@@ -9,7 +9,7 @@ updatedAt: Mon, 09 Jan 2023 18:19:15 GMT
 tags:
   - HTML
   - CSS
-  - Javascript
+  - JavaScript
   - Frontend Development
 heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.png
 slug: awesome-delete-button-animation
