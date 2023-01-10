@@ -12,7 +12,7 @@ pre copy-code-button {
 }
 .mb-6 {
   font-size: 1.25rem;
-  line-height: 2;
+  line-height: 1.5;
   color: rgba(34, 41, 47, var(--text-opacity));
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
