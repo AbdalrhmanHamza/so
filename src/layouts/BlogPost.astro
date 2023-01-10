@@ -8,7 +8,7 @@ import Scroll from '../components/scroll.astro'
 import Share from '../components/share.astro'
 import Comments from '../components/comments.astro'
 import Video from '../components/video.astro'
-import DropdownMenu from './DropdownMenu'
+import Tags from './DropdownMenu'
 import '../styles/styles.css'
 
 export interface Props {
@@ -93,7 +93,7 @@ const postTags = filteredPost.frontmatter.tags
         ></span>
       </Content>
     </main>
-    <DropdownMenu client:visible tags={Array.from(postTags)} />
+    <Tags client:visible tags={Array.from(postTags)} />
     <Comments client:load />
     <Scroll />
     <Share />
