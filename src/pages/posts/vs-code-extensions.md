@@ -102,6 +102,14 @@ Download from **<a href="https://marketplace.visualstudio.com/items?itemName=PKi
 **Material Icon Theme**
 ![Material Icon Theme](/posts/material-icons.png)
 
+<!-- conslusion -->
+
+</br>
+
 ---
+
+</br>
+
+## <center> thanks for reading. </center>
 
 </br>

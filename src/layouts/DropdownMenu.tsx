@@ -6,7 +6,7 @@ interface Props {
   tags: string[]
 }
 
-export default function DropdownMenu({ tags }: Props) {
+export default function Tags({ tags }: Props) {
   return (
     <div className="main">
       <p className="mb-6">

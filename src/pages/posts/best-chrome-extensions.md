@@ -175,4 +175,14 @@ This extension is designed for deigners and casual users requiring high quality 
 
 Donwload from **<a href="https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
 
+<!-- conslusion -->
+
+</br>
+
+---
+
+</br>
+
+## <center> thanks for reading. </center>
+
 </br>

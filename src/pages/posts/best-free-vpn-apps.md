@@ -87,3 +87,15 @@ it's a fast and secure application to use.
 Psiphon VPN is available for **Windows** and **Mac** and **Android** and **iOS**.
 
 Download Psiphon vpn from **<a href="https://psiphon.ca/" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">Here</a>**.
+
+<!-- conslusion -->
+
+</br>
+
+---
+
+</br>
+
+## <center> thanks for reading. </center>
+
+</br>

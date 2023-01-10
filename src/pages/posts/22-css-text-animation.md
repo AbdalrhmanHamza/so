@@ -754,5 +754,3 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 ## <center> thanks for reading. </center>
 
 </br>
-
----

@@ -187,5 +187,3 @@ In this tutorial, you learned how to create QR codes using Python and the pyqrco
 ## <center> thanks for reading. </center>
 
 </br>
-
----

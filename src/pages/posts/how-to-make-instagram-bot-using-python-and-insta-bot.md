@@ -286,5 +286,3 @@ bot.send_like(list_of_user_to_send)
 ## <center>thanks for reading.</center>
 
 </br>
-
----

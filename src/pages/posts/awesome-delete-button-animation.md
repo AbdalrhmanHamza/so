@@ -419,7 +419,3 @@ tags: <a href="/categories/javascript" class="underline underline-offset-2 hover
 ## <center> thanks for reading. </center>
 
 </br>
-
----
-
-</br>
