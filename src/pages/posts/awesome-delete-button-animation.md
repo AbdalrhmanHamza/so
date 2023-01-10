@@ -404,9 +404,9 @@ document.querySelectorAll('.button').forEach(button =>
 
 > If you have any questions or suggestions, feel free to leave a comment below.
 
-</br>
+<!-- </br>
 
-tags: <a href="/categories/javascript" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Javascript**</a> , <a href="/categories/html" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**HTML**</a> , <a href="/categories/css" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**CSS**</a> , <a href="/categories/frontend development" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Frontend Development**</a>
+tags: <a href="/categories/javascript" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Javascript**</a> , <a href="/categories/html" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**HTML**</a> , <a href="/categories/css" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**CSS**</a> , <a href="/categories/frontend development" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">**Frontend Development**</a> -->
 
 <!-- conslusion -->
 

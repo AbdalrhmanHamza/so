@@ -8,12 +8,15 @@ import Scroll from '../components/scroll.astro'
 import Share from '../components/share.astro'
 import Comments from '../components/comments.astro'
 import Video from '../components/video.astro'
+import DropdownMenu from './DropdownMenu'
 import '../styles/styles.css'
 
 export interface Props {
   content: {
     title: string
     description: string
+    category: string
+    tags: string
     keywords: string
     createdAt?: string
     updatedAt?: string
@@ -23,8 +26,23 @@ export interface Props {
 }
 
 const {
-  content: { title, description, keywords, heroImage, createdAt, updatedAt }
+  content: {
+    title,
+    description,
+    keywords,
+    heroImage,
+    createdAt,
+    updatedAt,
+    category,
+    tags
+  }
 } = Astro.props
+
+const allPosts = await Astro.glob('../pages/posts/*.md')
+const filteredPost = allPosts.filter(
+  post => post.frontmatter.title === title
+)[0]
+const postTags = filteredPost.frontmatter.tags
 ---
 
 <!DOCTYPE html>
@@ -76,11 +94,13 @@ const {
         ></span>
       </Content>
     </main>
+    <DropdownMenu client:visible tags={Array.from(postTags)} />
     <Comments client:load />
     <Scroll />
     <Share />
     <Video />
     <Footer />
   </Body>
+
 
 </html>

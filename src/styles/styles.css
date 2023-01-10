@@ -260,3 +260,15 @@ video {
 .video-container:hover .video-text {
   display: none;
 }
+.main {
+  margin: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.tag {
+  padding: 4px 10px;
+}
+.taghead {
+  font-size: 18px;
+  font-weight: 800;
+}
