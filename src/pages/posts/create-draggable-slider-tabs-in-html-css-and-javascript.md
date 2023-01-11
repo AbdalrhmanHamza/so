@@ -234,9 +234,9 @@ Congratulations, you have successfully created the draggable tabs slider using H
 
 <li class="content__item">
     <button class="button button--pandora">
-    <a href="/posts/demos/draggable-tabs-slider/demo" target="_blank">
+      <a href="/posts/demos/draggable-tabs-slider/demo" target="_blank">
         <span>Demo</span>
-    </a>
+      </a>
     </button>
 </li>
 
