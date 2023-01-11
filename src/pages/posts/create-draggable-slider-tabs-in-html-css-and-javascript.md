@@ -41,7 +41,7 @@ first, let's write HTML code:
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8" />
-    <title>Draggable Slider Tabs | CodingNepal</title>
+    <title>Draggable slider tab || Solutions Blog</title>
     <link rel="stylesheet" href="style.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Fontawesome CDN Link -->
