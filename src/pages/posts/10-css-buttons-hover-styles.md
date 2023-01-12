@@ -16,7 +16,7 @@ slug: 10-css-buttons-styles
 
 </br>
 
-Hi, In this post i will show you awesoem 10 CSS Hover Buttons styles with source code and demo for every button.
+Hi, In this post i will show you awesoem 10 CSS Hover Buttons styles with source code and demo for every button. in the end of this post you will find demo for all buttons in one page. this buttons you can use it in you website. you just need to copy and paste the code for any button you need.
 
 </br>
 
@@ -26,11 +26,13 @@ Hi, In this post i will show you awesoem 10 CSS Hover Buttons styles with source
 
 ## <center> Related posts </center>
 
-1- <a href="/posts/24-css-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">24 CSS Text Effects</a>
+1- <a href="/posts/24-css-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">24 CSS Text Effects.</a>
 
-2- <a href="/posts/22-css-text-animation" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">22 awesome CSS text animation</a>
+2- <a href="/posts/22-css-text-animation" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">22 awesome CSS text animation.</a>
 
 3- <a href="/posts/awesome-19-custom-404-page" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">19 awasome custom 404 page in HTML and CSS.</a> </br>
+
+4- <a href="/posts/29-css-3d-text-effects" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">29 awesome CSS 3d text effects.</a> </br>
 
 </br>
 
@@ -1659,14 +1661,14 @@ see the demo of this button
 
 </br>
 
-you can see all 10 demos in one page from here
+you can see all 10 demos in one page from here:
 
 </br>
 
 <li class="content__item">
     <button class="button button--pandora">
     <a href="/posts/demos/10-css-hover-buttons/all-demos/demo" target="_blank">
-        <span>All Demo</span>
+        <span>All Demos</span>
     </a>
     </button>
 </li>
@@ -1674,11 +1676,6 @@ you can see all 10 demos in one page from here
 </br>
 
 > If you have any questions or suggestions, feel free to leave a comment below.
-
-<!-- conclusion -->
-<!-- </br> -->
-
-<!-- --- -->
 
 </br>
 
