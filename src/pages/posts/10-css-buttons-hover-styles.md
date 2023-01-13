@@ -170,7 +170,7 @@ CSS Styles:
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -337,7 +337,7 @@ CSS Styles:
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -480,7 +480,7 @@ CSS Styles:
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -668,7 +668,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -865,7 +865,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -1004,7 +1004,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -1177,7 +1177,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -1326,7 +1326,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -1459,7 +1459,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
@@ -1645,7 +1645,7 @@ body {
 
 </br>
 
-see the demo of this button
+See the demo of this button
 
 <li class="content__item">
     <button class="button button--pandora">
