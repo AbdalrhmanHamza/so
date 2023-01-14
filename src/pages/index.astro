@@ -13,6 +13,7 @@ import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
 import { Image } from '@astrojs/image/components'
+import '../styles/max.css'
 
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
