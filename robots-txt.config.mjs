@@ -9,7 +9,7 @@ const robotsConfig = {
       disallow: siteConfig.disableIndexing ? '' : ''
     }
   ],
-  sitemapBaseFileName: 'sitemap-index', // default 'sitemap-index'
+  sitemapBaseFileName: 'sitemap-0', // default 'sitemap-index'
   transform(content) {
     const commentsList = [
       'Some text before main content',
