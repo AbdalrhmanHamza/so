@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro'
 import Header from '../components/Header.astro'
 import Footer from '../components/Footer.astro'
+import Share from '../components/share.astro'
 import Scroll from '../components/scroll.astro'
 import {
   SITE_TITLE,
@@ -68,6 +69,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       </Content>
     </main>
     <Scroll />
+    <Share />
     <Footer />
   </Body>
 
