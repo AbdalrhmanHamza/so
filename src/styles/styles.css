@@ -367,8 +367,6 @@ video {
   font-weight: bold;
   margin-left: 8px;
 }
-
-/* Responsive styles */
 @media (max-width: 900px) {
   .prev-next-buttons {
     flex-wrap: wrap;
