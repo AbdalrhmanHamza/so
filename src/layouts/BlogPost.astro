@@ -42,6 +42,18 @@ const filteredPost = allPosts.filter(
   post => post.frontmatter.title === title
 )[0]
 const postTags = filteredPost.frontmatter.tags
+// next and previous posts
+const sortedPosts = allPosts.sort(
+  (a, b) =>
+    new Date(a.frontmatter.createdAt).getTime() -
+    new Date(b.frontmatter.createdAt).getTime()
+)
+const currentIndex = sortedPosts.findIndex(
+  post => post.frontmatter.title === title
+)
+const previousPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null
+const nextPost =
+  currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null
 ---
 
 <!DOCTYPE html>
@@ -94,10 +106,34 @@ const postTags = filteredPost.frontmatter.tags
       </Content>
     </main>
     <Tags client:visible tags={Array.from(postTags)} />
+    <div class="prev-next-buttons">
+      {
+        previousPost && (
+          <a href={previousPost.url} class="prev-next-button prev-button">
+            <i class="fas fa-arrow-left" />
+            <span class="prev-next-button-title">
+              {previousPost.frontmatter.title}
+            </span>
+          </a>
+        )
+      }
+      {
+        nextPost && (
+          <a href={nextPost.url} class="prev-next-button next-button">
+            <span class="prev-next-button-title">
+              {nextPost.frontmatter.title}
+            </span>
+            <i class="fas fa-arrow-right" />
+          </a>
+        )
+      }
+    </div>
     <Comments client:load />
     <Scroll />
     <Share />
     <Video />
     <Footer />
   </Body>
+
+
 </html>
