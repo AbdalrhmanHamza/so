@@ -8,7 +8,7 @@ createdAt: Wed, 04 Jan 2023 21:59:20 GMT
 updatedAt: Wed, 04 Jan 2023 21:59:20 GMT
 tags:
   - Python
-heroImage: /posts/hero-images/hero-image-how-to-make-qrcode-generator-in-python.png
+heroImage: /posts/hero-images/hero-image-how-to-make-qrcode-generator-python.png
 slug: how-to-make-qrcode-generator-in-python
 ---
 
