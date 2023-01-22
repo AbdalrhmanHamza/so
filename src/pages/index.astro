@@ -42,8 +42,8 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
         <section>
           <input
             type="text"
-            class="form-control mb-5 p-3"
-            placeholder="Type To search..."
+            class="form-control mb-5 p-3 bg-white color-white dark:bg-gray-900 placeholder-black dark:placeholder-warm-800 focus:bg-warm-800 dark:focus:bg-gray-800"
+            placeholder="Type To search"
             id="search-input"
           />
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
