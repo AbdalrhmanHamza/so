@@ -49,7 +49,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             />
             <i class="fa-solid fa-magnifying-glass icon-center"></i>
           </div>
-          <span class="not-found">Post not found</span>
+          <span class="not-found">No posts found.</span>
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
               posts.map(post => (
@@ -100,4 +100,5 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       }
     </script>
   </Body>
+
 </html>
