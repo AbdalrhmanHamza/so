@@ -4,6 +4,15 @@
 .round {
   border: 2px solid;
 }
+.search-container {
+  position: relative;
+}
+.fa-solid {
+  position: absolute;
+  top: 50%;
+  right: 1%;
+  transform: translate(-50%, -50%);
+}
 .p-3 {
   padding: 1rem !important;
 }

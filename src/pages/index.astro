@@ -40,12 +40,15 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
           <h1 class="text-3xl">Solutions Blog</h1>
         </section>
         <section>
-          <input
-            type="text"
-            class="form-control mb-5 p-3 bg-white color-white dark:bg-gray-900 placeholder-black dark:placeholder-warm-800 focus:bg-warm-800 dark:focus:bg-gray-800"
-            placeholder="Type To search"
-            id="search-input"
-          />
+          <div class="search-container">
+            <input
+              type="text"
+              class="form-control mb-5 p-3 bg-white color-white dark:bg-gray-900 placeholder-black dark:placeholder-warm-800 focus:bg-warm-800 dark:focus:bg-gray-800"
+              placeholder="Type To search"
+              id="search-input"
+            />
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </div>
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
               posts.map(post => (
