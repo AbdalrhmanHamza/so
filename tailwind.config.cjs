@@ -11,6 +11,9 @@ module.exports = {
         },
         warm: {
           800: '#D9D9D9'
+        },
+        sharedark: {
+          900: '#000'
         }
       },
       fontFamily: {
