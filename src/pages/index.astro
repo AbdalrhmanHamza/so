@@ -40,6 +40,12 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
           <h1 class="text-3xl">Solutions Blog</h1>
         </section>
         <section>
+          <input
+            type="text"
+            class="form-control mb-5 p-3"
+            placeholder="Type To search"
+            id="search-input"
+          />
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
               posts.map(post => (
@@ -71,7 +77,24 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
     <Scroll />
     <Share />
     <Footer />
+    <script is:inline>
+      document
+        .querySelector('#search-input')
+        .addEventListener('input', filterList)
+      function filterList() {
+        const searchInput = document.querySelector('#search-input')
+        const filter = searchInput.value.toLowerCase()
+        const listItems = document.querySelectorAll('.list-group-item')
+        listItems.forEach(item => {
+          let text = item.textContent
+          if (text.toLocaleLowerCase().includes(filter.toLocaleLowerCase())) {
+            item.style.display = ''
+          } else {
+            item.style.display = 'none'
+          }
+        })
+      }
+    </script>
   </Body>
-
 
 </html>
