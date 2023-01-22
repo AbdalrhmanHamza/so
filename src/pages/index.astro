@@ -49,7 +49,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
               posts.map(post => (
-                <li class="text-center mb-4">
+                <li class="text-center mb-4 list-group-item">
                   <a href={post.url} class="round card">
                     <Image
                       class="thumb"
@@ -96,5 +96,6 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       }
     </script>
   </Body>
+
 
 </html>
