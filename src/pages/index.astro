@@ -49,6 +49,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
             />
             <i class="fa-solid fa-magnifying-glass icon-center"></i>
           </div>
+          <span class="not-found">Post not found</span>
           <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {
               posts.map(post => (
@@ -86,19 +87,17 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
         .addEventListener('input', filterList)
       function filterList() {
         const searchInput = document.querySelector('#search-input')
+        const found = document.querySelector('.not-found')
         const filter = searchInput.value.toLowerCase()
         const listItems = document.querySelectorAll('.list-group-item')
-        listItems.forEach(item => {
+        const filteredList = Array.from(listItems).filter(item => {
           let text = item.textContent
-          if (text.toLocaleLowerCase().includes(filter.toLocaleLowerCase())) {
-            item.style.display = ''
-          } else {
-            item.style.display = 'none'
-          }
+          return text.toLowerCase().includes(filter)
         })
+        listItems.forEach(item => (item.style.display = 'none'))
+        filteredList.forEach(item => (item.style.display = ''))
+        found.style.display = filteredList.length ? 'none' : 'block'
       }
     </script>
   </Body>
-
-
 </html>
