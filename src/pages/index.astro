@@ -14,7 +14,7 @@ import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import { IoArrowForward } from 'react-icons/io5/index.js'
 import { Image } from '@astrojs/image/components'
-import '../styles/max.css'
+// import '../styles/max.css'
 
 const posts = (await Astro.glob('./posts/*.md')).sort(
   (a: any, b: any) =>
@@ -31,6 +31,49 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       title={SITE_TITLE}
       description={SITE_DESCRIPTION}
     />
+    <style>
+      .max-w-4xl {
+        max-width: 74rem;
+      }
+      .round {
+        border: 2px solid;
+      }
+      .search-container {
+        position: relative;
+      }
+      .icon-center {
+        position: absolute;
+        top: 50%;
+        right: 1%;
+        transform: translate(-50%, -50%);
+      }
+      .not-found {
+        display: none;
+        font-size: 1.4rem;
+        font-weight: 600;
+      }
+      .p-3 {
+        padding: 1rem !important;
+      }
+      .mb-5 {
+        margin-bottom: 3rem !important;
+      }
+      .form-control {
+        display: block;
+        width: 100%;
+        padding: 0.375rem 0.75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 0.375rem;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+      }
+    </style>
   </head>
   <Body>
     <Header title={SITE_TITLE} />
@@ -100,5 +143,4 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       }
     </script>
   </Body>
-
 </html>
