@@ -402,6 +402,16 @@ document.querySelectorAll('.button').forEach(button =>
 
 </br>
 
+<li class="content__item">
+    <button class="button button--pandora dark:bg-pink-800">
+      <a href="/posts/demos/delete-button/demo" target="_blank">
+        <span class="dark:bg-pink-900">Demo</span>
+      </a>
+    </button>
+</li>
+
+</br>
+
 > If you have any questions or suggestions, feel free to leave a comment below.
 
 <!-- </br>
