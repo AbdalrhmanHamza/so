@@ -79,7 +79,9 @@ first html code
   <body>
     <div class="center">
       <li class="content__item">
-        <button class="button button--pan"><span>Upload</span></button>
+        <button class="button button--pan">
+          <span class="dark:bg-pink-900">Upload</span>
+        </button>
       </li>
     </div>
   </body>
@@ -173,9 +175,9 @@ CSS Styles:
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/1-upload-buttons/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -217,7 +219,7 @@ first html code
     <div class="center">
       <li class="content__item">
         <button class="button button--hyperion">
-          <span><span>New page</span></span>
+          <span class="dark:bg-pink-900">New page</span>
         </button>
       </li>
     </div>
@@ -340,9 +342,9 @@ CSS Styles:
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/2-new-page-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -383,7 +385,9 @@ first html code
   <body>
     <div class="center">
       <li class="content__item">
-        <button class="button button--mimas"><span>Render</span></button>
+        <button class="button button--mimas">
+          <span class="dark:bg-pink-900">Render</span>
+        </button>
       </li>
     </div>
   </body>
@@ -483,9 +487,9 @@ CSS Styles:
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/3-render-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -527,13 +531,13 @@ first html code
     <div class="center">
       <li class="content__item">
         <button class="button button--atlas">
-          <span>Subscribe</span>
+          <span class="dark:bg-pink-900">Subscribe</span>
           <div class="marquee" aria-hidden="true">
             <div class="marquee__inner">
-              <span>Subscribe</span>
-              <span>Subscribe</span>
-              <span>Subscribe</span>
-              <span>Subscribe</span>
+              <span class="dark:bg-pink-900">Subscribe</span>
+              <span class="dark:bg-pink-900">Subscribe</span>
+              <span class="dark:bg-pink-900">Subscribe</span>
+              <span class="dark:bg-pink-900">Subscribe</span>
             </div>
           </div>
         </button>
@@ -671,9 +675,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/4-subscribe-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -715,13 +719,13 @@ first html code
     <div class="center">
       <li class="content__item">
         <button class="button button--kari">
-          <span>Send Love</span>
+          <span class="dark:bg-pink-900">Send Love</span>
           <div class="marquee" aria-hidden="true">
             <div class="marquee__inner">
-              <span>Send Love</span>
-              <span>Send Love</span>
-              <span>Send Love</span>
-              <span>Send Love </span>
+              <span class="dark:bg-pink-900">Send Love</span>
+              <span class="dark:bg-pink-900">Send Love</span>
+              <span class="dark:bg-pink-900">Send Love</span>
+              <span class="dark:bg-pink-900">Send Love </span>
             </div>
           </div>
         </button>
@@ -868,9 +872,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/5-send-love-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -911,8 +915,8 @@ first html code
   <body>
     <div class="center">
       <li class="content__item">
-        <button class="button button--pandora">
-          <span>Activate Card</span>
+        <button class="button button--pandora dark:bg-pink-800">
+          <span class="dark:bg-pink-900">Activate Card</span>
         </button>
       </li>
     </div>
@@ -1007,9 +1011,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/6-activate-card-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -1050,7 +1054,9 @@ first html code
   <body>
     <div class="center">
       <li class="content__item">
-        <button class="button button--janus"><span>Reshape</span></button>
+        <button class="button button--janus">
+          <span class="dark:bg-pink-900">Reshape</span>
+        </button>
       </li>
     </div>
   </body>
@@ -1180,9 +1186,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/7-reshape-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -1225,7 +1231,9 @@ first html code
   <body>
     <div class="center">
       <li class="content__item">
-        <button class="button button--anthe"><span>Initialize</span></button>
+        <button class="button button--anthe">
+          <span class="dark:bg-pink-900">Initialize</span>
+        </button>
       </li>
     </div>
   </body>
@@ -1329,9 +1337,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/8- initialize-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -1462,9 +1470,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/9-hide-details-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -1507,7 +1515,9 @@ first html code
     <div class="center">
       <li class="content__item">
         <button class="button button--telesto">
-          <span><span>Verify</span></span>
+          <span class="dark:bg-pink-900"
+            ><span class="dark:bg-pink-900">Verify</span></span
+          >
         </button>
       </li>
     </div>
@@ -1648,9 +1658,9 @@ body {
 See the demo of this button
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/10-verifty-button/demo" target="_blank">
-        <span>Demo</span>
+        <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
 </li>
@@ -1666,9 +1676,9 @@ you can see all 10 demos in one page from here:
 </br>
 
 <li class="content__item">
-    <button class="button button--pandora">
+    <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/10-css-hover-buttons/all-demos/demo" target="_blank">
-        <span>All Demos</span>
+        <span class="dark:bg-pink-900">All Demos</span>
     </a>
     </button>
 </li>
