@@ -14,6 +14,10 @@ module.exports = {
         },
         sharedark: {
           900: '#000'
+        },
+        pink: {
+          900: '#E8A754',
+          800: '#f7e0bc'
         }
       },
       fontFamily: {
