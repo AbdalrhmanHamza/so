@@ -412,7 +412,7 @@ document.querySelectorAll('.button').forEach(button =>
 
 <li class="content__item">
     <button class="button button--pandora dark:bg-pink-800">
-      <a href="/posts/demos/index.zip" download>
+      <a href="/posts/demos/s.zip" download>
         <span class="dark:bg-pink-900">download</span>
       </a>
     </button>
