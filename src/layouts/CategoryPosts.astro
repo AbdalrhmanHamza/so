@@ -1,5 +1,4 @@
 ---
-import { Image } from '@astrojs/image/components'
 import BaseHead from '../components/BaseHead.astro'
 import Body from '../components/Body.astro'
 import Breadcrumb from '../components/Breadcrumb.astro'
@@ -7,14 +6,11 @@ import Content from '../components/Content.astro'
 import Footer from '../components/Footer.astro'
 import Header from '../components/Header.astro'
 import { SITE_DESCRIPTION, SITE_TITLE } from '../config'
-
 export interface Props {
   category: string
   keywords: string
 }
-
 const { category, keywords } = Astro.props
-
 const posts = (await Astro.glob('../pages/posts/*.md'))
   .sort(
     (a, b) =>

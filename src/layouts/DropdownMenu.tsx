@@ -1,11 +1,7 @@
-import { Menu, Transition } from '@headlessui/react'
-import React, { Fragment } from 'react'
-import DropdownMenuItem from './DropdownMenuItem'
-
+import React from 'react'
 interface Props {
   tags: string[]
 }
-
 export default function Tags({ tags }: Props) {
   return (
     <div className="main">
