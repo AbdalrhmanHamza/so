@@ -1,0 +1,254 @@
+<head>
+  <meta charset="UTF-8" />
+  <title>parallax effect</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:300,400,500,600,700,800,900&display=swap');
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+      scroll-behavior: smooth;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+    body {
+      min-height: 100vh;
+      background: linear-gradient(#2b1055, #7597de);
+      overflow-x: hidden;
+    }
+    header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 30px 100px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 10000;
+    }
+    header .logo {
+      color: #fff;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 2em;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    header ul {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    header ul li {
+      list-style: none;
+      margin-left: 20px;
+    }
+    header ul li a {
+      text-decoration: none;
+      padding: 6px 15px;
+      color: #fff;
+      border-radius: 20px;
+    }
+    header ul li a:hover,
+    header ul li a.active {
+      background: #fff;
+      color: #2b1055;
+    }
+    section {
+      position: relative;
+      overflow: hidden;
+      width: 100%;
+      height: 100vh;
+      padding: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    section::before {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 100px;
+      background: linear-gradient(to top, #1c0522, transparent);
+      z-index: 100;
+    }
+    section img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      pointer-events: none;
+    }
+    section img#moon {
+      mix-blend-mode: screen;
+    }
+    section img#mountains_front {
+      z-index: 10;
+    }
+    #text {
+      position: absolute;
+      right: -350px;
+      color: #fff;
+      white-space: nowrap;
+      font-size: 7.5vw;
+      z-index: 9;
+    }
+    #btn {
+      text-decoration: none;
+      display: inline-block;
+      padding: 8px 30px;
+      border-radius: 40px;
+      background: #fff;
+      color: #2b1055;
+      font-size: 1.5em;
+      z-index: 9;
+      transform: translateY(100px);
+    }
+    .sec {
+      position: relative;
+      padding: 100px;
+      background: #1c0522;
+    }
+    .sec h2 {
+      font-size: 3.5em;
+      margin-bottom: 10px;
+      color: #fff;
+    }
+    .sec p {
+      font-size: 1em;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="#" class="logo">Logo</a>
+    <ul>
+      <li><a href="#" class="active">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Work</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </header>
+  <section>
+    <img src="/assets/demos-images/15-prallax-effects/2/stars.png" id="stars" />
+    <img src="/assets/demos-images/15-prallax-effects/2/moon.png" id="moon" />
+    <img
+      src="/assets/demos-images/15-prallax-effects/2/mountains_behind.png"
+      id="mountains_behind"
+    />
+    <h2 id="text">Moon Light</h2>
+    <a href="#sec" id="btn">Explore</a>
+    <img
+      src="/assets/demos-images/15-prallax-effects/2/mountains_front.png"
+      id="mountains_front"
+    />
+  </section>
+  <div class="sec" id="sec">
+    <h2>Parallax Scrolling Effects</h2>
+    <p>
+      vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem ipsum,
+      dolor sit amet consectetur adipisicing elit. Nam quas cumqantium ipsum
+      fugit consequatur reiciendis, enim officiis, dignissimos itaque dolorum
+      facere vitae nesciunt consectetur amet, ullam nulla voluptatibus in.
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.<br />
+      <br />vitae nesciunt consectetur amet, ullam nulla voluptatibus in. Lorem
+      ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumqantium
+      ipsum fugit consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. ipsum, dolor sit amet consectetur adipisicing elit. Nam quas cumque
+      laudantium consequatur reiciendis, enim officiis, dignissimos itaque
+      dolorum facere vitae nesciunt consectetur amet, ullam nulla voluptatibus
+      in. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam quas
+      cumqantium ipsum fugit consequatur reiciendis, enim officiis, dignissimos
+      itaque dolorum facere vitae nesciunt consectetur amet, ullam nulla
+      voluptatibus in.
+    </p>
+  </div>
+  <script is:inline>
+    let stars = document.getElementById('stars')
+    let moon = document.getElementById('moon')
+    let mountains_behind = document.getElementById('mountains_behind')
+    let text = document.getElementById('text')
+    let btn = document.getElementById('btn')
+    let mountains_front = document.getElementById('mountains_front')
+    let header = document.querySelector('header')
+
+    window.addEventListener('scroll', function () {
+      let value = window.scrollY
+      mountains_behind.style.top = value * 0.5 + 'px'
+      mountains_front.style.top = value * 0 + 'px'
+      text.style.marginRight = value * 4 + 'px'
+      text.style.marginTop = value * 1.5 + 'px'
+      btn.style.marginTop = value * 1.5 + 'px'
+      header.style.top = value * 0.5 + 'px'
+    })
+  </script>
+</body>
