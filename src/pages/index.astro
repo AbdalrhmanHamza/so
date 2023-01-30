@@ -62,7 +62,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
                           {post.frontmatter.title}
                         </h2>
                       </header>
-                      <time>{post.frontmatter.createdAt}</time>
+                      <span>{post.frontmatter.createdAt}</span>
                     </article>
                   </a>
                 </li>
