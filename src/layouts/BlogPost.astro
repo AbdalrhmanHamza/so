@@ -7,7 +7,6 @@ import Content from '../components/Content.astro'
 import Scroll from '../components/scroll.astro'
 import Share from '../components/share.astro'
 import Comments from '../components/comments.astro'
-import Video from '../components/video.astro'
 import Tags from './DropdownMenu'
 import '../styles/styles.css'
 
@@ -118,7 +117,6 @@ const nextPost =
     <Comments client:load />
     <Scroll />
     <Share />
-    <!-- <Video /> -->
     <Footer />
     <script is:inline>
       let videos = document.getElementsByTagName('video')

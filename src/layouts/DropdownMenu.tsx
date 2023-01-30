@@ -1,6 +1,4 @@
-// import { Menu, Transition } from '@headlessui/react'
 import React, { Fragment } from 'react'
-// import DropdownMenuItem from './DropdownMenuItem'
 
 interface Props {
   tags: string[]
