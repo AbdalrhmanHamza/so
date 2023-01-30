@@ -65,7 +65,6 @@ const nextPost =
       keywords={keywords}
     />
   </head>
-
   <Body>
     <Header />
     <main class="pt-[56px]">
@@ -119,8 +118,20 @@ const nextPost =
     <Comments client:load />
     <Scroll />
     <Share />
-    <Video />
+    <!-- <Video /> -->
     <Footer />
+    <script is:inline>
+      let videos = document.getElementsByTagName('video')
+      for (let i = 0; i < videos.length; i++) {
+        videos[i].addEventListener('mouseenter', function () {
+          this.play()
+        })
+        videos[i].addEventListener('mouseleave', function () {
+          this.pause()
+        })
+      }
+    </script>
   </Body>
+
 
 </html>
