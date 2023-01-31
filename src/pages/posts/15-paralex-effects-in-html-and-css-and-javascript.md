@@ -238,21 +238,21 @@ let scene = new ScrollMagic.Scene({
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/15-parallax-effects/1.parallax-effect/demo" target="_blank">
         <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/1-parallax.zip" download>
         <span class="dark:bg-pink-900">Download (2.36 mb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -299,10 +299,10 @@ first html code
     <header>
       <a href="#" class="logo">Logo</a>
       <ul>
-        <li><a href="#" class="active">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Work</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="#" class="active">Home</a></div>
+        <li><a href="#">About</a></div>
+        <li><a href="#">Work</a></div>
+        <li><a href="#">Contact</a></div>
       </ul>
     </header>
     <section>
@@ -559,21 +559,21 @@ window.addEventListener('scroll', function () {
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/posts/demos/15-parallax-effects/2.parallax-effect/demo" target="_blank">
         <span class="dark:bg-pink-900">Demo</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/2.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (866 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -606,21 +606,21 @@ Made by **isladjan**, CreatedAt ( June 27, 2020 )
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/isladjan/pen/abdyPBw" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/3.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (31.3 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -651,13 +651,13 @@ Made by **Tom Miller**, CreatedAt ( **June 3, 2020** ) .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/creativeocean/pen/qBbBLyB" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 </br>
 
 </center>
@@ -689,21 +689,21 @@ Created by **Fernando Cohen**, CreatedAt **August 23, 2022** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/designfenix/pen/xxWeEQV" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/5.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (5.96 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -734,21 +734,21 @@ Created by **Tobias Reich**, CreatedAt **NOVEMBER 17, 2016** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/electerious/pen/gLLozQ" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/6.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (2.85 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -779,21 +779,21 @@ Created by **Mirko Zorić**, CreatedAt **June 10, 2017**.
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/fluxus/pen/rweVgp" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/7.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (7.09 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -824,21 +824,21 @@ Created by **Manuel Madeira**, CreatedAt **June 28, 2016** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/mmadeira/pen/jrBxpE" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/8.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (5.37 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -869,21 +869,21 @@ Created by **Jack Rugile**, CreatedAt **January 28, 2013** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/jackrugile/pen/DrOZoY" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/9-parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (4.57 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -914,21 +914,21 @@ Created by **Bruno Carvalho**, CreatedAt **December 4, 2017** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/bcarvalho/pen/WXmwBq" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/10.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (14.5 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -959,21 +959,21 @@ Created by **Stephen Koller**, CreatedAt **MARCH 26, 2017** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/StephenKoller/pen/LWBLNW" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/11.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (3.69 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -1004,13 +1004,13 @@ Created by **GreenSock**, CreatedAt **February 9, 2022** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/GreenSock/pen/XWzRraJ" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -1041,21 +1041,21 @@ Created by **oscicen**, CreatedAt **January 10, 2019** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/oscicen/pen/zyJeJw" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/13.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (2.46 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -1086,21 +1086,21 @@ Created by **Ivan Grozdic**, CreatedAt **January 20, 2019** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/ig_design/pen/GPVXVx" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/14.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (5.78 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
@@ -1131,21 +1131,21 @@ Created by **Abubaker Saeed**, CreatedAt **November 6, 2019** .
 
 <center>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="https://codepen.io/AbubakerSaeed/pen/rNNdvqz" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
-</li>
+</div>
 
-<li class="content__item" style="display: inline; padding: 10px;">
+<div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/15-parallax-effects/15.parallax-effect.zip" download>
         <span class="dark:bg-pink-900">Download (3.91 kb)</span>
     </a>
     </button>
-</li>
+</div>
 
 </center>
 
