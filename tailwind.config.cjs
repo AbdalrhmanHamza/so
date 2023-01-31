@@ -18,6 +18,12 @@ module.exports = {
         pink: {
           900: '#E8A754',
           800: '#f7e0bc'
+        },
+        prenext: {
+          900: '#f5f5f5b2',
+          800: '#e4e2e2d8',
+          700: '#494949',
+          600: '#c9c9c9ea'
         }
       },
       fontFamily: {
