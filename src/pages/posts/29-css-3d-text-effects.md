@@ -405,7 +405,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![Lines and layered css text effects](/posts/dimensions-text-effect-lines.png)
+![Lines and layered css text effects](/posts/dimensions-text-effect-lines.webp)
 
 </br>
 
@@ -432,7 +432,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text Lighting & Shadows](/posts/14-3d-text-effects.png)
+![3D Text Lighting & Shadows](/posts/14-3d-text-effects.webp)
 
 </br>
 
@@ -555,7 +555,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-!['80s Inspired Pure CSS graphics image](/posts/18-3d-text-effects.png)
+!['80s Inspired Pure CSS graphics image](/posts/18-3d-text-effects.webp)
 
 </br>
 
@@ -582,7 +582,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text Effect + Ambient light](/posts/ambient-light-text-effect.png)
+![3D Text Effect + Ambient light](/posts/ambient-light-text-effect.webp)
 
 </br>
 
@@ -641,7 +641,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3d stroke text effect](/posts/21-3d-text-effects.png)
+![3d stroke text effect](/posts/21-3d-text-effects.webp)
 
 </br>
 
@@ -668,7 +668,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![Super Discount](/posts/22-3d-text-effects.png)
+![Super Discount](/posts/22-3d-text-effects.webp)
 
 </br>
 
@@ -727,7 +727,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text - Mouse effect](/posts/24-3d-text-effects.png)
+![3D Text - Mouse effect](/posts/24-3d-text-effects.webp)
 
 </br>
 
@@ -754,7 +754,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text](/posts/25-3d-text-effects.png)
+![3D Text](/posts/25-3d-text-effects.webp)
 
 </br>
 
@@ -781,7 +781,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![Ice Cream Sammy!](/posts/26-3d-text-effects.png)
+![Ice Cream Sammy!](/posts/26-3d-text-effects.webp)
 
 </br>
 
@@ -808,7 +808,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![code animated](/posts/27-3d-text-effects.png)
+![code animated](/posts/27-3d-text-effects.webp)
 
 </br>
 
@@ -835,7 +835,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![CSS 3D Text ](/posts/28-3d-text-effects.png)
+![CSS 3D Text ](/posts/28-3d-text-effects.webp)
 
 </br>
 
@@ -862,7 +862,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text](/posts/29-3d-text-effects.png)
+![3D Text](/posts/29-3d-text-effects.webp)
 
 </br>
 
