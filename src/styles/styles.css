@@ -130,6 +130,7 @@ html {
   position: fixed;
   top: 50%;
   transform: translateY(-50%);
+  z-index: 100;
 }
 .share-btn-container a i {
   font-size: 32px;
@@ -304,7 +305,7 @@ video {
   background: #e7e7e7;
   border: none;
   padding: 1.5rem 3rem;
-  margin: 0;
+  margin: 10px;
   font-family: inherit;
   font-size: inherit;
   position: relative;
