@@ -65,6 +65,7 @@ export class CopyCodeButton extends LitElement {
       <button
         role="button"
         aria-pressed="true"
+        title="copy code button"
         focusable="false"
         @click=${this.copyCode}
       >
