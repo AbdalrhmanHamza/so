@@ -23,7 +23,8 @@ module.exports = {
           900: '#f5f5f5b2',
           800: '#e4e2e2d8',
           700: '#494949',
-          600: '#c9c9c9ea'
+          600: '#c9c9c9ea',
+          500: '#2b2b2b94'
         }
       },
       fontFamily: {
