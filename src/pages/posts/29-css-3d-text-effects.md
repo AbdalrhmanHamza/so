@@ -137,7 +137,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D-Text with Text-Shadow](/posts/4-3d-text-effects.png)
+![3D-Text with Text-Shadow](/posts/4-3d-text-effects.webp)
 
 </br>
 
@@ -164,7 +164,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![SCSS 3D text mixin](/posts/5-3d-text-effects.png)
+![SCSS 3D text mixin](/posts/5-3d-text-effects.webp)
 
 </br>
 
@@ -191,7 +191,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![Single element, multi coloured 3d text effect](/posts/6-3d-text-effects.png)
+![Single element, multi coloured 3d text effect](/posts/6-3d-text-effects.webp)
 
 </br>
 
@@ -378,7 +378,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![](/posts/12-3d-text-effects.png)
+![Scss 3D Text Mixin](/posts/12-3d-text-effects.webp)
 
 </br>
 
