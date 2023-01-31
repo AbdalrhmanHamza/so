@@ -346,15 +346,10 @@ video {
 .prev-next-button {
   padding: 8px 19px;
   border-radius: 4px;
-  background-color: #f5f5f5b2;
   text-decoration: none;
-  color: #333;
   font-size: 18px;
   margin: 0 10px;
   transition: background-color 0.2s ease;
-}
-.prev-next-button:hover {
-  background-color: #e5e5e5;
 }
 .prev-next-button .title {
   font-weight: bold;
@@ -369,7 +364,4 @@ video {
     text-align: center;
     margin-bottom: 8px;
   }
-}
-.satr {
-  color: #6b6b6b;
 }

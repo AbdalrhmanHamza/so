@@ -93,7 +93,10 @@ const nextPost =
     <div class="prev-next-buttons">
       {
         previousPost && (
-          <a href={previousPost.url} class="prev-next-button prev-button">
+          <a
+            href={previousPost.url}
+            class="prev-next-button prev-button bg-prenext-900 hover:bg-prenext-800 dark:bg-transparent dark:hover:bg-transparent dark:hover:text-white"
+          >
             <i class="fas fa-arrow-left" />
             <span class="satr">Previous Post: </span>
             <span class="prev-next-button-title">
@@ -104,7 +107,10 @@ const nextPost =
       }
       {
         nextPost && (
-          <a href={nextPost.url} class="prev-next-button next-button">
+          <a
+            href={nextPost.url}
+            class="prev-next-button next-button bg-prenext-900 hover:bg-prenext-800 dark:bg-transparent dark:hover:bg-transparent dark:hover:text-white"
+          >
             <i class="fas fa-arrow-right" />
             <span class="satr">Next Post: </span>
             <span class="prev-next-button-title">
