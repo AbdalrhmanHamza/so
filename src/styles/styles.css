@@ -311,7 +311,6 @@ video {
   position: relative;
   display: inline-block;
 }
-
 .button::before,
 .button::after {
   position: absolute;
@@ -326,7 +325,6 @@ video {
   padding: 0;
   border-radius: 5px;
 }
-
 .button--pandora span {
   display: block;
   background: #a7a7a7;
@@ -337,7 +335,6 @@ video {
   transform: translate3d(-4px, -4px, 0);
   transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
 }
-
 .button--pandora:hover span {
   transform: translate3d(-8px, -8px, 0);
 }
@@ -348,7 +345,6 @@ video {
   width: 65%;
   margin: auto;
 }
-
 .prev-next-button {
   padding: 8px 19px;
   border-radius: 4px;
@@ -359,11 +355,9 @@ video {
   margin: 0 10px;
   transition: background-color 0.2s ease;
 }
-
 .prev-next-button:hover {
   background-color: #e5e5e5;
 }
-
 .prev-next-button .title {
   font-weight: bold;
   margin-left: 8px;
@@ -372,7 +366,6 @@ video {
   .prev-next-buttons {
     flex-wrap: wrap;
   }
-
   .prev-next-button {
     width: 100%;
     text-align: center;
