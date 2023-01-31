@@ -135,39 +135,6 @@ const nextPost =
         })
       }
     </script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"
-      integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-      is:inline
-    ></script>
-    <script is:inline>
-      jQuery.event.special.touchstart = {
-        setup: function (_, ns, handle) {
-          this.addEventListener('touchstart', handle, {
-            passive: !ns.includes('noPreventDefault')
-          })
-        }
-      }
-      jQuery.event.special.touchmove = {
-        setup: function (_, ns, handle) {
-          this.addEventListener('touchmove', handle, {
-            passive: !ns.includes('noPreventDefault')
-          })
-        }
-      }
-      jQuery.event.special.wheel = {
-        setup: function (_, ns, handle) {
-          this.addEventListener('wheel', handle, { passive: true })
-        }
-      }
-      jQuery.event.special.mousewheel = {
-        setup: function (_, ns, handle) {
-          this.addEventListener('mousewheel', handle, { passive: true })
-        }
-      }
-    </script>
   </Body>
 
 
