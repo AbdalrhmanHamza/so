@@ -62,7 +62,7 @@ export class CopyCodeButton extends LitElement {
 
   render() {
     return html`
-      <button @click=${this.copyCode}>
+      <button role="copybutton" @click=${this.copyCode}>
         ${this._isCopied ? checkIcon : copyIcon}
       </button>
     `
