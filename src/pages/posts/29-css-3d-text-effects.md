@@ -862,7 +862,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![3D Text](/posts/29-3d-text-effects.webp)
+![3D Text](/posts/29-3d-text-effects.web)
 
 </br>
 
