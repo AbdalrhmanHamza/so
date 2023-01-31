@@ -46,7 +46,7 @@ Collection of Html and CSS 3d text effects. hand picked from codepen.io. and oth
 
 </br>
 
-![Layered fonts in css using Rig Shaded](/posts/magic-text-effect.png)
+![Layered fonts in css using Rig Shaded](/posts/magic-text-effect.webp)
 
 </br>
 
