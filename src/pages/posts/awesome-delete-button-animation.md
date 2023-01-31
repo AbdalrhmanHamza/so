@@ -11,7 +11,7 @@ tags:
   - CSS
   - JavaScript
   - Frontend Development
-heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.png
+heroImage: /posts/hero-images/heroimg-awesome-buttons-animation.webp
 slug: awesome-delete-button-animation
 ---
 

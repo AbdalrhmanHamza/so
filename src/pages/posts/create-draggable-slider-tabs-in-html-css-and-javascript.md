@@ -11,7 +11,7 @@ tags:
   - CSS
   - JavaScript
   - Frontend Development
-heroImage: /posts/hero-images/heroimg-draggable-tabs-edit.png
+heroImage: /posts/hero-images/heroimg-draggable-tabs-edit.webp
 slug: create-draggable-slider-tabs-in-html-css-and-javascript
 ---
 
