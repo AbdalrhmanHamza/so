@@ -277,7 +277,7 @@ let scene = new ScrollMagic.Scene({
 
 Made with: **Html / CSS / JS**
 
-original tutorial on youtube <a href="https://www.youtube.com/watch?v=1wfeqDyMUx4" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank" aria-describedby="tutorial on youtube" aria-label="tutorial on youtube">**Here**</a>.
+original tutorial on youtube <a href="https://www.youtube.com/watch?v=1wfeqDyMUx4" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank" aria-describedby="tutorial on youtube" aria-label="tutorial on youtube">Here</a>.
 
 Source code for this effect:
 
