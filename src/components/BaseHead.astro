@@ -7,7 +7,6 @@ export interface Props {
   description: string
   image?: string
 }
-
 const {
   title,
   description,
@@ -18,7 +17,7 @@ const {
 } = Astro.props
 ---
 
-<!-- google analytics --><!-- Google tag (gtag.js) -->
+<!-- google analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3HV9XKE9BW"
 ></script>
 <script type="text/partytown">
@@ -79,11 +78,7 @@ const {
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
-<!-- fontawesome librarys -->
-<!-- <link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
-/> -->
+<!-- fontawesome library -->
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
