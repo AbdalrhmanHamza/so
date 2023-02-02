@@ -8,9 +8,13 @@ import { SITE_TITLE, SITE_DESCRIPTION, SITE_KEYWORDS } from '../config'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import { Image } from '@astrojs/image/components'
+import type { BlogPostFrontmatter } from '../types'
+import { formatDate } from '../utils'
 import '../styles/max.css'
 
-const posts = (await Astro.glob('./posts/*.md')).sort(
+const allposts = await Astro.glob<BlogPostFrontmatter>('./posts/*.md')
+
+const posts = allposts.sort(
   (a: any, b: any) =>
     new Date(b.frontmatter.createdAt).valueOf() -
     new Date(a.frontmatter.createdAt).valueOf()
@@ -62,7 +66,7 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
                           {post.frontmatter.title}
                         </h2>
                       </header>
-                      <span>{post.frontmatter.createdAt}</span>
+                      <span>{formatDate(post.frontmatter.createdAt)}</span>
                     </article>
                   </a>
                 </li>
@@ -94,4 +98,6 @@ const posts = (await Astro.glob('./posts/*.md')).sort(
       }
     </script>
   </Body>
+
+
 </html>
