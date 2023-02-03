@@ -12,6 +12,7 @@ tags:
   - CSS
   - JavaScript
   - Frontend Development
+  - Code Pen
 heroImage: /posts/hero-images/hero-image-15-parallax-effects-1-1.webp
 slug: 15-paralex-effects-in-html-and-css-and-javascript
 ---

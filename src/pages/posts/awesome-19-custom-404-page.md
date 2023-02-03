@@ -10,6 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
+  - Code Pen
 heroImage: /posts/hero-images/heroimage-19-404-page.webp
 slug: 19-awasome-custom-404-page
 ---

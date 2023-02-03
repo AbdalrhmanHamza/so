@@ -10,6 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
+  - Code Pen
 heroImage: /posts/hero-images/heroimage-10-css-hover-buttons-styles.webp
 slug: 10-css-buttons-styles
 ---

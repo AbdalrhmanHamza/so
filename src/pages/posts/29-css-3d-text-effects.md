@@ -10,6 +10,7 @@ tags:
   - HTML
   - CSS
   - Frontend Development
+  - Code Pen
 heroImage: /posts/hero-images/magic-text-effect.webp
 slug: 29-awasome-css-3d-text-effects
 ---
