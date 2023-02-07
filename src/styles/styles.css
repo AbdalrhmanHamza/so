@@ -199,13 +199,6 @@ html {
   flex-direction: column;
   justify-content: space-between;
 }
-/* .card span {
-  font-size: 12px;
-  font-weight: bold;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin: 2em 0 0 0;
-} */
 .card time {
   font-size: 12px;
   font-weight: bold;
