@@ -8,7 +8,6 @@ import Footer from '../components/Footer.astro'
 import Header from '../components/Header.astro'
 import { formatDate } from '../utils'
 import '../styles/max.css'
-import '../styles/styles.css'
 import { SITE_DESCRIPTION, SITE_TITLE } from '../config'
 
 export interface Props {
@@ -62,7 +61,7 @@ const posts = (await Astro.glob('../pages/posts/*.md'))
                           {post.frontmatter.title}
                         </h2>
                       </header>
-                      <span>{formatDate(post.frontmatter.createdAt)}</span>
+                      <time>{formatDate(post.frontmatter.createdAt)}</time>
                     </article>
                   </a>
                 </li>
