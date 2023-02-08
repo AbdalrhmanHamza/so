@@ -1,9 +1,9 @@
 ---
 description: 21 hand-picked Responsive Navbar styles in HTML, CSS and JavaScript.
-keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, navbar styles.
+keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Navbar styles.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 21 nav bar styles in HTML, CSS and JavaScript
+title: 21 Navbar styles in HTML, CSS and JavaScript
 createdAt: Tue, 07 Feb 2023 18:45:56 GMT
 updatedAt: Tue, 07 Feb 2023 18:45:56 GMT
 tags:
