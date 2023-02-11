@@ -32,9 +32,7 @@ Hi in this post I will show you awesome nav bar styles made with HTML, CSS and J
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/1-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -77,9 +75,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/2-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -122,9 +118,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/3-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -167,9 +161,7 @@ Responsive : **no**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/4-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -212,9 +204,7 @@ Responsive : **no**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/5-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -249,9 +239,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/6-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -294,9 +282,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/7-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -339,9 +325,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/8-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -384,9 +368,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/9-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -429,9 +411,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/10-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -474,9 +454,7 @@ Responsive : **no**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/11-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -519,9 +497,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/12-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -564,9 +540,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/13-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -609,9 +583,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/14-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -654,9 +626,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/15-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -699,9 +669,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/16-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -736,9 +704,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/17-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -781,9 +747,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/18-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -826,9 +790,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/19-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -871,9 +833,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/20-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -916,9 +876,7 @@ Responsive : **yes**
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/37-nav-bar-styles/21-37-nav-bar-styles.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
