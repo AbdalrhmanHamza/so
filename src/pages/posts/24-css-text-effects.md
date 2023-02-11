@@ -227,7 +227,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <a href="https://codepen.io/mandymichael/pen/bWqyMN" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/magic-text-effect.png" 
+hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/magic-text-effect.webp" 
 alt="cube effect" title="https://codepen.io/mandymichael/pen/bWqyMN" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
@@ -259,7 +259,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <a href="https://codepen.io/joepk/pen/DJEqGY" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/
-ambient-light-text-effect.png" title="https://codepen.io/joepk/pen/DJEqGY"
+ambient-light-text-effect.webp" title="https://codepen.io/joepk/pen/DJEqGY"
 alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
