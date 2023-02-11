@@ -58,9 +58,7 @@ Hi, in this post I will show you amazing parallax effects made in HTML, CSS and 
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/first-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/first-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -268,9 +266,7 @@ let scene = new ScrollMagic.Scene({
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/2-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/2-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -589,9 +585,7 @@ window.addEventListener('scroll', function () {
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/3-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/3-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -636,9 +630,7 @@ Made by **isladjan**, CreatedAt ( June 27, 2020 )
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/4-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/4-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -674,9 +666,7 @@ Made by **Tom Miller**, CreatedAt ( **June 3, 2020** ) .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/5-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/5-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -719,9 +709,7 @@ Created by **Fernando Cohen**, CreatedAt **August 23, 2022** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/6-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/6-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -764,9 +752,7 @@ Created by **Tobias Reich**, CreatedAt **NOVEMBER 17, 2016** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/7-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/7-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -809,9 +795,7 @@ Created by **Mirko Zorić**, CreatedAt **June 10, 2017**.
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/8-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/8-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -854,9 +838,7 @@ Created by **Manuel Madeira**, CreatedAt **June 28, 2016** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/9-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/9-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -899,9 +881,7 @@ Created by **Jack Rugile**, CreatedAt **January 28, 2013** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/10-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/10-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -944,9 +924,7 @@ Created by **Bruno Carvalho**, CreatedAt **December 4, 2017** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/11-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/11-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -989,9 +967,7 @@ Created by **Stephen Koller**, CreatedAt **MARCH 26, 2017** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/12-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/12-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -1026,9 +1002,7 @@ Created by **GreenSock**, CreatedAt **February 9, 2022** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/13-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/13-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -1071,9 +1045,7 @@ Created by **oscicen**, CreatedAt **January 10, 2019** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/14-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/14-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
@@ -1116,9 +1088,7 @@ Created by **Ivan Grozdic**, CreatedAt **January 20, 2019** .
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/15-prallax-effects/15-parallax-effect.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/15-prallax-effects/15-parallax-effect.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
