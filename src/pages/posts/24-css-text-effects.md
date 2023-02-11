@@ -196,7 +196,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <a href="https://codepen.io/mandymichael/pen/vxmKpz" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/
-dimensions-text-effect-lines.png" title="https://codepen.io/mandymichael/pen/vxmKpz"
+dimensions-text-effect-lines.webp" title="https://codepen.io/mandymichael/pen/vxmKpz"
 alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
