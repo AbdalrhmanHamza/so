@@ -17,7 +17,7 @@ slug: 24-css-text-effects
 
 </br>
 
-Collection of Html and CSS text effects hand picked from codepen.io.
+Collection of HTML and CSS text effects hand-picked from codepen.io.
 
 </br>
 
@@ -107,7 +107,7 @@ Collection of Html and CSS text effects hand picked from codepen.io.
 
 <a href="https://codepen.io/lynnandtonic/pen/PoaYgMO" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/cube-effect-text.png" 
-alt="cube effect" title="https://codepen.io/lynnandtonic/pen/PoaYgMO" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Cube effect" title="https://codepen.io/lynnandtonic/pen/PoaYgMO" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -137,7 +137,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 <a href="https://codepen.io/jh3y/pen/mdXLjzG" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/underline-text-effect.
 png" title="https://codepen.io/jh3y/pen/mdXLjzG"
-alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Word Underline effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -167,7 +167,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 <a href="https://codepen.io/mandymichael/pen/aJLYVz" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/Flickering-text-effect.
 png" title="https://codepen.io/mandymichael/pen/aJLYVz"
-alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Flickering Light Text Effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -197,7 +197,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 <a href="https://codepen.io/mandymichael/pen/vxmKpz" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/
 dimensions-text-effect-lines.webp" title="https://codepen.io/mandymichael/pen/vxmKpz"
-alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Lines and layered css text effects" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -228,7 +228,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <a href="https://codepen.io/mandymichael/pen/bWqyMN" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/magic-text-effect.webp" 
-alt="cube effect" title="https://codepen.io/mandymichael/pen/bWqyMN" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Layered fonts in css using Rig Shaded" title="https://codepen.io/mandymichael/pen/bWqyMN" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -260,7 +260,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 <a href="https://codepen.io/joepk/pen/DJEqGY" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/
 ambient-light-text-effect.webp" title="https://codepen.io/joepk/pen/DJEqGY"
-alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="3D Text Effect + Ambient light" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
@@ -417,7 +417,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <a href="https://codepen.io/mandymichael/pen/XRMQyX" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/florish-text-effect.png" 
-alt="Flickering Light Text Effect" title="https://codepen.io/mandymichael/pen/XRMQyX" class="border border-slate-300 dark:border-zinc-700 rounded-xl 
+alt="Home Layered flourish fonts" title="https://codepen.io/mandymichael/pen/XRMQyX" class="border border-slate-300 dark:border-zinc-700 rounded-xl 
 mb-6"></a>
 
 </br>
@@ -833,7 +833,7 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 <a href="https://codepen.io/haridang/pen/oLwKjj" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank"><img src="/posts/
 text-effects-elastic-stroke-for-blogspot.png" title="https://codepen.io/haridang/pen/oLwKjj"
-alt="cube effect" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
+alt="Text Effects Elastic Stroke" class="border border-slate-300 dark:border-zinc-700 rounded-xl mb-6"></a>
 
 </br>
 
