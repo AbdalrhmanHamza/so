@@ -352,10 +352,9 @@ video {
   margin: 0 10px;
   transition: background-color 0.2s ease;
 }
-/* .prev-next-button .title {
-  font-weight: bold;
-  margin-left: 8px;
-} */
+.prev-next-button-title {
+  font-weight: 700;
+}
 @media (max-width: 900px) {
   .prev-next-buttons {
     flex-wrap: wrap;
