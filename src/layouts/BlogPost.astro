@@ -94,8 +94,9 @@ const nextPost =
             href={previousPost.url}
             class="prev-next-button prev-button bg-prenext-900 hover:bg-prenext-800 dark:bg-prenext-500 dark:hover:bg-transparent dark:hover:text-white"
           >
-            <i class="fas fa-arrow-left" />
-            <span class="satr">Previous Post: </span>
+            <span class="satr">
+              <i class="fas fa-arrow-left" /> Previous Post
+            </span>
             <span class="prev-next-button-title">
               {previousPost.frontmatter.title}
             </span>
@@ -108,8 +109,9 @@ const nextPost =
             href={nextPost.url}
             class="prev-next-button next-button bg-prenext-900 hover:bg-prenext-800 dark:bg-prenext-500 dark:hover:bg-transparent dark:hover:text-white"
           >
-            <i class="fas fa-arrow-right" />
-            <span class="satr">Next Post: </span>
+            <span class="satr">
+              Next Post <i class="fas fa-arrow-right" />
+            </span>
             <span class="prev-next-button-title">
               {nextPost.frontmatter.title}
             </span>

@@ -347,14 +347,15 @@ video {
   padding: 8px 19px;
   border-radius: 4px;
   text-decoration: none;
+  text-align: left;
   font-size: 18px;
   margin: 0 10px;
   transition: background-color 0.2s ease;
 }
-.prev-next-button .title {
+/* .prev-next-button .title {
   font-weight: bold;
   margin-left: 8px;
-}
+} */
 @media (max-width: 900px) {
   .prev-next-buttons {
     flex-wrap: wrap;
@@ -362,6 +363,12 @@ video {
   .prev-next-button {
     width: 100%;
     text-align: center;
+    text-align: left;
     margin-bottom: 8px;
   }
+}
+.satr {
+  display: block;
+  text-align: left;
+  margin-bottom: 7px;
 }
