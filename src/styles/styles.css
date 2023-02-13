@@ -353,7 +353,7 @@ video {
   transition: background-color 0.2s ease;
 }
 .prev-next-button-title {
-  font-weight: 700;
+  font-weight: 600;
 }
 @media (max-width: 900px) {
   .prev-next-buttons {
