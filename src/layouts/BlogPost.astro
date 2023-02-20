@@ -7,6 +7,7 @@ import Content from '../components/Content.astro'
 import Scroll from '../components/scroll.astro'
 import Share from '../components/share.astro'
 import Comments from '../components/comments.astro'
+import Zoom from './image-zoom.astro'
 import Tags from './DropdownMenu'
 import { formatDate } from '../utils'
 import '../styles/styles.css'
@@ -71,7 +72,7 @@ const nextPost =
           {
             heroImage && (
               <img
-                class="pinterest-img border border-slate-300 dark:border-zinc-700 rounded-md"
+                class="pinterest-img zoom border border-slate-300 dark:border-zinc-700 rounded-md"
                 width={720}
                 height={360}
                 src={heroImage}
@@ -120,6 +121,7 @@ const nextPost =
       }
     </div>
     <Comments client:load />
+    <Zoom />
     <Scroll />
     <Share />
     <Footer />
