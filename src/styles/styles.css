@@ -371,3 +371,6 @@ video {
   text-align: left;
   margin-bottom: 7px;
 }
+.zoom {
+  z-index: 100;
+}
