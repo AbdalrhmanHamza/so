@@ -1,6 +1,7 @@
 ---
 import ThemeToggle from './ThemeToggleButton'
 import DropdownMenu from './DropdownMenu'
+import { Icon } from 'astro-icon'
 
 const allPosts = await Astro.glob('../pages/posts/*.md')
 const allTags = new Set<string>()
@@ -19,6 +20,19 @@ allPosts.map(post => {
         </h2>
       </a>
       <div class="flex-1"></div>
+      <a
+        href="/rss.xml"
+        class="hover:underline ml-3 font-semibold"
+        target="_blank"
+      >
+        <Icon
+          style="display:inline;"
+          class="hover:text-red-900"
+          name="tabler:rss"
+          width="23"
+          height="23"
+        />
+      </a>
       <ThemeToggle client:visible />
       <DropdownMenu client:visible tags={Array.from(allTags)} />
     </nav>
