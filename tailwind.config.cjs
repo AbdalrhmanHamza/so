@@ -25,6 +25,13 @@ module.exports = {
           700: '#494949',
           600: '#c9c9c9ea',
           500: '#2b2b2b94'
+        },
+        red: {
+          900: '#CD7F32'
+        },
+        facebook: {
+          900: '#3982E4',
+          800: '#1D9BF0'
         }
       },
       fontFamily: {
