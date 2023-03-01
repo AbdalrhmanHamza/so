@@ -1,11 +1,25 @@
 ---
-import { HOMEPAGE_URL } from '../config'
+import { HOMEPAGE_URL, SITE_TITLE } from '../config'
+import { Icon } from 'astro-icon'
 
 const today = new Date()
 ---
 
 <footer class="p-4 text-center footer-top">
   &copy; {today.getFullYear()}
-  <a href={HOMEPAGE_URL}>Solutions Blog</a>. All rights reserved.
+  <a href={HOMEPAGE_URL}>{SITE_TITLE}</a>. All rights reserved.
+  <a
+    href="/rss.xml"
+    class="hover:underline ml-3 font-semibold hover:text-red-900"
+    target="_blank"
+  >
+    Subscribe to RSS <Icon
+      style="display:inline;"
+      class="hover:text-red-900"
+      name="tabler:rss"
+      width="23"
+      height="23"
+    />
+  </a>
 </footer>
 <!-- text-zinc-500 -->
