@@ -4,6 +4,7 @@ keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, custom
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 19 Awesome Custom 404 pages in HTML and CSS.
+pubDate: Wed, 04 Jan 2023 21:08:08 GMT
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
 updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
 tags:

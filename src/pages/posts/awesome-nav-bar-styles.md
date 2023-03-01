@@ -4,6 +4,7 @@ keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Desi
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 21 Navbar styles in HTML, CSS and JavaScript
+pubDate: Tue, 07 Feb 2023 18:45:56 GMT
 createdAt: Tue, 07 Feb 2023 18:45:56 GMT
 updatedAt: Tue, 07 Feb 2023 18:45:56 GMT
 tags:

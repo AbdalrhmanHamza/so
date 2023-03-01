@@ -4,7 +4,7 @@ keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Desi
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 15 Parallax Effects in HTML, CSS, and JavaScript
-createdAtmeta: Tue, 24 Jan 2023 14:07:29 GMT
+pubDate: Mon, 30 Jan 2023 11:53:35 GMT
 createdAt: Mon, 30 Jan 2023 11:53:35 GMT
 updatedAt: Mon, 30 Jan 2023 11:53:35 GMT
 tags:
