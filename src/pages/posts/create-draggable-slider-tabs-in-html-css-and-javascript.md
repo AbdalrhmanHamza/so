@@ -4,7 +4,6 @@ keywords: frontend development, HTML, CSS, JavaScript,
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Create Draggable Slider Tabs In HTML, CSS and JavaScript.
-pubDate: Tue, 10 Jan 2023 16:52:07 GMT
 createdAt: Tue, 10 Jan 2023 16:52:07 GMT
 updatedAt: Tue, 10 Jan 2023 16:52:07 GMT
 tags:
