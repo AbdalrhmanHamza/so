@@ -1,9 +1,9 @@
 ---
-description: 19 awesome 404 page template code examples in HTML and CSS. Collection of 404 page template code examples in HTML and CSS. Hand-picked from codepen.io.
+description: 19 HTML and CSS 404 Page Templates. Collection of 404 page template code examples in HTML and CSS. Hand-picked from codepen.io.
 keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, custom 404 page in HTML and CSS.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 19 Awesome Custom 404 pages in HTML and CSS.
+title: 19 HTML and CSS 404 Page Templates.
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
 updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
 tags:
@@ -12,12 +12,12 @@ tags:
   - Frontend Development
   - Code Pen
 heroImage: /posts/hero-images/heroimage-19-404-page.webp
-slug: 19-awasome-custom-404-page
+slug: 19-404-page
 ---
 
 </br>
 
-Collection of 404 page template code examples in HTML and CSS. Hand-picked from codepen.io.
+Collection of **HTMl** and **CSS** 404 page template code examples. Hand-picked from codepen.io.
 
 </br>
 
