@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: 19 HTML and CSS 404 Page Templates.
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
-updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
+updatedAt: Tue, 07 Mar 2023 07:54:14 GMT
 tags:
   - HTML
   - CSS
