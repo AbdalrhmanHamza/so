@@ -1,6 +1,6 @@
 ---
 description: Create Draggable Slider Tabs In HTML, CSS and JavaScript. You may have seen the draggable slider on several websites like YouTube. If you were asking how can I make this slider on my website, here I will show you how to make this slider using HTML and CSS, and JavaScript.
-keywords: frontend development, HTML, CSS, JavaScript,
+keywords: frontend development, HTML, CSS, JavaScript, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Create Draggable Slider Tabs In HTML, CSS and JavaScript.

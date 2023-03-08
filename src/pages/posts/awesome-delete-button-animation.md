@@ -1,6 +1,6 @@
 ---
 description: awesome Delete Button Animation using HTMl and CSS and Javascript.
-keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend.
+keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
 title: Awesome Delete Button Animation using HTMl and CSS and Javascript.

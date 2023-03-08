@@ -1,6 +1,6 @@
 ---
 description: 15 Parallax effects in HTML, CSS, and JavaScript. Collection of hand-picked parallax effects made with HTML, CSS, and JavaScript hand-picked from codepen.io and YouTube and other resources.
-keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Solutions Blog, solutions blog
+keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 15 Parallax Effects in HTML, CSS, and JavaScript

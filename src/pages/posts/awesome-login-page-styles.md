@@ -1,6 +1,6 @@
 ---
 description: 57+ Login Page templates examples in HTML and CSS.
-keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Solutions Blog, solutions blog
+keywords: HTML, CSS, JavaScript, HTML and CSS Login Page, Web Development, Frontend Development, Web Design, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 57+ Login Page templates examples in HTML and CSS
