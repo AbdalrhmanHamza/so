@@ -1,4 +1,6 @@
 ---
+import { SITE_TITLE } from '../config'
+
 export interface Props {
   title: string
   keywords: string
@@ -48,7 +50,7 @@ const {
 />
 <meta name="generator" content={Astro.generator} />
 <meta name="theme-color" content="#ffffff" />
-<meta name="author" content="Solutions Blog" />
+<meta name="author" content={SITE_TITLE} />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="language" content="English" />
 <meta
@@ -67,7 +69,7 @@ const {
 <meta property="og:locale" content="en_US" />
 <meta property="og:article:modified_time" content={createdAt} />
 <meta property="og:updated_time" content={updatedAt} />
-<meta property="og:site_name" content="Solutions Blog" />
+<meta property="og:site_name" content={SITE_TITLE} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={new URL(image, Astro.url)} />
 <meta property="og:image:url" content={new URL(image, Astro.url)} />
