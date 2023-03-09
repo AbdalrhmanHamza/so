@@ -20,7 +20,7 @@ slug: login-page
 
 Hi, in this post I will show you 57+ login page templates made in **HTML and CSS**. **Hand-Picked** from **codepen.io** and other resources.
 
-> Note: These 57+ login pages are \*\*hand-picked from codepen.io and other resources.
+> Note: These 57+ login pages are hand-picked from codepen.io and other resources.
 
 ---
 
