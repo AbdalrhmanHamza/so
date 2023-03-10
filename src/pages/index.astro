@@ -59,7 +59,11 @@ const posts = allposts.sort(
                         src={post.frontmatter.heroImage}
                         width={720 * 2}
                         aspectRatio={2.0}
-                        alt={'Thumbnail' + ` : ${post.frontmatter.title}`}
+                        alt={'Post Thumbnail' + ` : ${post.frontmatter.title}`}
+                        title={
+                          'Demo Image Thumbnail' +
+                          ` : ${post.frontmatter.title}`
+                        }
                       />
                     </figure>
                     <article>
