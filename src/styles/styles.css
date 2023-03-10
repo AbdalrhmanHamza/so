@@ -65,6 +65,9 @@ pre copy-code-button {
   position: relative;
   display: block;
 }
+.categories {
+  text-align: center;
+}
 .max-w-4xl {
   max-width: 62rem;
 }
