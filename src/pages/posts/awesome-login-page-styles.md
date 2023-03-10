@@ -12,7 +12,7 @@ tags:
   - JavaScript
   - Code Pen
   - Frontend Development
-heroImage: /posts/hero-images/hero-image-login-page-styles.png
+heroImage: /posts/57-40-login-page-templates.png
 slug: login-page
 ---
 
