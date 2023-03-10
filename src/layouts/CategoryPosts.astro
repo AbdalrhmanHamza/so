@@ -52,7 +52,11 @@ const posts = (await Astro.glob('../pages/posts/*.md'))
                         src={post.frontmatter.heroImage}
                         width={720 * 2}
                         aspectRatio={1.9}
-                        alt={'Thumbnail' + ` : ${post.frontmatter.title}`}
+                        alt={'Post Thumbnail' + ` : ${post.frontmatter.title}`}
+                        title={
+                          'Demo Image Thumbnail' +
+                          ` : ${post.frontmatter.title}`
+                        }
                       />
                     </figure>
                     <article>
