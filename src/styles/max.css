@@ -1,8 +1,28 @@
 .max-w-4xl {
-  max-width: 77rem;
+  max-width: 88rem;
+}
+.text-size {
+  font-family: Google Sans, Segoe UI, system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+  font-size: clamp(1.25rem, 1.11rem + 0.71vw, 1.75rem);
+  line-height: 1.2;
+  text-align: left;
+}
+.desc-mar {
+  margin-top: 25px;
+  line-height: 1.4;
+}
+.active-anchor {
+  transition: 0.25s;
+}
+.active-anchor:active {
+  filter: brightness(0.9);
+}
+.active-anchor:hover {
+  filter: brightness(0.9);
 }
 .round {
-  border: 2px solid;
+  border: 1px solid #585b63;
 }
 .search-container {
   position: relative;

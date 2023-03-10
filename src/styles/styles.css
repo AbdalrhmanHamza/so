@@ -36,7 +36,8 @@ pre copy-code-button {
   white-space: normal;
   line-height: 1.1;
 }
-div {
+.tags,
+.date {
   text-align: center;
   font-size: 1.2rem;
 }
@@ -47,11 +48,11 @@ div {
   color: #e07171;
   padding-bottom: 1rem;
 }
-img {
+.hero {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+  width: 95%;
 }
 .border-top {
   background-color: rgba(226, 232, 240, var(--bg-opacity));
@@ -156,7 +157,7 @@ html {
 .share-btn-container .fa-whatsapp {
   color: #25d366;
 }
-@media (max-width: 1200px) {
+@media (max-width: 1460px) {
   .content {
     padding: 8px 32px;
   }
@@ -180,17 +181,12 @@ html {
   margin: 25px;
 }
 .card {
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   display: flex;
   flex-direction: column;
   min-height: 100%;
   position: relative;
   top: 0;
   transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
-}
-.card:hover {
-  top: -5px;
-  box-shadow: 0 4px 60px 0 rgba(0, 0, 0, 0.2);
 }
 .card article {
   padding: 20px;
@@ -219,8 +215,11 @@ html {
 }
 .thumb {
   position: relative;
-  width: 100%;
-  border-radius: 7px 7px 0 0;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  border-radius: 5px;
 }
 .commentss {
   position: relative;

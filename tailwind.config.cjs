@@ -13,7 +13,7 @@ module.exports = {
           800: '#D9D9D9'
         },
         sharedark: {
-          900: '#000'
+          900: '#242428'
         },
         pink: {
           900: '#E8A754',
@@ -32,6 +32,10 @@ module.exports = {
         facebook: {
           900: '#3982E4',
           800: '#1D9BF0'
+        },
+        cardbg: {
+          900: '#1e1e22',
+          100: '#F8F9FA'
         }
       },
       fontFamily: {

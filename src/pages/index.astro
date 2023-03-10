@@ -51,6 +51,48 @@ const posts = allposts.sort(
           <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
             {
               posts.map(post => (
+                <li class="text-center mb-4 list-group-item round card dark:hover:bg-cardbg-900 hover:bg-cardbg-100">
+                  <a href={post.url}>
+                    <a href={post.url} class="active-anchor">
+                      <figure>
+                        <Image
+                          class="thumb"
+                          src={post.frontmatter.heroImage}
+                          width={720 * 2}
+                          aspectRatio={1.9}
+                          alt={
+                            'Post Thumbnail' + ` : ${post.frontmatter.title}`
+                          }
+                          title={
+                            'Post Thumbnail' + ` : ${post.frontmatter.title}`
+                          }
+                        />
+                      </figure>
+                    </a>
+                    <article>
+                      <header>
+                        <h2 class="mt-3 text-size dark:text-white ">
+                          <a href={post.url} class="hover:underline">
+                            {post.frontmatter.title}
+                          </a>
+                        </h2>
+                        <p class="font-normal dark:text-white desc-mar opacity-90 text-left ">
+                          {post.frontmatter.description}
+                        </p>
+                      </header>
+                      <time class=" font-sans">
+                        {formatDate(post.frontmatter.createdAt)}
+                      </time>
+                    </article>
+                    <a href={post.url} />
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+          <!-- <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+            {
+              posts.map(post => (
                 <li class="text-center mb-4 list-group-item">
                   <a href={post.url} class="round card">
                     <figure>
@@ -78,7 +120,7 @@ const posts = allposts.sort(
                 </li>
               ))
             }
-          </ul>
+          </ul> -->
         </section>
       </Content>
     </main>
