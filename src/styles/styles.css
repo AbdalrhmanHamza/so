@@ -18,10 +18,10 @@ pre copy-code-button {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
-::selection {
+/* ::selection {
   color: black;
   background: #ffff99;
-}
+} */
 .text-2xl {
   font-size: 1.5rem;
   color: rgba(34, 41, 47, var(--text-opacity));
