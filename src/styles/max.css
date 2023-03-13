@@ -13,7 +13,7 @@
   line-height: 1.4;
 }
 .active-anchor {
-  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+  transition: 0.15s;
 }
 .active-anchor:hover {
   filter: brightness(0.9);
