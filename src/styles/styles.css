@@ -132,7 +132,6 @@ html {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   position: fixed;
   top: 50%;
-  margin-top: 50px;
   transform: translateY(-50%);
   z-index: 100;
 }
@@ -168,6 +167,7 @@ html {
   .share-btn-container {
     position: sticky;
     transform: unset;
+    margin-top: 50px;
     top: unset;
     left: 0;
     bottom: 0;
