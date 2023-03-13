@@ -35,6 +35,7 @@ module.exports = {
         },
         cardbg: {
           900: '#1e1e22',
+          800:'#2a2a30',
           100: '#F8F9FA'
         }
       },
