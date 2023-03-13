@@ -12,13 +12,7 @@
   margin-top: 25px;
   line-height: 1.4;
 }
-.active-anchor {
-  transition: 0.25s;
-}
 .active-anchor:active {
-  filter: brightness(0.9);
-}
-.active-anchor:hover {
   filter: brightness(0.9);
 }
 .round {

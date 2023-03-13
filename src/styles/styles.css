@@ -190,7 +190,6 @@ html {
   min-height: 100%;
   position: relative;
   top: 0;
-  transition: all 0.25s cubic-bezier(0.02, 0.01, 0.47, 1);
 }
 .card article {
   padding: 20px;
