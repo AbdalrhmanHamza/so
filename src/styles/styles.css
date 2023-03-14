@@ -376,9 +376,9 @@ video {
 /* .zoom {
   z-index: 100;
 } */
-.zoom {
+/* .zoom {
   z-index: 10000;
-}
-.medium-zoom--opened .medium-zoom-overlay {
+} */
+/* .medium-zoom--opened .medium-zoom-overlay {
   z-index: 9999;
-}
+} */
