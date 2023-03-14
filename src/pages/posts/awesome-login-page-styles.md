@@ -1,11 +1,11 @@
 ---
-description: 57+ Login Forms in HTML and CSS. Collection of free login forms templates examples handpicked from codepen.io and other resources.
+description: Collection of Login Forms Code examples in HTML and CSS. Hand-Picked from codepen.io and other resources.
 keywords: HTML, CSS, JavaScript, HTML and CSS Login Page, Web Development, Frontend Development, Web Design, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 57+ Login Forms in HTML and CSS
 createdAt: Tue, 07 Mar 2023 21:08:32 GMT
-updatedAt: Fri, 10 Mar 2023 10:14:40 GMT
+updatedAt: Tue, 14 Mar 2023 11:26:40 GMT
 tags:
   - HTML
   - CSS
@@ -18,9 +18,7 @@ slug: login-page
 
 </br>
 
-Hi, in this post I will show you 57+ login page templates made in **HTML and CSS**. **Hand-Picked** from **codepen.io** and other resources.
-
-> Note: These 57+ login pages are hand-picked from codepen.io and other resources.
+Collection of Login Forms Code examples in **HTML and CSS**. Hand-Picked from **codepen.io** and other resources.
 
 ---
 
