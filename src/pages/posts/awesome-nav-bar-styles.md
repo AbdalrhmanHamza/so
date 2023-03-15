@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: 21 Navigation Bar in HTML, CSS and JavaScript
 createdAt: Tue, 07 Feb 2023 18:45:56 GMT
-updatedAt: Tue, 07 Feb 2023 18:45:56 GMT
+updatedAt: Wed, 15 Mar 2023 07:51:11 GMT
 tags:
   - HTML
   - CSS
