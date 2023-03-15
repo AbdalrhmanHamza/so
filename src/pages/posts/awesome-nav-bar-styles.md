@@ -1,9 +1,9 @@
 ---
-description: 21 hand-picked Responsive Navbar styles in HTML, CSS and JavaScript.
+description: Collection of Navigation Bar Code examples in HTML, CSS and JavaScript. hand-picked from codepen.io and other resources.
 keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Navbar styles.
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 21 Navbar styles in HTML, CSS and JavaScript
+title: 21 Navigation Bar in HTML, CSS and JavaScript
 createdAt: Tue, 07 Feb 2023 18:45:56 GMT
 updatedAt: Tue, 07 Feb 2023 18:45:56 GMT
 tags:
@@ -19,9 +19,9 @@ slug: nav-bar-styles
 
 </br>
 
-Hi in this post I will show you awesome nav bar styles made with HTML, CSS and JavaScript. You can use in your projects and website. This nav bars are hand-picked from codepen.io and GitHub and other resources.
+Collection of Navigation Bar Code examples in **HTML, CSS and JavaScript**. hand-picked from codepen.io and other resources.
 
-> Note: This nav bars are hand-picked from codepen.io and other resources.
+> Collection of Navigation Bar Code examples in **HTML, CSS and JavaScript**.
 
 ---
 
