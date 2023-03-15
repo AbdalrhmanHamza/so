@@ -1,9 +1,9 @@
 ---
 description: Collection of 404 page code examples in HTML and CSS. Hand-picked from codepen.io and other resources.
-keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, custom 404 page in HTML and CSS.
+keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, 404 page in HTML and CSS, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
-title: 19 HTML and CSS 404 Page.
+title: 19 HTML and CSS 404 Page Templates
 createdAt: Wed, 04 Jan 2023 21:08:08 GMT
 updatedAt: Tue, 14 Mar 2023 11:03:05 GMT
 tags:
