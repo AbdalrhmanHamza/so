@@ -14,7 +14,7 @@ import { formatBlogPosts } from '../js/utils'
 import '../styles/max.css'
 
 // const allposts = await Astro.glob<BlogPostFrontmatter>('./posts/*.md')
-const allposts = await Astro.glob<BlogPostFrontmatter>('./posts/*.md')
+const allposts = await Astro.glob('./posts/*.md')
 const formattedPosts = formatBlogPosts(allposts)
 
 // const posts = allposts.sort(
