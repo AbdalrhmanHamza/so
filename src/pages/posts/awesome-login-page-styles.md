@@ -1,7 +1,7 @@
 ---
 description: Collection of Login Forms Code examples in HTML and CSS. Hand-Picked from codepen.io and other resources.
 keywords: HTML, CSS, JavaScript, HTML and CSS Login Page, Web Development, Frontend Development, Web Design, Frontend Solutions
-public: true
+draft: false
 layout: ../../layouts/BlogPost.astro
 title: 57+ Login Forms in HTML and CSS
 createdAt: Tue, 07 Mar 2023 21:08:32 GMT
@@ -9,7 +9,6 @@ updatedAt: Tue, 14 Mar 2023 11:26:40 GMT
 tags:
   - HTML
   - CSS
-  - JavaScript
   - Code Pen
   - Frontend Development
 heroImage: /posts/57-40-login-page-templates.png
