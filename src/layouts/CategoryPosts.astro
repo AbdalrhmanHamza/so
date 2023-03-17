@@ -7,6 +7,7 @@ import Content from '../components/Content.astro'
 import Footer from '../components/Footer.astro'
 import Header from '../components/Header.astro'
 import { formatDate } from '../utils'
+import { formatBlogPosts } from '../js/utils'
 import '../styles/max.css'
 import { SITE_DESCRIPTION, SITE_TITLE } from '../config'
 
@@ -16,14 +17,16 @@ export interface Props {
 }
 
 const { category, keywords } = Astro.props
+const allposts = await Astro.glob('../pages/posts/*.md')
+const formattedPosts = formatBlogPosts(allposts)
 
-const posts = (await Astro.glob('../pages/posts/*.md'))
-  .sort(
-    (a, b) =>
-      new Date(b.frontmatter.createdAt).valueOf() -
-      new Date(a.frontmatter.createdAt).valueOf()
-  )
-  .filter(item => item.frontmatter.tags.includes(category))
+// const posts = (await Astro.glob('../pages/posts/*.md'))
+//   .sort(
+//     (a, b) =>
+//       new Date(b.frontmatter.createdAt).valueOf() -
+//       new Date(a.frontmatter.createdAt).valueOf()
+//   )
+//   .filter(item => item.frontmatter.tags.includes(category))
 ---
 
 <!DOCTYPE html>
@@ -43,7 +46,7 @@ const posts = (await Astro.glob('../pages/posts/*.md'))
         <section>
           <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
             {
-              posts.map(post => (
+              formattedPosts.map(post => (
                 <li class="text-center mb-4 list-group-item round card dark:hover:bg-cardbg-800 hover:bg-cardbg-100">
                   <a href={post.url}>
                     <a href={post.url} class="active-anchor">

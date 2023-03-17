@@ -8,17 +8,20 @@ import { SITE_TITLE, SITE_DESCRIPTION, SITE_KEYWORDS } from '../config'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import { Image } from '@astrojs/image/components'
-import type { BlogPostFrontmatter } from '../types'
+// import type { BlogPostFrontmatter } from '../types'
+import { formatBlogPosts } from '../js/utils'
 import { formatDate } from '../utils'
 import '../styles/max.css'
 
-const allposts = await Astro.glob<BlogPostFrontmatter>('./posts/*.md')
+// const allposts = await Astro.glob<BlogPostFrontmatter>('./posts/*.md')
+const allposts = await Astro.glob('./posts/*.md')
+const formattedPosts = formatBlogPosts(allposts)
 
-const posts = allposts.sort(
-  (a: any, b: any) =>
-    new Date(b.frontmatter.createdAt).valueOf() -
-    new Date(a.frontmatter.createdAt).valueOf()
-)
+// const posts = allposts.sort(
+//   (a: any, b: any) =>
+//     new Date(b.frontmatter.createdAt).valueOf() -
+//     new Date(a.frontmatter.createdAt).valueOf()
+// )
 ---
 
 <!DOCTYPE html>
@@ -50,7 +53,7 @@ const posts = allposts.sort(
           <span class="not-found">No posts found.</span>
           <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
             {
-              posts.map(post => (
+              formattedPosts.map(post => (
                 <li class="text-center mb-4 list-group-item round card dark:hover:bg-cardbg-800 hover:bg-cardbg-100">
                   <a href={post.url}>
                     <a href={post.url} class="active-anchor">
