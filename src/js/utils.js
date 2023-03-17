@@ -27,7 +27,11 @@ export function formatBlogPosts(
   const filteredPosts = posts.reduce((acc, post) => {
     const { createdAt, draft } = post.frontmatter
     // filterOutDrafts if true
-    if (filterOutDrafts && draft) return acc
+    // if (filterOutDrafts && draft) return acc
+    if (import.meta.env.PROD) {
+      posts = posts.filter(post => !post.frontmatter.draft)
+      if (filterOutDrafts && draft) return acc
+    }
 
     // filterOutFuturePosts if true
     if (filterOutFuturePosts && new Date(createdAt) > new Date()) return acc
