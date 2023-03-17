@@ -240,7 +240,7 @@ html {
 video {
   width: 90%;
   margin: auto;
-  border-radius: 8px;
+  border-radius: 4px;
 }
 .video-container {
   position: relative;
@@ -256,7 +256,7 @@ video {
   color: #ffffff;
   background-color: #d97272;
   padding: 10px;
-  border-radius: 4px;
+  border-radius: 6px;
   text-align: center;
   pointer-events: none;
 }
