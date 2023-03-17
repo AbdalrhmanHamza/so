@@ -375,3 +375,6 @@ video {
   text-align: left;
   margin-bottom: 7px;
 }
+.button-transition {
+  transition: 0.2s ease-in-out;
+}
