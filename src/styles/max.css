@@ -13,7 +13,7 @@
   line-height: 1.4;
 }
 .active-anchor {
-  transition: 0.18s;
+  transition: 0.15s;
 }
 .active-anchor:hover {
   filter: brightness(0.9);
