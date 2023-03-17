@@ -12,6 +12,12 @@
   margin-top: 25px;
   line-height: 1.4;
 }
+.active-anchor {
+  transition: 0.18s;
+}
+.active-anchor:hover {
+  filter: brightness(0.9);
+}
 .active-anchor:active {
   filter: brightness(0.9);
 }
