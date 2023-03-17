@@ -1,5 +1,5 @@
 ---
-description: Collection of 404 page code examples in HTML and CSS. Hand-picked from codepen.io and other resources.
+description: Collection of 404 pages code examples in HTML and CSS. Hand-picked from codepen.io and other resources.
 keywords: HTML, CSS, JavaScript, FrontendDevelopment, Frontend, 404 page, 404 page in HTML and CSS, Frontend Solutions
 public: true
 layout: ../../layouts/BlogPost.astro
@@ -19,7 +19,7 @@ slug: 19-404-page
 
 <!-- Collection of **HTMl** and **CSS** 404 page template code examples. Hand-picked from codepen.io. -->
 
-Collection of 404 page code examples in **HTML and CSS**. Hand-picked from codepen.io and other resources.
+Collection of 404 Pages code examples in **HTML and CSS**. Hand-picked from codepen.io and other resources.
 </br>
 
 ---
