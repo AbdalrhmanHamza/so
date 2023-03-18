@@ -19,7 +19,7 @@ slug: 29-awasome-css-3d-text-effects
 
 </br>
 
-Collection of Html and CSS 3d text effects. hand picked from codepen.io. and other resources.
+Collection of HTML and CSS 3d text effects. Hand Picked from codepen.io. and other resources.
 
 </br>
 

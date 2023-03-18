@@ -1,11 +1,11 @@
 ---
-description: Here is 24 awasome css text effects with source code and Demo. Collection of awasome text effects made with Html and CSS.
+description: Collection of HTML and CSS text effects examples hand-picked from codepen.io.
 keywords: HTML, CSS, text effects, css text effects, 24, Frontend Development.
 public: true
 layout: ../../layouts/BlogPost.astro
 title: 24 CSS Text Effects
 createdAt: Tue, 03 Jan 2023 09:59:15 GMT
-updatedAt: Fri, 06 Jan 2023 18:50:16 GMT
+updatedAt: Sat, 18 Mar 2023 05:25:41 GMT
 tags:
   - HTML
   - CSS
@@ -17,7 +17,7 @@ slug: 24-css-text-effects
 
 </br>
 
-Collection of HTML and CSS text effects hand-picked from codepen.io.
+Collection of **HTML and CSS** text effects examples. Hand-Picked from codepen.io.
 
 </br>
 
