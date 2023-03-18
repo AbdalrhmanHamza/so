@@ -43,16 +43,6 @@ export default function DropdownMenu({ tags }: Props) {
                 </DropdownMenuItem>
               )
             })}
-            <a
-              href="/posts/15-paralex-effects-in-html-and-css-and-javascript"
-              className="block px-4 py-2 text-sm hover:bg-orange-200 dark:hover:bg-zinc-700"
-              id="headlessui-menu-item-:rb:"
-              role="menuitem"
-              tabindex="-1"
-              data-headlessui-state=""
-            >
-              Parallax Effects
-            </a>
           </div>
         </Menu.Items>
       </Transition>
