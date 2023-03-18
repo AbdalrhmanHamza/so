@@ -5,7 +5,7 @@ draft: false
 layout: ../../layouts/BlogPost.astro
 title: 57+ HTML and CSS Login Forms Templates
 createdAt: Tue, 07 Mar 2023 21:08:32 GMT
-updatedAt: Tue, 14 Mar 2023 11:26:40 GMT
+updatedAt: Sat, 18 Mar 2023 05:25:41 GMT
 tags:
   - HTML
   - CSS
