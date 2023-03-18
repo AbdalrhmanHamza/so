@@ -33,13 +33,13 @@ Collection of **HTML and CSS** text effects examples. Hand-Picked from codepen.i
 
 3- <a href="/posts/awesome-19-custom-404-page" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500" target="_blank">19 awasome custom 404 page in HTML and CSS.</a>
 
-</br>
+<!-- </br>
 
 ---
 
-</br>
+</br> -->
 
-## <center> post sections </center>
+<!-- ## <center> post sections </center>
 
 </br>
 
@@ -89,7 +89,7 @@ Collection of **HTML and CSS** text effects examples. Hand-Picked from codepen.i
 
 [23. CSS Neon Font Text Effect](#23-css-neon-font-text-effect) </br>
 
-[24. Text Effects Elastic Stroke](#24-text-effects-elastic-stroke) </br>
+[24. Text Effects Elastic Stroke](#24-text-effects-elastic-stroke) </br> -->
 
 </br>
 
