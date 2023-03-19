@@ -34,7 +34,7 @@ const filteredPost = allPosts.filter(
 const postTags = filteredPost.frontmatter.tags
 // next and previous posts
 const sortedPosts = allPosts
-  .filter(post => !post.frontmatter.draft)
+  .filter(post => !post.frontmatter.draft || post.frontmatter.title === title)
   .sort(
     (a, b) =>
       new Date(a.frontmatter.createdAt).getTime() -
