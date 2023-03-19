@@ -33,11 +33,13 @@ const filteredPost = allPosts.filter(
 )[0]
 const postTags = filteredPost.frontmatter.tags
 // next and previous posts
-const sortedPosts = allPosts.sort(
-  (a, b) =>
-    new Date(a.frontmatter.createdAt).getTime() -
-    new Date(b.frontmatter.createdAt).getTime()
-)
+const sortedPosts = allPosts
+  .filter(post => !post.frontmatter.draft)
+  .sort(
+    (a, b) =>
+      new Date(a.frontmatter.createdAt).getTime() -
+      new Date(b.frontmatter.createdAt).getTime()
+  )
 const currentIndex = sortedPosts.findIndex(
   post => post.frontmatter.title === title
 )
