@@ -262,6 +262,17 @@ video {
 .video-container:hover .video-text {
   display: none;
 }
+@media (max-width: 460px) {
+  .video-text {
+    font-size: 18px;
+  }
+  video {
+    width: 100%;
+  }
+}
+.img-margin {
+  margin: auto;
+}
 .main {
   margin: 20px;
   font-weight: bold;
