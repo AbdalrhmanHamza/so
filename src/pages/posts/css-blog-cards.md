@@ -12,7 +12,6 @@ tags:
   - Code Pen
   - Frontend Development
 heroImage: /posts/hero-images/css-blog-cards-hero-image.png
-
 slug: css-blog-cards
 ---
 
