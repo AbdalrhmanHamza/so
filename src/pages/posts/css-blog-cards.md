@@ -1004,7 +1004,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 Made with: **Html / CSS (SCSS)**
 
-Created by **John Meguerian**, CreatedAt **December 18, 2017**
+Created by **John Meguerian** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">PRO</span>, CreatedAt **December 18, 2017**
 
 Responsive : **yes**
 
