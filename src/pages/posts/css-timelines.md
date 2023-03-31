@@ -1628,13 +1628,3 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 </br>
 
 ## <center> thanks for reading. </center>
-
-<!-- <span class="bg-yellow-100 text-yellow-800 text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">PRO</span> -->
-
-<!-- <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> -->
-
-<!-- version badge -->
-
-<!-- <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">2.1.3</span> -->
-
-<!-- <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-black">3.2.1</span> -->
