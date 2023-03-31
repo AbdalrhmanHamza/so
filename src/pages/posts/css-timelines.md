@@ -1,8 +1,8 @@
 ---
 description: Collection of HTML and CSS Timeline templates examples. Hand-Picked from codepen.io.It's free to use.
 keywords: HTML, CSS, CSS Timeline, HTML and CSS Timeline templates examples
-draft: true
-inprogress: true
+draft: false
+inprogress: false
 layout: ../../layouts/BlogPost.astro
 title: 37 CSS Timelines Examples
 createdAt: Fri, 31 Mar 2023 22:57:05 GMT
