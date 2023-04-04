@@ -641,7 +641,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-![Demo Image: Responsive Grid Timeline](/posts/15-css-verticle-timeline.png)
+![Demo Image: Responsive Grid Timeline](/posts/15-css-horizontal-timeilne.jpg)
 
 Made with: **Html / CSS (SCSS)**
 
