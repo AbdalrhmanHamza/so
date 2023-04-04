@@ -7,8 +7,6 @@ title: 13 JavaScript Parallax Effects
 createdAt: Mon, 30 Jan 2023 11:53:35 GMT
 updatedAt: Mon, 30 Jan 2023 11:53:35 GMT
 tags:
-  - HTML
-  - CSS
   - JavaScript
   - Frontend Development
   - Code Pen
