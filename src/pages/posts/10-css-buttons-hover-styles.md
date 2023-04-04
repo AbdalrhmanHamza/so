@@ -1,7 +1,7 @@
 ---
 description: 10 CSS Buttons Styles With Source Code. here is 10 awesome CSS Buttons styles Made with HTMl and CSS. in this post you will find the source code and the demo for every button and one demo for all 10 buttons in one page.
 keywords: CSS, Styles, Html, css hover button, CSS and HTML animation, Awesome, hover Buttons animation, Frontend Solutions
-public: true
+draft: true
 layout: ../../layouts/BlogPost.astro
 title: 10 CSS Buttons Styles With Source Code.
 createdAt: Thu, 12 Jan 2023 12:37:15 GMT
