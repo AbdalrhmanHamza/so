@@ -23,14 +23,6 @@ const formattedPosts = formatBlogPosts(posts)
 const allCategories = formattedPosts.filter((item: any) =>
   item.frontmatter.tags.includes(category)
 )
-
-// const posts = (await Astro.glob('../pages/posts/*.md'))
-//   .sort(
-//     (a, b) =>
-//       new Date(b.frontmatter.createdAt).valueOf() -
-//       new Date(a.frontmatter.createdAt).valueOf()
-//   )
-//   .filter(item => item.frontmatter.tags.includes(category))
 ---
 
 <!DOCTYPE html>
@@ -47,7 +39,7 @@ const allCategories = formattedPosts.filter((item: any) =>
     <main class="pt-[56px]">
       <Content>
         <Breadcrumb>{category}</Breadcrumb>
-        <section>
+        <section class="mt-9">
           <ul class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
             {
               allCategories.map(post => (
