@@ -1,10 +1,10 @@
 ---
-description: Collection of HTML, CSS and JavaScript File Uploader templates examples. Hand-Picked from codepen.io.It's free to use.
-keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Frontend Solutions, upload area
+description: Collection of HTML, CSS and JavaScript File Uploader templates, examples. Hand-Picked from codepen.io.It's free to use.
+keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Frontend Solutions, File Uploaders
 draft: false
 inprogress: false
 layout: ../../layouts/BlogPost.astro
-title: 9 JavaScript File Uploader
+title: 9 JavaScript File Uploaders
 createdAt: Thu, 06 Apr 2023 15:56:46 GMT
 updatedAt: Thu, 06 Apr 2023 15:56:46 GMT
 collectionupdatedAt: Thu, 06 Apr 2023 15:56:46 GMT
