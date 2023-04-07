@@ -19,7 +19,7 @@ slug: javascript-file-uploader
 </br>
 </br>
 
-Collection of **HTML, CSS and JavaScript File Uploader** templates, examples. Hand-Picked from codepen.io.**It's free to use**.
+Collection of **HTML, CSS and JavaScript File Uploader** templates, examples. Hand-Picked from codepen.io.
 
 > **Note:** The Collection is 100% free to use.
 
