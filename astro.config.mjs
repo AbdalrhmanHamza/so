@@ -1,6 +1,5 @@
 import { defineConfig } from 'astro/config'
 import robotsTxt from 'astro-robots-txt'
-import partytown from '@astrojs/partytown'
 import sitemap from '@astrojs/sitemap'
 import react from '@astrojs/react'
 import image from '@astrojs/image'
@@ -14,12 +13,6 @@ export default defineConfig({
     sitemap(),
     react(),
     robotsTxt(),
-    partytown({
-      // Adds dataLayer.push as a forwarding-event.
-      config: {
-        forward: ['dataLayer.push']
-      }
-    }),
     image({
       serviceEntryPoint: '@astrojs/image/sharp'
     }),
