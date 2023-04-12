@@ -10,14 +10,9 @@
 }
 .desc-mar {
   margin-top: 25px;
-  line-height: 1.4;
+  line-height: 1.7;
+  color: #585b63;
 }
-/* .active-anchor {
-  transition: 0.15s;
-}
-.active-anchor:hover {
-  filter: brightness(0.9);
-} */
 .active-anchor:active {
   filter: brightness(0.9);
 }
