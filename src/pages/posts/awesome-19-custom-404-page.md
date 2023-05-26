@@ -17,12 +17,6 @@ slug: 19-404-page
 
 </br>
 
-<!-- Collection of **HTMl** and **CSS** 404 page template code examples. Hand-picked from codepen.io. -->
-
-<!-- Collection of 404 Pages code examples in **HTML and CSS**. Hand-picked from codepen.io and other resources. -->
-
-<!-- Collection of **HTML and CSS 404 Page** templates examples. Hand-picked from codepen.io and other resources. -->
-
 Collection of **HTML and CSS 404 Page** template examples. Hand-picked from codepen.io and other resources.
 
 </br>
@@ -52,24 +46,29 @@ Collection of **HTML and CSS 404 Page** template examples. Hand-picked from code
 </br>
 
 <div class="video-container">
-
-<video src="/posts/videos/18-awesome-404-pages-CSS/1-space-404-page.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
+<video src="/posts/videos/18-awesome-404-pages-CSS/1-space-404-page.mp4" muted loop="" preload="metadata" ></video>
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/Jarowe/pen/KNYxKe" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS / JavaScript**
 
-Made with: **Html / CSS / JS**
+Created by **Jared Rowe** , Created At **December 22, 2016**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/Jarowe/pen/KNYxKe" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/1.space-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (2.9 KB)</a> </center>
 
 </br>
 
@@ -84,24 +83,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/2-404-page.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/eroxburgh/pen/zYYyEPg" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS (SCSS) / JavaScript**
 
-Made with: **Html / CSS (SCSS) / JS**
+Created by **Ethan** , Created At **November 18, 2019**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/eroxburgh/pen/zYYyEPg" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/2.space-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (6.4 KB)</a> </center>
 
 </br>
 
@@ -116,24 +120,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/3-404-page.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/rafaelavlucas/pen/NWWQNjZ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS (SCSS) / JavaScript**
 
-Made with: **Html / CSS**
+Created by **Rafaela Lucas** , Created At **November 27, 2019**
+
+Responsive : **yes**
+
+Dependencies : **parallax.js**, **jquery.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/rafaelavlucas/pen/NWWQNjZ" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/3.daily-ui-008404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (9.7 KB)</a> </center>
 
 </br>
 
@@ -146,26 +155,30 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 ## 4. GSAP 404 typed message using SplitText
 
 </br>
-
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/4-404-page.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/selcukcura/pen/XeQpEv" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS (SCSS) / JavaScript**
 
-Made with: **Html / CSS (SCSS) / JS**
+Created by **Selcuk Cura** , Created At **October 21, 2017**
+
+Responsive : **no**
+
+Dependencies : **TweenMax.js** , **jquery.js** , **SplitText.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/selcukcura/pen/XeQpEv" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/4.gsap-404-typed-message-using-splittext.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (5.6 KB)</a> </center>
 
 </br>
 
@@ -180,24 +193,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/5-404-page.mp4" loading="lazy" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/ricardpriet/pen/qVZxNo" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Ricardo Prieto** , Created At **November 4, 2017**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/ricardpriet/pen/qVZxNo" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/5.404-error-example-2.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (4.9 KB)</a> </center>
 
 </br>
 
@@ -213,18 +231,26 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 ![404 page error](/posts/6-404-page.png)
 
-</br>
+Made with: **Html (Pug) / CSS (SCSS)**
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/kylelavery88/pen/pyQNoP" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Created by **Kyle Lavery** , Created At **May 1, 2016**
 
-Made with: **Html / CSS (SCSS)**
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/kylelavery88/pen/pyQNoP" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="https://dribbble.com/shots/2662486-Dubble-Bubble-404-Page" class="underline underline-offset-2 
+hover:text-orange-500 decoration-orange-500" target="_blank">dribbble shot</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/6.bubbley-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (4.1 KB)</a> </center>
 
 </br>
 
@@ -239,24 +265,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/7-404-page.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/ricardpriet/pen/zPqyvY" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Ricardo Prieto** , Created At **November 5, 2017**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/ricardpriet/pen/zPqyvY" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/7.404-error-example-3.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (4.7 KB)</a> </center>
 
 </br>
 
@@ -271,24 +302,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/8-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/jh3y/pen/BaNOJWK" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html (Pug) / CSS (Stylus) / JavaScript (Babel)**
 
-Made with: **Html / CSS (Stylus) / JS (Babel)**
+Created by **Jhey** , Created At **March 22, 2020**
+
+Responsive : **yes**
+
+Dependencies : **react-dom.js**, **react.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/jh3y/pen/BaNOJWK" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/8.404-makes-bear-sad.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (12.4 KB)</a> </center>
 
 </br>
 
@@ -303,24 +339,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/9-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/kdbkapsere/pen/oNXLbqQ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS (SCSS) / JavaScript (Babel)**
 
-Made with: **Html / CSS (SCSS) / JS (Babel)**
+Created by **Kasper De Bruyne** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span>, Created At **February 18, 2020**
+
+Responsive : **yes**
+
+Dependencies : **Bootstrap.css**, **gsap.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/kdbkapsere/pen/oNXLbqQ" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/9.404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (12 KB)</a> </center>
 
 </br>
 
@@ -335,24 +376,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/10-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/kenchen/pen/MWxZVY" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS (Less) / JavaScript**
 
-Made with: **Html / CSS (Less) / JS**
+Created by **Ken Chen**, Created At **October 11, 2014**
+
+Responsive : **no**
+
+Dependencies : **snap.svg.js**, **jquery.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/kenchen/pen/MWxZVY" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/10.illustration-for-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (15 KB)</a> </center>
 
 </br>
 
@@ -372,19 +418,25 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <div class="video-text"> Hover to play </div>
 </div>
-
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/Bidji/pen/rMgQON" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS (SCSS)**
+
+Created by **Bidji** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **October 28, 2016**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/Bidji/pen/rMgQON" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/11.404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (6 KB)</a> </center>
 
 </br>
 
@@ -399,24 +451,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/12-404-page.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/uiswarup/pen/dyoyLOp" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
+Made with: **Html / CSS / JavaScript**
 
-Made with: **Html / CSS / JS**
+Created by **Swarup Kumar Kuila**, Created At **February 7, 2020**
+
+Responsive : **yes**
+
+Dependencies : **bootstrap.css**, **anime.js**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/uiswarup/pen/dyoyLOp" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/12.404-error-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (33 KB)</a> </center>
 
 </br>
 
@@ -431,24 +488,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/13-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/agathaco/pen/WKXREy" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS (SCSS)**
+
+Created by **agathaco**, Created At **July 28, 2018**
+
+Responsive : **yes**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/agathaco/pen/WKXREy" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/13.css-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (8 KB)</a> </center>
 
 </br>
 
@@ -463,24 +525,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/14-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/HighFlyer/pen/LJjzKQ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Thea**, Created At **September 5, 2018**
+
+Responsive : **yes**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/HighFlyer/pen/LJjzKQ" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/14.codepenchallenge-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (4 KB)</a> </center>
 
 </br>
 
@@ -490,29 +557,34 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 <!-- 15 -->
 
-## 15. Neon - 404 Page Not Found
+## 15. Neon 404 Page Not Found
 
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/15-404-page-error.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/Tibixx/pen/GRKmppz" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Tibix** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **August 27, 2019**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/Tibixx/pen/GRKmppz" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/15.neon404-page-not-found.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (6 KB)</a> </center>
 
 </br>
 
@@ -530,16 +602,23 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/igloude/pen/qNNWKr" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS (SCSS)**
+
+Created by **Ian Gloude**, Created At **June 15, 2016**
+
+Responsive : **no**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/igloude/pen/qNNWKr" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/16.bsod-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (3 KB)</a> </center>
 
 </br>
 
@@ -554,24 +633,29 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 </br>
 
 <div class="video-container">
-
 <video src="/posts/videos/18-awesome-404-pages-CSS/17-404-error-page.mp4" muted loop="" preload="metadata" ></video>
-
 <div class="video-text"> Hover to play </div>
 </div>
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/genarocolusso/pen/XWbGMLp" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Genaro Colusso**, Created At **March 31, 2020**
+
+Responsive : **yes**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/genarocolusso/pen/XWbGMLp" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/17.404paozinho.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (13 KB)</a> </center>
 
 </br>
 
@@ -585,20 +669,27 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![404 Error page](/posts/18-404-page-error.png)
+![Demo Image: 404 Error page](/posts/18-404-page-error.png)
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/jkantner/pen/aPLWJm" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS**
+
+Created by **Jon Kantner** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **December 28, 2018**
+
+Responsive : **yes**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/jkantner/pen/aPLWJm" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/18.sad-mac-404-error-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (4 KB)</a> </center>
 
 </br>
 
@@ -612,20 +703,27 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 </br>
 
-![404 Error page](/posts/19-404-page-error.png)
+![Demo Image: 404 Error page](/posts/19-404-page-error.png)
 
 </br>
 
-you can find this effect on codepen.io from
-<a href="https://codepen.io/janmez/pen/LJOdar" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">**Here**</a>
-
 Made with: **Html / CSS (Sass)**
+
+Created by **Janet Mendez**, Created At **September 7, 2018**
+
+Responsive : **yes**
+
+Dependencies : **-**
+
+Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 **<center>Links</center>**
 
 <center> <a href="https://codepen.io/janmez/pen/LJOdar" class="underline underline-offset-2 
 hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+
+<center> <a href="/assets/zip-files/404-page-templates/19.404-errorlost-and-alone-codepenchallenge.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
+ download >Download (6 KB)</a> </center>
 
 </br>
 
