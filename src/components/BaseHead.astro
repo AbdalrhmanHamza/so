@@ -23,13 +23,29 @@ const {
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3HV9XKE9BW"
 ></script>
 <script is:inline>
-  window.dataLayer = window.dataLayer || []
-  function gtag() {
-    dataLayer.push(arguments)
-  }
-  gtag('js', new Date())
+window.dataLayer = window.dataLayer || []
+function gtag() {
+  dataLayer.push(arguments)
+}
+gtag('js', new Date())
 
-  gtag('config', 'G-3HV9XKE9BW')
+gtag('config', 'G-3HV9XKE9BW')
+</script>
+<!-- hotjar --><!-- Hotjar Tracking Code for https://www.solutions-blog.tech -->
+<script is:inline>
+  ; (function (h, o, t, j, a, r) {
+    h.hj =
+      h.hj ||
+      function () {
+        ; (h.hj.q = h.hj.q || []).push(arguments)
+      }
+    h._hjSettings = { hjid: 3526550, hjsv: 6 }
+    a = o.getElementsByTagName('head')[0]
+    r = o.createElement('script')
+    r.async = 1
+    r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv
+    a.appendChild(r)
+  })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=')
 </script>
 <!-- Global Metadata -->
 <meta charset="utf-8" />
@@ -95,19 +111,19 @@ const {
   crossorigin="anonymous"
 />
 <script is:inline>
-  const theme = (() => {
-    if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
-      return localStorage.getItem('theme')
-    }
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      return 'dark'
-    }
-    return 'light'
-  })()
-
-  if (theme === 'light') {
-    document.documentElement.classList.remove('dark')
-  } else {
-    document.documentElement.classList.add('dark')
+const theme = (() => {
+  if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+    return localStorage.getItem('theme')
   }
+  if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    return 'dark'
+  }
+  return 'light'
+})()
+
+if (theme === 'light') {
+  document.documentElement.classList.remove('dark')
+} else {
+  document.documentElement.classList.add('dark')
+}
 </script>
