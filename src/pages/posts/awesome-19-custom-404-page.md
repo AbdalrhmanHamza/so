@@ -52,7 +52,7 @@ Collection of **HTML and CSS 404 Page** template examples. Hand-picked from code
 
 </br>
 
-Made with: **Html / CSS / JavaScript**
+Made with: **HTML / CSS / JavaScript**
 
 Created by **Jared Rowe** , Created At **December 22, 2016**
 
@@ -101,7 +101,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JavaScript**
+Made with: **HTML / CSS (SCSS) / JavaScript**
 
 Created by **Ethan** , Created At **November 18, 2019**
 
@@ -150,7 +150,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JavaScript**
+Made with: **HTML / CSS (SCSS) / JavaScript**
 
 Created by **Rafaela Lucas** , Created At **November 27, 2019**
 
@@ -198,7 +198,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JavaScript**
+Made with: **HTML / CSS (SCSS) / JavaScript**
 
 Created by **Selcuk Cura** , Created At **October 21, 2017**
 
@@ -247,7 +247,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Ricardo Prieto** , Created At **November 4, 2017**
 
@@ -291,7 +291,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![404 page error](/posts/6-404-page.png)
 
-Made with: **Html (Pug) / CSS (SCSS)**
+Made with: **HTML (Pug) / CSS (SCSS)**
 
 Created by **Kyle Lavery** , Created At **May 1, 2016**
 
@@ -348,7 +348,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Ricardo Prieto** , Created At **November 5, 2017**
 
@@ -397,7 +397,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html (Pug) / CSS (Stylus) / JavaScript (Babel)**
+Made with: **HTML (Pug) / CSS (Stylus) / JavaScript (Babel)**
 
 Created by **Jhey** , Created At **March 22, 2020**
 
@@ -446,7 +446,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JavaScript (Babel)**
+Made with: **HTML / CSS (SCSS) / JavaScript (Babel)**
 
 Created by **Kasper De Bruyne** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span>, Created At **February 18, 2020**
 
@@ -495,7 +495,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (Less) / JavaScript**
+Made with: **HTML / CSS (Less) / JavaScript**
 
 Created by **Ken Chen**, Created At **October 11, 2014**
 
@@ -545,7 +545,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 </div>
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Bidji** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **October 28, 2016**
 
@@ -594,7 +594,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS / JavaScript**
+Made with: **HTML / CSS / JavaScript**
 
 Created by **Swarup Kumar Kuila**, Created At **February 7, 2020**
 
@@ -643,7 +643,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **agathaco**, Created At **July 28, 2018**
 
@@ -692,7 +692,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Thea**, Created At **September 5, 2018**
 
@@ -741,7 +741,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Tibix** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **August 27, 2019**
 
@@ -785,7 +785,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![BSOD 404 Page](/posts/16-404-page-error.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Ian Gloude**, Created At **June 15, 2016**
 
@@ -834,7 +834,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Genaro Colusso**, Created At **March 31, 2020**
 
@@ -878,7 +878,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: 404 Error page](/posts/18-404-page-error.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Jon Kantner** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **December 28, 2018**
 
@@ -922,7 +922,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: 404 Error page](/posts/19-404-page-error.png)
 
-Made with: **Html / CSS (Sass)**
+Made with: **HTML / CSS (Sass)**
 
 Created by **Janet Mendez**, Created At **September 7, 2018**
 
