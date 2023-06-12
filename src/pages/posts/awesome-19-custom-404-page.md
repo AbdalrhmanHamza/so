@@ -62,13 +62,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/Jarowe/pen/KNYxKe" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/Jarowe/pen/KNYxKe" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/1.space-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (2.9 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/1.space-404.zip" download>
+        <span class="dark:bg-pink-900">Download (2.9 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -99,13 +111,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/eroxburgh/pen/zYYyEPg" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/eroxburgh/pen/zYYyEPg" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/2.space-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (6.4 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/2.space-404.zip" download>
+        <span class="dark:bg-pink-900">Download (6.4 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -136,13 +160,25 @@ Dependencies : **parallax.js**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/rafaelavlucas/pen/NWWQNjZ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/rafaelavlucas/pen/NWWQNjZ" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/3.daily-ui-008404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (9.7 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/3.daily-ui-008404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (9.7 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -172,13 +208,25 @@ Dependencies : **TweenMax.js** , **jquery.js** , **SplitText.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/selcukcura/pen/XeQpEv" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/selcukcura/pen/XeQpEv" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/4.gsap-404-typed-message-using-splittext.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (5.6 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/4.gsap-404-typed-message-using-splittext.zip" download>
+        <span class="dark:bg-pink-900">Download (5.6 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -209,13 +257,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/ricardpriet/pen/qVZxNo" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/ricardpriet/pen/qVZxNo" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/5.404-error-example-2.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (4.9 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/5.404-error-example-2.zip" download>
+        <span class="dark:bg-pink-900">Download (4.9 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -241,16 +301,33 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/kylelavery88/pen/pyQNoP" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://dribbble.com/shots/2662486-Dubble-Bubble-404-Page" target="_blank">
+        <span class="dark:bg-pink-900">dribbble shot</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="https://dribbble.com/shots/2662486-Dubble-Bubble-404-Page" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">dribbble shot</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/kylelavery88/pen/pyQNoP" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/6.bubbley-404.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (4.1 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/6.bubbley-404.zip" download>
+        <span class="dark:bg-pink-900">Download (4.1 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -281,13 +358,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/ricardpriet/pen/zPqyvY" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/ricardpriet/pen/zPqyvY" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/7.404-error-example-3.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (4.7 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/7.404-error-example-3.zip" download>
+        <span class="dark:bg-pink-900">Download (4.7 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -318,13 +407,25 @@ Dependencies : **react-dom.js**, **react.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/jh3y/pen/BaNOJWK" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/jh3y/pen/BaNOJWK" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/8.404-makes-bear-sad.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (12.4 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/8.404-makes-bear-sad.zip" download>
+        <span class="dark:bg-pink-900">Download (12.4 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -355,13 +456,25 @@ Dependencies : **Bootstrap.css**, **gsap.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/kdbkapsere/pen/oNXLbqQ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/kdbkapsere/pen/oNXLbqQ" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/9.404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (12 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/9.404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (12 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -392,13 +505,25 @@ Dependencies : **snap.svg.js**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/kenchen/pen/MWxZVY" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/kenchen/pen/MWxZVY" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/10.illustration-for-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (15 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/10.illustration-for-404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (15 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -430,13 +555,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/Bidji/pen/rMgQON" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/Bidji/pen/rMgQON" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/11.404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (6 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/11.404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (6 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -467,13 +604,25 @@ Dependencies : **bootstrap.css**, **anime.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/uiswarup/pen/dyoyLOp" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/uiswarup/pen/dyoyLOp" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/12.404-error-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (33 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/12.404-error-page.zip" download>
+        <span class="dark:bg-pink-900">Download (33 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -504,13 +653,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/agathaco/pen/WKXREy" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/agathaco/pen/WKXREy" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/13.css-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (8 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/13.css-404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (8 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -541,13 +702,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/HighFlyer/pen/LJjzKQ" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/HighFlyer/pen/LJjzKQ" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/14.codepenchallenge-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (4 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/14.codepenchallenge-404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (4 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -578,13 +751,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/Tibixx/pen/GRKmppz" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/Tibixx/pen/GRKmppz" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/15.neon404-page-not-found.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (6 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/15.neon404-page-not-found.zip" download>
+        <span class="dark:bg-pink-900">Download (6 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -600,8 +785,6 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 ![BSOD 404 Page](/posts/16-404-page-error.png)
 
-</br>
-
 Made with: **Html / CSS (SCSS)**
 
 Created by **Ian Gloude**, Created At **June 15, 2016**
@@ -612,13 +795,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/igloude/pen/qNNWKr" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/igloude/pen/qNNWKr" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/16.bsod-404-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (3 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/16.bsod-404-page.zip" download>
+        <span class="dark:bg-pink-900">Download (3 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -649,13 +844,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/genarocolusso/pen/XWbGMLp" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/genarocolusso/pen/XWbGMLp" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/17.404paozinho.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (13 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/17.404paozinho.zip" download>
+        <span class="dark:bg-pink-900">Download (13 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -671,8 +878,6 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 ![Demo Image: 404 Error page](/posts/18-404-page-error.png)
 
-</br>
-
 Made with: **Html / CSS**
 
 Created by **Jon Kantner** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span> , Created At **December 28, 2018**
@@ -683,13 +888,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/jkantner/pen/aPLWJm" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/jkantner/pen/aPLWJm" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/18.sad-mac-404-error-page.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (4 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/18.sad-mac-404-error-page.zip" download>
+        <span class="dark:bg-pink-900">Download (4 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
@@ -705,8 +922,6 @@ hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> <
 
 ![Demo Image: 404 Error page](/posts/19-404-page-error.png)
 
-</br>
-
 Made with: **Html / CSS (Sass)**
 
 Created by **Janet Mendez**, Created At **September 7, 2018**
@@ -717,13 +932,25 @@ Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
-**<center>Links</center>**
+<center>
 
-<center> <a href="https://codepen.io/janmez/pen/LJOdar" class="underline underline-offset-2 
-hover:text-orange-500 decoration-orange-500" target="_blank">Demo and code</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="https://codepen.io/janmez/pen/LJOdar" target="_blank">
+        <span class="dark:bg-pink-900">Demo & Code</span>
+    </a>
+    </button>
+</div>
 
-<center> <a href="/assets/zip-files/404-page-templates/19.404-errorlost-and-alone-codepenchallenge.zip" class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500"
- download >Download (6 KB)</a> </center>
+<div class="content__item" style="display: inline; padding: 10px;">
+    <button class="button button--pandora dark:bg-pink-800">
+    <a href="/assets/zip-files/404-page-templates/19.404-errorlost-and-alone-codepenchallenge.zip" download>
+        <span class="dark:bg-pink-900">Download (6 KB)</span>
+    </a>
+    </button>
+</div>
+
+</center>
 
 </br>
 
