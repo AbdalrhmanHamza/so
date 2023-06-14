@@ -1,11 +1,11 @@
 ---
-description: Collection of free HTML and CSS Blog Cards templates. Hand-Picked from codepen.io and other resources.
+description: Collection of free HTML and CSS Blog Cards templates. Hand-Picked from codepen.io and other resources. The Collection is free.
 keywords: HTML, CSS, JavaScript, Web Development, Frontend Development, Web Design, Frontend Solutions, upload area
 draft: false
 layout: ../../layouts/BlogPost.astro
 title: 26 CSS Blog Cards
 createdAt: Fri, 24 Mar 2023 20:31:37 GMT
-updatedAt: Fri, 24 Mar 2023 20:31:37 GMT
+updatedAt: Wed, 14 Jun 2023 11:24:07 GMT
 tags:
   - HTML
   - CSS
@@ -17,7 +17,7 @@ slug: css-blog-cards
 
 </br>
 
-Collection of free **HTML and CSS Blog Cards** templates. Hand-Picked from **codepen.io** and other resources. The blog card component is one of the essential components in any blog because it must show some data like title, publish date, description, and feature image for the readers well and to be easy to read, so here are **26 CSS blog cards templates** you can use them.
+Collection of free **HTML and CSS Blog Cards** templates. Hand-Picked from **codepen.io** and other resources. The blog card component is one of the essential components in any blog because it must show some data like title, publish date, description, and feature image for the readers well and to be easy to read, so here are **26 CSS blog cards templates** you can use them. The Collection is free.
 </br>
 
 </br>
@@ -37,7 +37,7 @@ Collection of free **HTML and CSS Blog Cards** templates. Hand-Picked from **cod
 
 </br>
 
-Made with: **Html (Pug) / CSS (SCSS)**
+Made with: **HTML (Pug) / CSS (SCSS)**
 
 Created by **Joshua**, CreatedAt **July 13, 2020**
 
@@ -81,7 +81,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Battal Şahin**, CreatedAt **January 9, 2022**
 
@@ -128,7 +128,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **vin wu**, CreatedAt **May 11, 2020**
 
@@ -175,7 +175,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html (Pug) / CSS (Less)**
+Made with: **HTML (Pug) / CSS (Less)**
 
 Created by **Daiquiri.io**, CreatedAt **March 1, 2017**
 
@@ -222,7 +222,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS / JS**
+Made with: **HTML / CSS / JS**
 
 Created by **Robin Garbe**, CreatedAt **September 1, 2018**
 
@@ -266,7 +266,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html (Pug) / CSS (Sass)**
+Made with: **HTML (Pug) / CSS (Sass)**
 
 Created by **IMarty**, CreatedAt **January 12, 2016**
 
@@ -321,7 +321,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Booligoosh**, CreatedAt **June 5, 2018**
 
@@ -368,7 +368,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Nodws**, CreatedAt **September 25, 2016**
 
@@ -415,7 +415,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **markelrayes**, CreatedAt **March 27, 2020**
 
@@ -462,7 +462,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Damien Flandrin**, CreatedAt **February 17, 2017**
 
@@ -506,7 +506,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Samir Munjewar**, CreatedAt **November 20, 2018**
 
@@ -553,7 +553,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **themodrnhakr**, CreatedAt **January 14, 2022**
 
@@ -600,7 +600,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Steve Meredith**, CreatedAt **May 5, 2019**
 
@@ -644,7 +644,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Dwayne Franco**, CreatedAt **December 11, 2017**
 
@@ -688,7 +688,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Lyon Etyo**, CreatedAt **July 3, 2021**
 
@@ -732,7 +732,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html (Pug) / CSS (Less)**
+Made with: **HTML (Pug) / CSS (Less)**
 
 Created by **Daiquiri.io**, CreatedAt **March 18, 2017**
 
@@ -779,7 +779,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS / JS**
+Made with: **HTML / CSS / JS**
 
 Created by **Josh Mathis**, CreatedAt **October 26, 2017**
 
@@ -818,7 +818,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Mithicher**, CreatedAt **October 27, 2015**
 
@@ -862,7 +862,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Alex Devero**, CreatedAt **October 23, 2015**
 
@@ -906,7 +906,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Brett**, CreatedAt **October 22, 2018**
 
@@ -950,7 +950,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Zoë Bijl**, CreatedAt **October 11, 2017**
 
@@ -1002,7 +1002,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **John Meguerian** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-gray-700 dark:text-yellow-300 border border-yellow-300">PRO</span>, CreatedAt **December 18, 2017**
 
@@ -1046,7 +1046,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html (Pug)/ CSS (Stylus)**
+Made with: **HTML (Pug)/ CSS (Stylus)**
 
 Created by **Bart Veneman**, CreatedAt **March 6, 2018**
 
@@ -1098,7 +1098,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Veronica**, CreatedAt **May 13, 2018**
 
@@ -1145,7 +1145,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Rotal**, CreatedAt **June 11, 2018**
 
@@ -1192,7 +1192,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Abhishek Mane**, CreatedAt **March 7, 2019**
 
