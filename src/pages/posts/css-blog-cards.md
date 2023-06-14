@@ -134,7 +134,7 @@ Created by **vin wu**, CreatedAt **May 11, 2020**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**, **swiper.css**, **swiper.js**, **jQuery.js**
+Dependencies : **Google Fonts**, **swiper.css**, **swiper.js**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -181,7 +181,7 @@ Created by **Daiquiri.io**, CreatedAt **March 1, 2017**
 
 Responsive : **no**
 
-Dependencies : **Google Fonts**, **icomoon.css**, **bootstrap.css**, **jQuery.js**
+Dependencies : **Google Fonts**, **icomoon.css**, **bootstrap.css**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -738,7 +738,7 @@ Created by **Daiquiri.io**, CreatedAt **March 18, 2017**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**, **bootstrap.css**, **icomoon.css**, **jQuery.js**
+Dependencies : **Google Fonts**, **bootstrap.css**, **icomoon.css**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -785,7 +785,7 @@ Created by **Josh Mathis**, CreatedAt **October 26, 2017**
 
 Responsive : **no**
 
-Dependencies : **Adobe Fonts**, **bootstrap.css**, **jQuery.js**
+Dependencies : **Adobe Fonts**, **bootstrap.css**, **jquery.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -1198,7 +1198,7 @@ Created by **Abhishek Mane**, CreatedAt **March 7, 2019**
 
 Responsive : **yes**
 
-Dependencies : **jQuery.js**, **jQuery-ui.js**
+Dependencies : **jquery.js**, **jquery-ui.js**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
