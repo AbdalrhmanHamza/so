@@ -60,7 +60,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/1.blog-card-design.zip" download>
-        <span class="dark:bg-pink-900">Download (4.64 kb)</span>
+        <span class="dark:bg-pink-900">Download (4.64 KB)</span>
     </a>
     </button>
 </div>
@@ -104,7 +104,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/2.blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.65 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.65 KB)</span>
     </a>
     </button>
 </div>
@@ -151,7 +151,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/3.rwd-blog-card-slider.zip" download>
-        <span class="dark:bg-pink-900">Download (5.42 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.42 KB)</span>
     </a>
     </button>
 </div>
@@ -198,7 +198,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/4.blog-card-transparent-text-animation.zip" download>
-        <span class="dark:bg-pink-900">Download (4.68 kb)</span>
+        <span class="dark:bg-pink-900">Download (4.68 KB)</span>
     </a>
     </button>
 </div>
@@ -245,7 +245,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/5.blog-card-design.zip" download>
-        <span class="dark:bg-pink-900">Download (4.04 kb)</span>
+        <span class="dark:bg-pink-900">Download (4.04 KB)</span>
     </a>
     </button>
 </div>
@@ -297,7 +297,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/6.blog-card-fun.zip" download>
-        <span class="dark:bg-pink-900">Download (5.38 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.38 KB)</span>
     </a>
     </button>
 </div>
@@ -344,7 +344,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/7.blog-posts-card-layout.zip" download>
-        <span class="dark:bg-pink-900">Download (3.52 kb)</span>
+        <span class="dark:bg-pink-900">Download (3.52 KB)</span>
     </a>
     </button>
 </div>
@@ -391,7 +391,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/8.blog-post-item.zip" download>
-        <span class="dark:bg-pink-900">Download (4.59 kb)</span>
+        <span class="dark:bg-pink-900">Download (4.59 KB)</span>
     </a>
     </button>
 </div>
@@ -438,7 +438,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/9.pure-css-blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.89 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.89 KB)</span>
     </a>
     </button>
 </div>
@@ -485,7 +485,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/10.card-ui-css.zip" download>
-        <span class="dark:bg-pink-900">Download (4 kb)</span>
+        <span class="dark:bg-pink-900">Download (4 KB)</span>
     </a>
     </button>
 </div>
@@ -529,7 +529,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/11.responsive-css-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.4 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.4 KB)</span>
     </a>
     </button>
 </div>
@@ -576,7 +576,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/12.css-blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (3.7 kb)</span>
+        <span class="dark:bg-pink-900">Download (3.7 KB)</span>
     </a>
     </button>
 </div>
@@ -623,7 +623,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/13.css-filter-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.85 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.85 KB)</span>
     </a>
     </button>
 </div>
@@ -667,7 +667,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/14.blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.62 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.62 KB)</span>
     </a>
     </button>
 </div>
@@ -711,7 +711,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/15.blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (2.77 kb)</span>
+        <span class="dark:bg-pink-900">Download (2.77 KB)</span>
     </a>
     </button>
 </div>
@@ -755,7 +755,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/16.large-blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (4.24 kb)</span>
+        <span class="dark:bg-pink-900">Download (4.24 KB)</span>
     </a>
     </button>
 </div>
@@ -841,7 +841,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/18.card-article-ui.zip" download>
-        <span class="dark:bg-pink-900">Download (5.39 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.39 KB)</span>
     </a>
     </button>
 </div>
@@ -885,7 +885,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/19.bootstrap-cards-tutorial.zip" download>
-        <span class="dark:bg-pink-900">Download (5.24 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.24 KB)</span>
     </a>
     </button>
 </div>
@@ -929,7 +929,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/20.css-blog-cards.zip" download>
-        <span class="dark:bg-pink-900">Download (6.02 kb)</span>
+        <span class="dark:bg-pink-900">Download (6.02 KB)</span>
     </a>
     </button>
 </div>
@@ -981,7 +981,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/21.earth-news.zip" download>
-        <span class="dark:bg-pink-900">Download (5.06 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.06 KB)</span>
     </a>
     </button>
 </div>
@@ -1025,7 +1025,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/22.card-grid-tutorial.zip" download>
-        <span class="dark:bg-pink-900">Download (5.32 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.32 KB)</span>
     </a>
     </button>
 </div>
@@ -1077,7 +1077,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/23.layout-practise-using-grid.zip" download>
-        <span class="dark:bg-pink-900">Download (6.19 kb)</span>
+        <span class="dark:bg-pink-900">Download (6.19 KB)</span>
     </a>
     </button>
 </div>
@@ -1121,7 +1121,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/24.flexbox-blog-card.zip" download>
-        <span class="dark:bg-pink-900">Download (3.41 kb)</span>
+        <span class="dark:bg-pink-900">Download (3.41 KB)</span>
     </a>
     </button>
 </div>
@@ -1168,7 +1168,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/25.cool-card-hover-effect.zip" download>
-        <span class="dark:bg-pink-900">Download (5.13 kb)</span>
+        <span class="dark:bg-pink-900">Download (5.13 KB)</span>
     </a>
     </button>
 </div>
@@ -1215,7 +1215,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
     <a href="/assets/zip-files/css-blog-cards/26.cards.zip" download>
-        <span class="dark:bg-pink-900">Download (3.6 kb)</span>
+        <span class="dark:bg-pink-900">Download (3.6 KB)</span>
     </a>
     </button>
 </div>
