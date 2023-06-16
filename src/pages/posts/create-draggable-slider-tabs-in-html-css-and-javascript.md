@@ -230,7 +230,7 @@ document.addEventListener('mouseup', dragStop)
 
 Congratulations, you have successfully created the draggable tabs slider using HTML and CSS and JavaScript.
 
-> If you have any questions or suggestions, feel free to leave a comment below.
+<!-- > If you have any questions or suggestions, feel free to leave a comment below. -->
 
 <div class="content__item">
     <button class="button button--pandora dark:bg-pink-800">
