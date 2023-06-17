@@ -19,13 +19,15 @@ slug: css-blog-cards
 
 Collection of free **HTML and CSS Blog Cards** templates. Hand-Picked from **codepen.io** and other resources.
 
+</br>
+
 The blog card component is one of the essential components in any blog because it must show some data like title, publish date, description, and feature image for the readers well and to be easy to read, so here are **26 CSS blog cards templates** you can use them. The Collection is free.
-</br>
 
 </br>
-
----
-
+</br>
+</br>
+</br>
+</br>
 </br>
 
 ## 1. Blog Card Design
