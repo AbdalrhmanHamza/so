@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: 22 Awesome CSS Text Animations
 createdAt: Wed, 04 Jan 2023 09:33:42 GMT
-updatedAt: Sat, 18 Mar 2023 05:25:41 GMT
+updatedAt: Mon, 19 Jun 2023 11:08:37 GMT
 tags:
   - HTML
   - CSS
