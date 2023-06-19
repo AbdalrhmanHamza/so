@@ -17,7 +17,7 @@ slug: css-timelines
 
 Collection of **HTML and CSS Timeline** templates examples. Hand-Picked from codepen.io.**It's free to use**.
 
-> **Note:** The Collection is 100% free to use.
+> **Note:** The Collection is free.
 
 </br>
 
@@ -45,7 +45,7 @@ Collection of **HTML and CSS Timeline** templates examples. Hand-Picked from cod
 
 ![Demo Image: Responsive Vertical Timeline](/posts/1-css-verticle-timelines.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **shimin**, Created At **January 1, 2016**
 
@@ -87,13 +87,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Timeline](/posts/2-css-verticle-timeline.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Web Cifar**, CreatedAt **April 25, 2020**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**
+Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -109,7 +109,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
-    <a href="/assets/zip-files/css-timelines/2.vertical-timeline-using-html-css.zip" download>
+    <a href="/assets/zip-files/css-timelines/2.vertical-timeline-using-HTML-css.zip" download>
         <span class="dark:bg-pink-900">Download (4.1 KB)</span>
     </a>
     </button>
@@ -129,13 +129,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: CSS Vertical Timeline](/posts/3-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Tristan White**, CreatedAt **May 27, 2016**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**
+Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -171,7 +171,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: CSS Vertical Timeline](/posts/4-css-verticle-timeline.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Tara Swenson**, CreatedAt **October 26, 2018**
 
@@ -213,13 +213,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Timeline](/posts/5-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Shireen Taj**, CreatedAt **July 9, 2020**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**
+Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -255,7 +255,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Timeline UI Design](/posts/6-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **bberameric**, CreatedAt **November 2, 2020**
 
@@ -302,7 +302,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (Less) / JS**
+Made with: **HTML / CSS (Less) / JS**
 
 Created by **Josh Holloran**, CreatedAt **August 30, 2012**
 
@@ -349,13 +349,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **radhika prajapati**, CreatedAt **July 6, 2016**
 
 Responsive : **no**
 
-Dependencies : **Google Fonts**, **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">2.2.4</span>
+Dependencies : **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">2.2.4</span>
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -391,7 +391,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Timeline](/posts/9-css-vertical-timeline.png)
 
-Made with: **Html / CSS / JS**
+Made with: **HTML / CSS / JS**
 
 Created by **MO7AMED EL DMRDASH**, CreatedAt **June 6, 2017**
 
@@ -413,7 +413,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
-    <a href="/assets/zip-files/css-timelines/9.advanced-timeline-html-css-javascript.zip" download>
+    <a href="/assets/zip-files/css-timelines/9.advanced-timeline-HTML-css-javascript.zip" download>
         <span class="dark:bg-pink-900">Download (7.3 KB)</span>
     </a>
     </button>
@@ -433,7 +433,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Simple Responsive Vertical Timeline](/posts/10-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Sam Jacobs**, CreatedAt **March 8, 2016**
 
@@ -475,13 +475,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Responsive Vertical Timeline](/posts/11-css-vertical-timeline.png)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **Arnaud Balland**, CreatedAt **June 14, 2016**
 
 Responsive : **yes**
 
-Dependencies : **Google Fonts**, **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">2.2.4</span>
+Dependencies : **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">2.2.4</span>
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -517,7 +517,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Timeline](/posts/12-css-verticle-timeline.png)
 
-Made with: **Html (Pug) / CSS (SCSS)**
+Made with: **HTML (Pug) / CSS (SCSS)**
 
 Created by **Vineeth.TR**, CreatedAt **November 6, 2014**
 
@@ -559,13 +559,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Scroll Timeline](/posts/13-css-verticle-timeline.png)
 
-Made with: **Html (Pug) / CSS (SCSS) / JS (Babel)**
+Made with: **HTML (Pug) / CSS (SCSS) / JS (Babel)**
 
 Created by **Viktor**, CreatedAt **February 18, 2018**
 
 Responsive : **no**
 
-Dependencies : **Google Fonts**, **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">3.2.1</span>
+Dependencies : **jQuery.js** <span class="bg-white text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-zinc-900 dark:text-white dark:border-white border border-black">3.2.1</span>
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -601,13 +601,13 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Timeline Custom Counter with Gradient Border](/posts/14-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **Lauren Chilcote**, CreatedAt **October 27, 2018**
 
 Responsive : **no**
 
-Dependencies : **Google Fonts**
+Dependencies : **-**
 
 Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
@@ -643,7 +643,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Responsive Grid Timeline](/posts/15-css-horizontal-timeilne.jpg)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Shireen Taj**, CreatedAt **July 31, 2020**
 
@@ -693,7 +693,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Vertical Dark Timeline](/posts/16-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Devcrud**, CreatedAt **March 29, 2020**
 
@@ -735,7 +735,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Simple Responsive Vertical Timeline](/posts/17-css-verticle-timeilne.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **hassan kamal**, CreatedAt **March 30, 2016**
 
@@ -777,7 +777,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Simple Timeline](/posts/18-css-verticle-timeilne.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **HTML Codex**, CreatedAt **June 26, 2020**
 
@@ -791,7 +791,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 <div class="content__item" style="display: inline; padding: 10px;">
     <button class="button button--pandora dark:bg-pink-800">
-    <a href="https://codepen.io/htmlcodex/pen/LYGjPgV" target="_blank">
+    <a href="https://codepen.io/HTMLcodex/pen/LYGjPgV" target="_blank">
         <span class="dark:bg-pink-900">Demo & Code</span>
     </a>
     </button>
@@ -819,7 +819,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Timeline](/posts/19-css-verticle-timeine.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **No Mam**, CreatedAt **November 14, 2016**
 
@@ -861,7 +861,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Timeline Scribble](/posts/20-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Michaela**, CreatedAt **April 20, 2014**
 
@@ -903,7 +903,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Verticle Timeline](/posts/21-css-verticle-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Zed Dash** <span class="bg-yellow-200 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span>, CreatedAt **October 29, 2016**
 
@@ -945,7 +945,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Verticle Timeline](/posts/22-css-verticle-tmeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Yago Gonzalez**, CreatedAt **August 19, 2016**
 
@@ -992,7 +992,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 </br>
 
-Made with: **Html / CSS (Sass)**
+Made with: **HTML / CSS (Sass)**
 
 Created by **Peiwen Lu**, CreatedAt **May 14, 2013**
 
@@ -1034,7 +1034,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Simple Responsive Timeline](/posts/24-css-verticle-timeilne.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Brady Wright**, CreatedAt **April 28, 2016**
 
@@ -1086,7 +1086,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Responsive Timeline](/posts/1-css-horizontal-timeline.png)
 
-Made with: **Html / CSS (Sass) / JS**
+Made with: **HTML / CSS (Sass) / JS**
 
 Created by **Clay Larson**, Created At **January 28, 2018**
 
@@ -1128,7 +1128,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Responsive History Timeline](/posts/2-css-horizontal-timeline.jpg)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **Dejan Babić**, CreatedAt **October 12, 2017**
 
@@ -1170,7 +1170,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/3-css-horizontal-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Clint Brown**, CreatedAt **September 29, 2013**
 
@@ -1212,7 +1212,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/4-css-horizontal-timeline.png)
 
-Made with: **Html / CSS / JS**
+Made with: **HTML / CSS / JS**
 
 Created by **Ritesh Kumar**, CreatedAt **December 24, 2015**
 
@@ -1254,7 +1254,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/5-css-horizonta-timeline.png)
 
-Made with: **Html / CSS / JS (Babel)**
+Made with: **HTML / CSS / JS (Babel)**
 
 Created by **Envato Tuts+** <span class="bg-yellow-300 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded">PRO</span>, CreatedAt **April 25, 2017**
 
@@ -1296,7 +1296,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/6-css-horizontal-timeline.jpg)
 
-Made with: **Html / CSS / JS**
+Made with: **HTML / CSS / JS**
 
 Created by **Xin YAO**, CreatedAt **February 18, 2016**
 
@@ -1338,7 +1338,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Panel Timeline](/posts/7-css-horizontal-timeline.jpg)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Jeff Glenn**, CreatedAt **December 22, 2016**
 
@@ -1380,7 +1380,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizonta Timeline](/posts/8-css-horizontal-timeilne.jpg)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **Abhishek Raj**, CreatedAt **October 3, 2017**
 
@@ -1422,7 +1422,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Isometric timeline](/posts/9-css-horizontal-timeline.png)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **Abhishek Raj**, CreatedAt **October 3, 2017**
 
@@ -1464,7 +1464,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/10-css-horizontal-timeilne.png)
 
-Made with: **Html / CSS (SCSS) / JS**
+Made with: **HTML / CSS (SCSS) / JS**
 
 Created by **chrismichaelscott**, CreatedAt **November 11, 2014**
 
@@ -1506,7 +1506,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/11-css-horizontal-timeilne.png)
 
-Made with: **Html / CSS**
+Made with: **HTML / CSS**
 
 Created by **Simto Alev**, CreatedAt **April 9, 2017**
 
@@ -1548,7 +1548,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/12-css-horizontal-timeline.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Charlotte Dann** <span class="bg-yellow-300 text-black text-xs font-medium mr-2 px-2.5 py-0.5 rounded border border-yellow-300">PRO</span>, CreatedAt **July 19, 2013**
 
@@ -1590,7 +1590,7 @@ Compatible browsers : **Chrome**, **Edge**, **Firefox**, **Opera**, **Safari**
 
 ![Demo Image: Horizontal Timeline](/posts/13-css-horizontal-timeilne.png)
 
-Made with: **Html / CSS (SCSS)**
+Made with: **HTML / CSS (SCSS)**
 
 Created by **Joe Maffei**, CreatedAt **May 13, 2020**
 
