@@ -36,8 +36,7 @@ pre copy-code-button {
   white-space: normal;
   line-height: 1.1;
 }
-.tags,
-.date {
+.tags {
   text-align: center;
   font-size: 1.2rem;
 }
@@ -60,7 +59,9 @@ pre copy-code-button {
   border: 1px solid #e2e8f0;
 }
 .date {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
+  color: rgba(0, 0, 0, 0.726);
+  text-align: center;
   padding-bottom: 20px;
   position: relative;
   display: block;
