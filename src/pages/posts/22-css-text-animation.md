@@ -1,7 +1,7 @@
 ---
 description: Collection of HTML and CSS Text animation code examples hand-Picked from codepen.io.
 keywords: CSS, Text, Animation, Html, css text animation, css and html animation.
-public: true
+draft: false
 layout: ../../layouts/BlogPost.astro
 title: 22 Awesome CSS Text Animations
 createdAt: Wed, 04 Jan 2023 09:33:42 GMT
