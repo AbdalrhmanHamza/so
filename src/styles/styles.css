@@ -64,6 +64,7 @@ pre copy-code-button {
 .date {
   font-size: 1.15rem;
   color: rgba(0, 0, 0, 0.726);
+  font-weight: 600;
   text-align: center;
   padding-bottom: 20px;
   position: relative;

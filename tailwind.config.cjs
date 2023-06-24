@@ -19,6 +19,9 @@ module.exports = {
           900: '#E8A754',
           800: '#f7e0bc'
         },
+        date: {
+          200: '#e9e8e7'
+        },
         prenext: {
           900: '#f5f5f5b2',
           800: '#e4e2e2d8',
