@@ -36,6 +36,9 @@ pre copy-code-button {
   white-space: normal;
   line-height: 1.1;
 }
+.left {
+  text-align: left !important;
+}
 .tags {
   text-align: center;
   font-size: 1.2rem;
