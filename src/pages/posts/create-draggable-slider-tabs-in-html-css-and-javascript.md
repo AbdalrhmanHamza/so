@@ -5,7 +5,7 @@ draft: false
 layout: ../../layouts/BlogPost.astro
 title: How To Create Draggable Slider In HTML, CSS and JavaScript 🔥💯
 createdAt: Tue, 10 Jan 2023 16:52:07 GMT
-updatedAt: Sat, 24 Jun 2023 14:34:36 GMT
+updatedAt: Sat, 24 Jun 2023 15:52:27 GMT
 tags:
   - HTML
   - CSS
