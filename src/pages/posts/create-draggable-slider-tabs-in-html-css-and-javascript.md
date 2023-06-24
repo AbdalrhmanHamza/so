@@ -18,7 +18,7 @@ slug: how-to-create-draggable-slider-in-html-css-and-javascript
 
 </br>
 
-Have you ever come across a draggable slider on websites like YouTube and wondered how to implement it on your own website? **Look no further!** In this tutorial, we will walk you through the process of creating a draggable slider using HTML, CSS, and JavaScript.
+Have you ever come across a draggable slider on websites like YouTube and wondered how to implement it on your own website? **Look no further!** In this tutorial, I will walk you through the process of creating a draggable slider using HTML, CSS, and JavaScript.
 
 The draggable slider allows users to slide through different components by either dragging them with the mouse or using the previous and next buttons positioned on the left and right sides of the slider.
 
