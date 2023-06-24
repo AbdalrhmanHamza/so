@@ -12,7 +12,7 @@ tags:
   - JavaScript
   - Tutorials
   - Frontend Development
-heroImage: /posts/hero-images/heroimg-draggable-tabs-edit.webp
+heroImage: /posts/hero-images/draggable-slider.png
 slug: how-to-create-draggable-slider-in-html-css-and-javascript
 ---
 
