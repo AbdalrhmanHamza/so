@@ -128,10 +128,10 @@ const nextPost =
     <script is:inline>
       let videos = document.getElementsByTagName('video')
       for (let i = 0; i < videos.length; i++) {
-        videos[i].addEventListener('mouseover', function () {
+        videos[i].addEventListener('mouseenter', function () {
           this.play()
         })
-        videos[i].addEventListener('mouseout', function () {
+        videos[i].addEventListener('mouseleave', function () {
           this.pause()
         })
         videos[i].addEventListener('touchstart', function () {
