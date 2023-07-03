@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@700&display=swap');
 pre {
   overflow: auto;
   padding: 1rem;
@@ -242,19 +243,24 @@ html {
 .footer-top {
   padding-top: 40px;
 }
-video {
-  width: 90%;
-  margin: auto;
-  border-radius: 4px;
-}
 .video-container {
   position: relative;
+  width: 90%;
+  margin: auto;
+}
+video {
+  width: 100%;
+  border-radius: 4px;
 }
 .video-text {
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  font-family: 'IBM Plex Mono', monospace;
+  transform: translate(-50%, -10%);
+  /* top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
   font-size: 26px;
   font-weight: bold;
   text-align: center;

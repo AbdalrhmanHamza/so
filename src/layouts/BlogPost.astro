@@ -134,6 +134,12 @@ const nextPost =
         videos[i].addEventListener('mouseleave', function () {
           this.pause()
         })
+        videos[i].addEventListener('touchstart', function () {
+          this.play()
+        })
+        videos[i].addEventListener('touchend', function () {
+          this.pause()
+        })
       }
     </script>
   </Body>
