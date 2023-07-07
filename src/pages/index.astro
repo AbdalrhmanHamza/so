@@ -26,6 +26,8 @@ const formattedPosts = formatBlogPosts(allposts)
       title={SITE_TITLE}
       description={SITE_DESCRIPTION}
     />
+    <link rel="preload" href="../styles/max.css" as="style" />
+    <link rel="preload" href="../js/utils" as="script" />
   </head>
   <Body>
     <Header title={SITE_TITLE} />
@@ -112,6 +114,4 @@ const formattedPosts = formatBlogPosts(allposts)
       }
     </script>
   </Body>
-
-
 </html>

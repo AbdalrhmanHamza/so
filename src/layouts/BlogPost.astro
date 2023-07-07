@@ -88,7 +88,7 @@ const nextPost =
         ></span>
       </Content>
     </main>
-    <Tags client:visible tags={Array.from(postTags)} />
+    <Tags tags={Array.from(postTags)} />
     <div class="prev-next-buttons">
       {
         previousPost && (
@@ -128,19 +128,25 @@ const nextPost =
     <script is:inline>
       let videos = document.getElementsByTagName('video')
       for (let i = 0; i < videos.length; i++) {
-        videos[i].addEventListener('mouseenter', function () {
+        let videoText = videos[i]
+          .closest('.video-container')
+          .querySelector('.video-text')
+        videos[i].addEventListener('mouseover', function () {
           this.play()
+          videoText.style.display = 'none'
         })
-        videos[i].addEventListener('mouseleave', function () {
+        videos[i].addEventListener('mouseout', function () {
           this.pause()
+          videoText.style.display = 'block'
         })
         videos[i].addEventListener('touchstart', function () {
           this.play()
+          videoText.style.display = 'none'
         })
         videos[i].addEventListener('touchend', function () {
           this.pause()
+          videoText.style.display = 'block'
         })
-      }
     </script>
   </Body>
 </html>

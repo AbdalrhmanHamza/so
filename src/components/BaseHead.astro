@@ -19,36 +19,9 @@ const {
 } = Astro.props
 ---
 
-<!-- google analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-3HV9XKE9BW"
-></script>
-<script is:inline>
-window.dataLayer = window.dataLayer || []
-function gtag() {
-  dataLayer.push(arguments)
-}
-gtag('js', new Date())
-
-gtag('config', 'G-3HV9XKE9BW')
-</script>
-<!-- Vercel analytics -->
-<script defer src="/_vercel/insights/script.js"></script>
-<!-- hotjar --><!-- Hotjar Tracking Code for https://www.solutions-blog.tech -->
-<script is:inline>
-  ; (function (h, o, t, j, a, r) {
-    h.hj =
-      h.hj ||
-      function () {
-        ; (h.hj.q = h.hj.q || []).push(arguments)
-      }
-    h._hjSettings = { hjid: 3526550, hjsv: 6 }
-    a = o.getElementsByTagName('head')[0]
-    r = o.createElement('script')
-    r.async = 1
-    r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv
-    a.appendChild(r)
-  })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=')
-</script>
+<!-- preload -->
+<link rel="preload" href="../styles/style.css" as="style" />
+<link rel="preload" href="/favicon.svg" as="image" />
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -105,6 +78,36 @@ gtag('config', 'G-3HV9XKE9BW')
 <meta property="twitter:image" content={new URL(image, Astro.url)} />
 <meta name="twitter:image:alt" content={title} />
 <meta name="twitter:domain" content={import.meta.env.SITE} />
+<!-- google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3HV9XKE9BW"
+></script>
+<script is:inline>
+window.dataLayer = window.dataLayer || []
+function gtag() {
+  dataLayer.push(arguments)
+}
+gtag('js', new Date())
+
+gtag('config', 'G-3HV9XKE9BW')
+</script>
+<!-- Vercel analytics -->
+<script defer src="/_vercel/insights/script.js"></script>
+<!-- hotjar --><!-- Hotjar Tracking Code for https://www.solutions-blog.tech -->
+<script is:inline>
+  ; (function (h, o, t, j, a, r) {
+    h.hj =
+      h.hj ||
+      function () {
+        ; (h.hj.q = h.hj.q || []).push(arguments)
+      }
+    h._hjSettings = { hjid: 3526550, hjsv: 6 }
+    a = o.getElementsByTagName('head')[0]
+    r = o.createElement('script')
+    r.async = 1
+    r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv
+    a.appendChild(r)
+  })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=')
+</script>
 <!-- fontawesome library -->
 <link
   rel="stylesheet"
