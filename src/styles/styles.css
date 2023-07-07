@@ -170,7 +170,7 @@ html {
 .share-btn-container .fa-whatsapp {
   color: #25d366;
 }
-@media (max-width: 1310px) {
+@media (max-width: 1460px) {
   .content {
     padding: 8px 32px;
   }
