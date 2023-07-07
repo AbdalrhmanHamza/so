@@ -271,9 +271,6 @@ video {
   text-align: center;
   pointer-events: none;
 }
-/* .video-container:hover .video-text {
-  display: none;
-} */
 @media (max-width: 460px) {
   .video-text {
     font-size: 18px;
