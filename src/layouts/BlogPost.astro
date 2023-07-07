@@ -126,26 +126,27 @@ const nextPost =
     <Share />
     <Footer />
     <script is:inline>
-      let videos = document.getElementsByTagName('video')
+      let videos = document.getElementsByTagName('video');
       for (let i = 0; i < videos.length; i++) {
         let videoText = videos[i]
           .closest('.video-container')
-          .querySelector('.video-text')
-        videos[i].addEventListener('mouseover', function () {
-          this.play()
-          videoText.style.display = 'none'
+          .querySelector('.video-text');
+
+        videos[i].addEventListener('mouseenter', function () {
+          this.play();
+          videoText.style.display = 'none';
         })
-        videos[i].addEventListener('mouseout', function () {
-          this.pause()
-          videoText.style.display = 'block'
+        videos[i].addEventListener('mouseleave', function () {
+          this.pause();
+          videoText.style.display = 'block';
         })
         videos[i].addEventListener('touchstart', function () {
-          this.play()
-          videoText.style.display = 'none'
+          this.play();
+          videoText.style.display = 'none';
         })
         videos[i].addEventListener('touchend', function () {
-          this.pause()
-          videoText.style.display = 'block'
+          this.pause();
+          videoText.style.display = 'block';
         })
     </script>
   </Body>
