@@ -19,10 +19,14 @@ pre copy-code-button {
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
-/* ::selection {
-  color: black;
-  background: #ffff99;
-} */
+.tags-font {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: rgba(34, 41, 47, var(--text-opacity));
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
 .text-2xl {
   font-size: 1.5rem;
   color: rgba(34, 41, 47, var(--text-opacity));
@@ -258,15 +262,12 @@ video {
   left: 50%;
   font-family: 'IBM Plex Mono', monospace;
   transform: translate(-50%, -10%);
-  /* top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
-  font-size: 26px;
-  font-weight: bold;
+  font-size: 1.5em;
   text-align: center;
   color: #ffffff;
   background-color: #000000;
   padding: 10px;
+  border-radius: 5px;
   text-align: center;
   pointer-events: none;
 }
@@ -366,7 +367,7 @@ video {
   justify-content: space-between;
   align-items: center;
   width: 65%;
-  margin: auto;
+  margin: 4rem auto;
 }
 .prev-next-button {
   padding: 8px 19px;

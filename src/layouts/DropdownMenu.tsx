@@ -7,7 +7,7 @@ interface Props {
 export default function Tags({ tags }: Props) {
   return (
     <div className="main tags">
-      <p className="mb-6">
+      <p className="mb-14 tags-font">
         {tags.map(tag => {
           return (
             <a
