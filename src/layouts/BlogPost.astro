@@ -131,11 +131,11 @@ const nextPost =
         let videoText = videos[i]
           .closest('.video-container')
           .querySelector('.video-text')
-        videos[i].addEventListener('mouseover', function () {
+        videos[i].addEventListener('mouseenter', function () {
           this.play()
           videoText.style.display = 'none'
         })
-        videos[i].addEventListener('mouseout', function () {
+        videos[i].addEventListener('mouseleave', function () {
           this.pause()
           videoText.style.display = 'block'
         })
